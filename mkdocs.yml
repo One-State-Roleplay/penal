@@ -1,0 +1,92 @@
+site_name: San Andreas Penal Code
+repo_name: OSRP Penal Code
+repo_url: https://github.com/One-State-Roleplay/penal
+site_author: "One State Roleplay"
+copyright: "© Copyright 2022 by One State Roleplay"
+
+nav:
+    - Table of Contents: 'index.md'
+    - Title 1 - Crimes Against the Person: 'title-1-crimes-against-the-person.md'
+    - Title 2 - Crimes Against Property: 'title-2-crimes-against-property.md'
+    - Title 3 - Crimes Against Public Decency: 'title-3-crimes-against-public-decency.md'
+    - Title 4 - Crimes Against Public Justice: 'title-4-crimes-against-public-justice.md'
+    - Title 5 - Crimes Against Public Peace: 'title-5-crimes-against-public-peace.md'
+    - Title 6 - Crimes Against Public Health and Safety: 'title-6-crimes-against-public-health-and-safety.md'
+    - Title 7 - Crimes Against States Dependents: 'title-7-crimes-against-states-dependents.md'
+    - Title 8 - Vehicular Offense: 'title-8-vehicular-offense.md'
+    - Title 9 - Control of Deadly Weapons and Equipment: 'title-9-control-of-deadly-weapons-and-equipment.md'
+    - Title 10 - Operation of Commercial Motor Vehicles: 'title-10-operation-of-commerical-motor-vehicles.md'
+    - Title 11 - Operation of Aircraft: 'title-11-operation-of-aircraft.md'
+    - Title 12 - Operation of Marine Vessels: 'title-12-operation-of-marine-vessels.md'
+    - Title 13 - Fish and Game: 'title-13-fish-and-game.md'
+    - Title 14 - Operation of The Fire Code: 'title-14-operation-of-the-fire-code.md'
+    - Title 15 - Violations Against the State: 'title-15-violations-against-the-state.md'
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]'
+      prebuild_index: true
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/onestaterp
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/onestateroleplay
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/onestateroleplayofficial
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+    smarty: {}
+    toc:
+        permalink: True
+        separator: "_"
+    sane_lists: {}
