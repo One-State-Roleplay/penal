@@ -32,7 +32,7 @@ A‌ ‌person‌ ‌commits‌ ‌Prostitution‌ ‌when‌ ‌they,‌ ‌
 \
 &#x20;    A violation of 3(03)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{%  style="warning" %}
+
 <mark style="color:yellow;">6 Months</mark>
 
 
