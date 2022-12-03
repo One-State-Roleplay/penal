@@ -8,9 +8,9 @@ No person shall&#x20;
 
 A violation of 15(01) is a <mark ="color:red;">Felony</mark>
 
-{%  ="danger" %}
+  ="danger" 
 A violation of 15(01) carries a penalty of being taken by the FBI into a deep dark hole where you'll never be seen again
-{% end %}
+ end 
 
 ## 15(02). Racketeering
 
@@ -20,9 +20,9 @@ No person shall
 
 A violation of 15(02) is a <mark ="color:red;">Felony</mark>
 
-{%  ="danger" %}
+  ="danger" 
 A violation of 15(02) carries a penalty of <mark ="color:red;">12 months</mark> of incarceration
-{% end %}
+ end 
 
 ## 15(03). Money Laundering Instruments
 
@@ -36,9 +36,9 @@ No person shall
 
 A violation of 15(03) is a <mark ="color:red;">Felony</mark>
 
-{%  ="danger" %}
+  ="danger" 
 A violation of 15(03) carries a penalty of <mark ="color:red;">12 months</mark> of incarceration
-{% end %}
+ end 
 
 ## 15(04). Wiretapping
 
@@ -48,9 +48,9 @@ No person shall
 
 A violation of 15(04) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  ="warning" %}
+  ="warning" 
 A violation of 15(04) carries a penalty of <mark ="color:yellow;">6 months</mark> of incarceration
-{% end %}
+ end 
 
 ## 15(05). Interference with a Transit System
 
@@ -74,13 +74,13 @@ No person shall
 
 A violation of 15(06) may be charged as an <mark ="color:green;">Infraction</mark> or a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  ="success" %}
+  ="success" 
 A violation of 15(05) as an <mark ="color:green;">Infraction</mark> carries a fine of <mark ="color:green;">$175</mark>
-{% end %}
+ end 
 
-{%  ="warning" %}
+  ="warning" 
 A violation of 15(05) as a <mark ="color:yellow;">Misdemeanor</mark> carries a penalty of a <mark ="color:yellow;">Criminal Summons</mark>, or incarceration of <mark ="color:yellow;">1 month</mark>
-{% end %}
+ end 
 
 ## 15(06). Interference with an Active Runway
 
@@ -97,9 +97,9 @@ No person shall
 
 A violation of 15(06) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  ="warning" %}
+  ="warning" 
 A violation of 15(06) carries a penalty of a <mark ="color:green;"><mark ="color:yellow;">Criminal Summons<mark ="color:yellow;"></mark>, or incarceration of <mark ="color:yellow;">1 month</mark>
-{% end %}
+ end 
 
 ## 15(07). Tax Evasion
 
@@ -115,9 +115,9 @@ No person shall
 
 A violation of 15(07) is a <mark ="color:red;">Felony</mark>
 
-{%  ="danger" %}
+  ="danger" 
 A violation of 15(07) carries a penalty of <mark ="color:red;">12 months</mark> of incarceration
-{% end %}
+ end 
 
 ## 15(08). Intentional Damage to State Infrastructure
 
@@ -125,7 +125,7 @@ No person shall&#x20;
 
 &#x20;    a) attempt‌ ‌to or‌ ‌maliciously‌ damage,‌ ‌move,‌ ‌displace,‌ ‌injure,‌ ‌interfere ‌with‌ ‌any‌ ‌State‌ ‌infrastructure
 
-{%  ="info" %}
+  ="info" 
 State Infrastructure is defined as:
 
 &#x20;   i) Dam‌ ‌walls ‌and‌ ‌accompanying ‌equipment‌ ‌and‌ ‌utilities‌ ‌&#x20;
@@ -147,16 +147,16 @@ viii) Power‌ ‌and‌ ‌Water‌ ‌supply‌ ‌utilities,‌ ‌such‌ �
 &#x20;ix) Aviation‌ ‌related‌ ‌lighting,‌ ‌signage‌ ‌and‌ ‌materials‌&#x20;
 
 &#x20; x) Pipes‌ ‌for‌ ‌transportation‌ ‌of‌ ‌gas,‌ ‌water‌ ‌and‌ ‌other‌ ‌utilities.
-{% end %}
+ end 
 
 A violation of 15(08); subsections iv, v, vi, viii, ix, and x is a <mark ="color:yellow;">Misdemeanor</mark>
 
 A violation of 15(08); subsections i, ii, iii is a <mark ="color:red;">Felony</mark>
 
-{%  ="warning" %}
+  ="warning" 
 A violation of 15(08) as a <mark ="color:yellow;">Misdemeanor</mark> carries a penalty of <mark ="color:yellow;">2 months</mark> of incarceration
-{% end %}
+ end 
 
-{%  ="danger" %}
+  ="danger" 
 A violation of 15(08) as a <mark ="color:red;">Felony</mark> carries a penalty of <mark ="color:red;">12 months</mark> of incarceration
-{% end %}
+ end 

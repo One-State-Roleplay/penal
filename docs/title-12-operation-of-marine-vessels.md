@@ -16,9 +16,9 @@ A‌ ‌person‌ ‌shall‌ ‌not‌,\
 \
 A violation of 12(01). is an <mark ="color:green;">Infraction ‌</mark>
 
-{%  ="success" %}
+  ="success" 
 $150
-{% end %}
+ end 
 
 ## 12(02).‌ ‌Equipment‌&#x20;
 
@@ -32,9 +32,9 @@ No‌ ‌Person‌ ‌Shall‌,\
 ****\
 ****A violation of 12(02). is an <mark ="color:green;">Infraction</mark>
 
-{%  ="success" %}
+  ="success" 
 $250
-{% end %}
+ end 
 
 ## 12(03).‌ ‌Speed‌ ‌Limits‌
 
@@ -48,9 +48,9 @@ No‌ ‌Person‌ ‌Shall‌,\
 A violation of 12(03). is an <mark ="color:green;">Infraction</mark>\
 Violations‌ ‌of‌ ‌this‌ ‌offense‌ ‌are‌ ‌escalated‌ ‌if‌ ‌repeated‌ ‌over‌ ‌a‌ ‌1‌ ‌week‌ ‌timeframe‌. Upon‌ ‌a‌ ‌third‌ ‌violation,‌ ‌the‌ ‌boater’s‌ ‌maritime‌ ‌license‌ ‌can‌ ‌be‌ ‌suspended‌ ‌for‌ ‌3‌ ‌days‌ ‌(in‌ ‌game)‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌
 
-{%  ="success" %}
+  ="success" 
 $250
-{% end %}
+ end 
 
 ## 12(04).‌ ‌Restricted‌ ‌Areas‌
 
@@ -62,6 +62,6 @@ No‌ ‌Person‌ ‌Shall‌,\
 \
 A violation of 12(04). is an <mark ="color:green;">Infraction</mark>
 
-{%  ="success" %}
+  ="success" 
 $400
-{% end %}
+ end 

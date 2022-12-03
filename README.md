@@ -30,9 +30,9 @@ A person commits First Degree Murder when they.
 
 A violation of 1(01) ‌is‌ ‌a‌ <mark ="color:red;">****</mark> <mark ="color:red;"></mark><mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">60 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(02). Second Degree Murder**
 
@@ -46,9 +46,9 @@ A person commits Second Degree Murder when they.
 
 A violation of 1(02) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">55 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(03). Manslaughter
 
@@ -60,9 +60,9 @@ A person commits Manslaughter when they.&#x20;
 
 A violation of 1(03) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">30 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(04). Attempted Murder
 
@@ -80,9 +80,9 @@ A person commits Attempted Murder when they.
 
 &#x20;    A violation of 1(04)A is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">28 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(05). Criminal Threats
 
@@ -100,9 +100,9 @@ A person commits Criminal Threats when they.
 
 &#x20;    A violation of 1(05) is a wobbler. Therefore, depending on severity of the crime it can be a <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 10 Months
-{% endhint %}
+ endhint 
 
 ## 1(06). Harassment via Electronic Communication Device
 
@@ -118,9 +118,9 @@ A person commits Harassment via Electronic Communication Device when they.
 
 &#x20;  A violation of 1(06) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 <mark ="color:yellow;">6 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(07). Indirect Electronic Harassment**
 
@@ -132,9 +132,9 @@ A person commits Indirect Electronic Harassment when they.
 
 &#x20;A violation of 1(07) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 <mark ="color:yellow;">4 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(08). Assault**
 
@@ -146,9 +146,9 @@ A person commits Assault when they.
 
 &#x20; A violation of 1(08) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 <mark ="color:yellow;">6 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(09). Battery**
 
@@ -160,9 +160,9 @@ A person commits Battery when they
 
 A violation of 1(09) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 <mark ="color:yellow;">6 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(10). Assault with a Deadly Weapon
 
@@ -172,9 +172,9 @@ A person commits Assault with a Deadly Weapon when they.
 
 &#x20;    A violation of 1(10) is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">24 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(11). Stalking**
 
@@ -186,9 +186,9 @@ A person commits Staking when they
 
 A violation of 1(11) is a <mark ="color:red;"></mark> <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint ="warning" %}
+ hint ="warning" 
 4 Months
-{% endhint %}
+ endhint 
 
 ## 1(12). False Imprisonment
 
@@ -198,9 +198,9 @@ A person commits False Imprisonment when they
 
 A violation of 1(12) is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">8 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(13). Kidnapping
 
@@ -218,9 +218,9 @@ A person commits Kidnapping they.
 
 &#x20;    A violation of 1(13) is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">28 Months</mark>
-{% endhint %}
+ endhint 
 
 ## 1(14). Torture
 
@@ -230,9 +230,9 @@ A person commits Torture when they.
 
 &#x20;    A violation of 1(14) is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 <mark ="color:red;">40 Months</mark>
-{% endhint %}
+ endhint 
 
 ## **1(15). Human Trafficking**
 
@@ -246,8 +246,8 @@ A person commits Human Trafficking when they.
 
 &#x20;    A violation of 1(15) is a <mark ="color:red;">Felony</mark>
 
-{% hint ="danger" %}
+ hint ="danger" 
 40 Months
-{% endhint %}
+ endhint 
 
 ## ****

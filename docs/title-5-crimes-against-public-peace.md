@@ -9,13 +9,13 @@ A‌ ‌person‌ ‌commits‌ ‌Disturbing‌ ‌the‌ ‌Peace‌ ‌when�
 \
 A‌ ‌violation‌ ‌of‌ ‌5(01)‌ ‌is‌ ‌either an <mark ="color:green;">infraction</mark> or <mark ="color:yellow;">Misdemeanor</mark>.‌ ‌
 
-{%  ="success" %}
+  ="success" 
 $350
-{% end %}
+ end 
 
-{%  ="warning" %}
+  ="warning" 
 <mark ="color:yellow;">2 Months</mark>
-{% end %}
+ end 
 
 ## 5(02).‌ ‌Unlawful‌ ‌Assembly‌
 
@@ -28,9 +28,9 @@ A violation of 5(02) is a <mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ �
 \
 A‌ ‌group‌ ‌is‌ ‌classed‌ ‌of‌ ‌2‌ ‌or‌ ‌more‌ ‌people,‌ ‌there‌ ‌must‌ ‌be‌ ‌multiple‌ ‌for‌ ‌this‌ ‌crime‌ ‌to‌ ‌occur‌ ‌as‌ ‌it's ‌Assembly,‌ ‌if‌ ‌one‌ ‌person‌ ‌is‌ ‌present‌ ‌this‌ ‌can‌ ‌be‌ ‌taken‌ ‌as‌ ‌Trespassing‌ ‌or‌ ‌another‌ ‌section.‌ ‌The ‌exception‌ ‌is‌ ‌5(02)C‌ ‌where‌ ‌it‌ ‌can‌ ‌apply‌ ‌to‌ ‌one‌ ‌person
 
-{%  ="warning" %}
+  ="warning" 
 <mark ="color:yellow;">5 Months</mark>
-{% end %}
+ end 
 
 ## 5(03).‌ ‌Inciting‌ ‌to‌ ‌Riot‌ ‌
 
@@ -39,9 +39,9 @@ A‌ ‌person‌ ‌commits‌ ‌Inciting‌ ‌to‌ ‌Riot‌ ‌when‌ �
 \
 A violation of 5(03) is a <mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌ <mark ="color:yellow;"></mark>&#x20;
 
-{%  ="warning" %}
+  ="warning" 
 <mark ="color:yellow;">10 Months</mark>
-{% end %}
+ end 
 
 ## 5(04).‌ ‌Participation‌ ‌in‌ ‌a‌ ‌Riot‌
 
@@ -53,9 +53,9 @@ A‌ ‌person‌ ‌commits‌ ‌Participation‌ ‌in‌ ‌a‌ ‌Riot‌ 
 \
 A violation of 5(04) is an <mark ="color:green;">infraction</mark>.‌ ‌ <mark ="color:yellow;"></mark>&#x20;
 
-{%  ="success" %}
+  ="success" 
 $250
-{% end %}
+ end 
 
 ## 5(05).‌ ‌Littering
 
@@ -67,9 +67,9 @@ A‌ ‌person‌ ‌commits‌ ‌Littering‌ ‌when‌ ‌they,‌\
 \
 This‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>
 
-{%  ="success" %}
+  ="success" 
 $150
-{% end %}
+ end 
 
 ## 5(06).‌ ‌False Report
 
