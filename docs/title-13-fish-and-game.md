@@ -368,6 +368,5 @@ No person shall
 
 &#x20;Any‌ ‌money‌ ‌made‌ ‌of‌ ‌the‌ ‌illegal‌ ‌harvest‌ ‌of‌ ‌a‌ ‌natural‌ ‌resource‌ ‌is‌ ‌to‌ ‌be‌ ‌seized‌ ‌and‌ ‌given‌ ‌to‌ ‌the‌ ‌State‌ ‌Government‌ ‌of‌ ‌San‌ ‌Andreas.‌
 
-{%  style="danger" %}
 22 Months
 

@@ -8,7 +8,7 @@ No person shall&#x20;
 
 A violation of 15(01) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 A violation of 15(01) carries a penalty of being taken by the FBI into a deep dark hole where you'll never be seen again
 
 
@@ -20,7 +20,7 @@ No person shall
 
 A violation of 15(02) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 A violation of 15(02) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
 
 
@@ -36,7 +36,7 @@ No person shall
 
 A violation of 15(03) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 A violation of 15(03) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
 
 
@@ -115,7 +115,7 @@ No person shall
 
 A violation of 15(07) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 A violation of 15(07) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
 
 
@@ -157,6 +157,6 @@ A violation of 15(08); subsections i, ii, iii is a <mark style="color:red;">Felo
 A violation of 15(08) as a <mark style="color:yellow;">Misdemeanor</mark> carries a penalty of <mark style="color:yellow;">2 months</mark> of incarceration
 
 
-{%  style="danger" %}
+
 A violation of 15(08) as a <mark style="color:red;">Felony</mark> carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
 

@@ -94,7 +94,7 @@ This‌ ‌crime‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌‌
 10 Months
 
 
-{%  style="danger" %}
+
 15 Months
 
 
@@ -106,7 +106,7 @@ A‌ ‌person‌ ‌commits‌ ‌Brandishing‌ ‌a‌ ‌Firearm‌ ‌when�
 \
 A‌ ‌violation‌ ‌of‌ ‌9(05)‌. ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony‌</mark>
 
-{%  style="danger" %}
+
 13 Months
 
 
@@ -135,7 +135,7 @@ A‌ ‌person‌ ‌commits‌ ‌Drive-By‌ ‌Shooting‌ ‌when‌ ‌they
 \
 A‌ ‌violation‌ ‌of‌ ‌9(07)‌. ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 15 Months
 
 
@@ -194,6 +194,6 @@ A violation of 9(11). is a <mark style="color:red;">Felony</mark>\
 \
 When‌ ‌transporting‌ ‌your‌ ‌own‌ ‌firearms‌ ‌you‌ ‌are‌ ‌not‌ ‌required‌ ‌to‌ ‌have‌ ‌a‌ ‌permit‌
 
-{%  style="danger" %}
+
 17 Months
 

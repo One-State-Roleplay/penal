@@ -50,7 +50,7 @@ A‌ ‌person‌ ‌commits‌ ‌Pandering‌ ‌/‌ ‌Pimping‌ ‌when‌
 \
 &#x20;   A violation of 3(04) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
+
 13 Months
 
 
