@@ -10,7 +10,7 @@ A‌ ‌person‌ ‌commits‌ ‌Lewd‌ ‌Conduct‌ ‌in‌ ‌Public‌ �
 
 
 <mark style="color:yellow;">3 Months</mark>
-{% end  %}
+
 
 ## 3(02). Indecent‌ ‌Exposure‌ ‌
 
@@ -22,7 +22,7 @@ A person commits Indecent Exposure when they,
 
 
 <mark style="color:yellow;">3 Months</mark>
-{% end  %}
+
 
 ## **3(03).‌ ‌Prostitution‌ ‌**
 
