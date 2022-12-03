@@ -14,7 +14,7 @@ A Violation of 9(01). is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 10 Months
-{% end %}
+
 
 ## 9(02).‌ ‌Firearm‌ ‌Age‌ ‌Restrictions‌
 
@@ -31,7 +31,7 @@ A violation of 9(02). is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 10 Months
-{% end %}
+
 
 ## 9(03).‌ ‌Firearm‌ ‌Carry‌ ‌Violation‌
 
@@ -44,7 +44,7 @@ A violation of 9(03). is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 10 Months
-{% end %}
+
 
 ## 9(04).‌ ‌Possession‌ ‌of‌ ‌an‌ ‌Illegal‌ ‌Weapon‌
 
@@ -92,11 +92,11 @@ This‌ ‌crime‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌‌
 
 
 10 Months
-{% end %}
+
 
 {%  style="danger" %}
 15 Months
-{% end %}
+
 
 ## 9(05).‌ ‌Brandishing‌ ‌a‌ ‌Firearm‌
 
@@ -108,7 +108,7 @@ A‌ ‌violation‌ ‌of‌ ‌9(05)‌. ‌is‌ ‌a‌ ‌<mark style="colo
 
 {%  style="danger" %}
 13 Months
-{% end %}
+
 
 ## 9(06).‌ ‌Weapons‌ ‌Discharge‌ ‌Violation‌
 
@@ -125,7 +125,7 @@ A violation of 9(06). is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 8 Months
-{% end %}
+
 
 ## 9(07).‌ ‌Drive-By‌ ‌Shooting‌
 
@@ -137,7 +137,7 @@ A‌ ‌violation‌ ‌of‌ ‌9(07)‌. ‌is‌ ‌a‌ ‌<mark style="colo
 
 {%  style="danger" %}
 15 Months
-{% end %}
+
 
 ## 9(08).‌ ‌Illegal‌ ‌Sale‌ ‌of‌ ‌a‌ ‌Firearm
 
@@ -151,7 +151,7 @@ A violation of 9(08). is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 10 Months
-{% end %}
+
 
 ## 9(09).‌ ‌Toy‌ ‌and‌ ‌Mock‌ ‌Weapon‌ ‌Violations‌
 
@@ -165,7 +165,7 @@ A‌ ‌person‌ ‌commits‌ ‌Toy‌ ‌and‌ ‌Mock ‌Weapon‌ ‌Viol
 
 
 10 Months
-{% end %}
+
 
 ## 9(10).‌ ‌Transportation‌ ‌of‌ ‌Firearms‌
 
@@ -178,7 +178,7 @@ A‌ ‌violation‌ ‌of‌ ‌9(10)‌ ‌is‌ ‌a‌ ‌‌‌<mark style=
 
 
 5 Months
-{% end %}
+
 
 ## 9(11).‌ ‌Transportation‌ ‌of‌ ‌Firearms‌ ‌for‌ ‌Commercial‌ ‌Purposes‌
 
@@ -196,4 +196,4 @@ When‌ ‌transporting‌ ‌your‌ ‌own‌ ‌firearms‌ ‌you‌ ‌are�
 
 {%  style="danger" %}
 17 Months
-{% end %}
+

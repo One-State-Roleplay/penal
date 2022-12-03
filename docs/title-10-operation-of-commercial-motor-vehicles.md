@@ -21,11 +21,11 @@ Suspension‌ ‌of‌ ‌CDL‌ ‌License‌ ‌(if‌ ‌applicable)‌ ‌an
 
 
 $200
-{% end %}
+
 
 
 2 Months
-{% end %}
+
 
 ## 10(02).‌ ‌Additional‌ ‌Certificate‌ ‌Requirements‌
 
@@ -40,7 +40,7 @@ A violation of 10(02). is an <mark style="color:green;">Infraction</mark>
 
 
 $150
-{% end %}
+
 
 ## 10(03).‌ ‌Commercial‌ ‌Motor‌ ‌Vehicle‌ ‌Point‌ ‌System‌
 
@@ -80,7 +80,7 @@ A violation of 10(03). is an <mark style="color:green;">Infraction ‌ ‌</mark
 
 
 $200
-{% end %}
+
 
 ## 10(04).‌ ‌Duty‌ ‌Day‌ ‌Limits‌
 
@@ -97,7 +97,7 @@ A violation of 10(04). is an <mark style="color:green;">Infraction</mark>
 
 
 $350
-{% end %}
+
 
 ## 10(05).‌ ‌Commercial‌ ‌Motor‌ ‌Vehicle‌ ‌Oversize/Overweight
 
@@ -113,7 +113,7 @@ A violation of 10(05). is an <mark style="color:green;">Infraction</mark>
 
 
 $500
-{% end %}
+
 
 ## 10(06).‌ ‌Hazardous‌ ‌Material‌ ‌and‌ ‌Passenger‌ ‌Transportation‌
 
@@ -130,4 +130,4 @@ A violation of 10(06). is an <mark style="color:green;">Infraction</mark>
 
 
 $275
-{% end %}
+

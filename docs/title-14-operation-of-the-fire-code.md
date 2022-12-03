@@ -32,7 +32,7 @@ When‌ ‌SAFD‌ ‌is‌ ‌responding‌ ‌to‌ ‌an‌ ‌official‌ �
 
 
 $250
-{% end %}
+
 
 ## 14(02) Blocking a Fire Department Vehicle
 
@@ -94,7 +94,7 @@ In‌ ‌instances‌ ‌where‌ ‌14(02)A‌ ‌or‌ ‌14(02)C‌ ‌are‌
 
 
 $300
-{% end %}
+
 
 ## 14(04).‌ ‌Commercial‌ ‌Code‌ ‌Violations‌
 

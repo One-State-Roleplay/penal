@@ -10,7 +10,7 @@ A violation of 15(01) is a <mark style="color:red;">Felony</mark>
 
 {%  style="danger" %}
 A violation of 15(01) carries a penalty of being taken by the FBI into a deep dark hole where you'll never be seen again
-{% end %}
+
 
 ## 15(02). Racketeering
 
@@ -22,7 +22,7 @@ A violation of 15(02) is a <mark style="color:red;">Felony</mark>
 
 {%  style="danger" %}
 A violation of 15(02) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
-{% end %}
+
 
 ## 15(03). Money Laundering Instruments
 
@@ -38,7 +38,7 @@ A violation of 15(03) is a <mark style="color:red;">Felony</mark>
 
 {%  style="danger" %}
 A violation of 15(03) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
-{% end %}
+
 
 ## 15(04). Wiretapping
 
@@ -50,7 +50,7 @@ A violation of 15(04) is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 A violation of 15(04) carries a penalty of <mark style="color:yellow;">6 months</mark> of incarceration
-{% end %}
+
 
 ## 15(05). Interference with a Transit System
 
@@ -76,11 +76,11 @@ A violation of 15(06) may be charged as an <mark style="color:green;">Infraction
 
 
 A violation of 15(05) as an <mark style="color:green;">Infraction</mark> carries a fine of <mark style="color:green;">$175</mark>
-{% end %}
+
 
 
 A violation of 15(05) as a <mark style="color:yellow;">Misdemeanor</mark> carries a penalty of a <mark style="color:yellow;">Criminal Summons</mark>, or incarceration of <mark style="color:yellow;">1 month</mark>
-{% end %}
+
 
 ## 15(06). Interference with an Active Runway
 
@@ -99,7 +99,7 @@ A violation of 15(06) is a <mark style="color:yellow;">Misdemeanor</mark>
 
 
 A violation of 15(06) carries a penalty of a <mark style="color:green;"><mark style="color:yellow;">Criminal Summons<mark style="color:yellow;"></mark>, or incarceration of <mark style="color:yellow;">1 month</mark>
-{% end %}
+
 
 ## 15(07). Tax Evasion
 
@@ -117,7 +117,7 @@ A violation of 15(07) is a <mark style="color:red;">Felony</mark>
 
 {%  style="danger" %}
 A violation of 15(07) carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
-{% end %}
+
 
 ## 15(08). Intentional Damage to State Infrastructure
 
@@ -147,7 +147,7 @@ viii) Power‌ ‌and‌ ‌Water‌ ‌supply‌ ‌utilities,‌ ‌such‌ �
 &#x20;ix) Aviation‌ ‌related‌ ‌lighting,‌ ‌signage‌ ‌and‌ ‌materials‌&#x20;
 
 &#x20; x) Pipes‌ ‌for‌ ‌transportation‌ ‌of‌ ‌gas,‌ ‌water‌ ‌and‌ ‌other‌ ‌utilities.
-{% end %}
+
 
 A violation of 15(08); subsections iv, v, vi, viii, ix, and x is a <mark style="color:yellow;">Misdemeanor</mark>
 
@@ -155,8 +155,8 @@ A violation of 15(08); subsections i, ii, iii is a <mark style="color:red;">Felo
 
 
 A violation of 15(08) as a <mark style="color:yellow;">Misdemeanor</mark> carries a penalty of <mark style="color:yellow;">2 months</mark> of incarceration
-{% end %}
+
 
 {%  style="danger" %}
 A violation of 15(08) as a <mark style="color:red;">Felony</mark> carries a penalty of <mark style="color:red;">12 months</mark> of incarceration
-{% end %}
+

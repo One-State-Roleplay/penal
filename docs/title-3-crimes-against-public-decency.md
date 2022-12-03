@@ -34,7 +34,7 @@ A‌ ‌person‌ ‌commits‌ ‌Prostitution‌ ‌when‌ ‌they,‌ ‌
 
 {%  style="warning" %}
 <mark style="color:yellow;">6 Months</mark>
-{% end %}
+
 
 ## **3(04).‌ ‌Pandering‌ ‌/‌ ‌Pimping‌ ‌**
 
@@ -52,7 +52,7 @@ A‌ ‌person‌ ‌commits‌ ‌Pandering‌ ‌/‌ ‌Pimping‌ ‌when‌
 
 {%  style="danger" %}
 13 Months
-{% end %}
+
 
 ## **3(05).‌ ‌Sexual‌ ‌Battery‌ ‌**
 

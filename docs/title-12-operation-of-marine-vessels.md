@@ -18,7 +18,7 @@ A violation of 12(01). is an <mark style="color:green;">Infraction ‌</mark>
 
 
 $150
-{% end %}
+
 
 ## 12(02).‌ ‌Equipment‌&#x20;
 
@@ -34,7 +34,7 @@ No‌ ‌Person‌ ‌Shall‌,\
 
 
 $250
-{% end %}
+
 
 ## 12(03).‌ ‌Speed‌ ‌Limits‌
 
@@ -50,7 +50,7 @@ Violations‌ ‌of‌ ‌this‌ ‌offense‌ ‌are‌ ‌escalated‌ ‌if�
 
 
 $250
-{% end %}
+
 
 ## 12(04).‌ ‌Restricted‌ ‌Areas‌
 
@@ -64,4 +64,4 @@ A violation of 12(04). is an <mark style="color:green;">Infraction</mark>
 
 
 $400
-{% end %}
+

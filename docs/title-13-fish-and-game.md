@@ -40,7 +40,7 @@ It‌ ‌is‌ ‌the‌ ‌at‌ ‌the‌ ‌sole‌ ‌discretion‌ ‌of‌
 
 
 5 Months
-{% end %}
+
 
 ## 13(02)**‌. Hunting‌ ‌Permits‌**
 
@@ -76,7 +76,7 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 
 $300
-{% end %}
+
 
 ## 13(03). **Daily‌ ‌Limits‌ ‌and‌ ‌Possession‌ ‌Limits‌**
 
@@ -194,7 +194,7 @@ Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized
 
 
 $300
-{% end %}
+
 
 ## 13(04). **Daily‌ ‌Limits‌ ‌and‌ ‌Possession‌ ‌Limits‌ ‌-‌ ‌Excessive‌ ‌Violations‌**
 
@@ -208,7 +208,7 @@ Enforcing‌ ‌Wardens‌ ‌must‌ ‌seize‌ ‌the‌ ‌hunting‌ ‌equ
 
 
 4 Months
-{% end %}
+
 
 ## 13(05) **Hunting‌ ‌Hours**
 
@@ -220,7 +220,7 @@ No person shall
 
 
 $120
-{% end %}
+
 
 ## 13(06) **Hunting‌ ‌Methods‌**
 
@@ -248,7 +248,7 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 
 4 Months
-{% end %}
+
 
 
 
@@ -266,7 +266,7 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 
 10 Months
-{% end %}
+
 
 ## 13(08) ‌Poaching‌
 
@@ -280,7 +280,7 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 
 10 Months
-{% end %}
+
 
 ## 13(09) **‌Use‌ ‌of‌ ‌Animals‌**
 
@@ -294,7 +294,7 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 
 6 Months
-{% end %}
+
 
 ## 13(10) **Authorized‌ ‌Hunting‌ ‌and‌ ‌Fishing‌ ‌Areas‌**
 
@@ -324,7 +324,7 @@ Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized
 
 
 $400
-{% end %}
+
 
 ## 13(11) Commercial‌ ‌Fishing
 
@@ -348,7 +348,7 @@ Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized
 
 
 $300
-{% end %}
+
 
 ## 13(12) Conservation‌ ‌of‌ ‌Natural‌ ‌Resources‌
 
@@ -370,4 +370,4 @@ No person shall
 
 {%  style="danger" %}
 22 Months
-{% end %}
+

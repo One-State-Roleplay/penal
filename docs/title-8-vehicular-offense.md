@@ -23,9 +23,9 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌‌Vehicle‌‌ ‌Registration‌ �
 
 &#x20;A violation of 8(01) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 A violation of 8(01) carries a fine of <mark style="color:green;">$500</mark>, the vehicle must be impounded
-{% end %}
+
 
 ## **8(02).‌ ‌Autonomous‌ ‌Vehicles‌**
 
@@ -36,9 +36,9 @@ A violation of 8(01) carries a fine of <mark style="color:green;">$500</mark>, t
 
 A violation of 8(02) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 A violation of 8(02) carries a penalty of <mark style="color:green;">$500</mark>, the vehicle may be impounded
-{% end %}
+
 
 ## **8(03).‌ ‌Driving‌ ‌Without‌ ‌a‌ ‌License‌ ‌**
 
@@ -52,9 +52,9 @@ All‌ ‌persons‌ ‌driving‌ ‌a‌ ‌‌motor‌ ‌vehicle‌‌ ‌on
 
 A violation of 8(03) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 A violation of 8(03) carries a fine of <mark style="color:green;">$500</mark>, the vehicle may be impounded
-{% end %}
+
 
 ## **8(04).‌ ‌Driving‌ ‌with‌ ‌a‌ ‌Suspended‌ ‌or‌ ‌Revoked‌ ‌License‌ ‌**
 
@@ -64,15 +64,15 @@ A‌ ‌person‌ ‌commits‌ ‌Driving‌ ‌while‌ ‌Suspended‌ ‌or�
 
 A violation of 8(04) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 A violation of 8(04) carries a penalty of <mark style="color:yellow;">2 months</mark> of incarceration, the vehicle may be impounded
-{% end %}
+
 
 ## **8(05).‌ ‌Implied‌ ‌Consent‌**
 
 {%  style="info" %}
 Any person violating 8(05) must be read the [Implied Consent Warning](https://drive.google.com/file/d/1gKpkeu0zRD0yW0S7IfpPCIUuGmvK3FfE/view?usp=sharing) before being charged as a violator
-{% end %}
+
 
 (1) Any individual who accepts the privilege of operating a motor vehicle in the state is deemed to have given his or her consent to submit to an approved chemical test or physical test, including but not limited to
 
@@ -88,9 +88,9 @@ Any person violating 8(05) must be read the [Implied Consent Warning](https://dr
 
 A violation of 8(05) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 A violation of 8(05) carries a penalty of <mark style="color:yellow;">6 months</mark> of incarceration, and a driver's license revocation for 1 year. The vehicle may be impounded
-{% end %}
+
 
 ## **8(06).‌ ‌Vehicle‌ ‌Insurance‌ ‌**
 
@@ -101,9 +101,9 @@ A‌ ‌driver‌ ‌commits‌ ‌a‌ ‌‌Vehicle‌‌ ‌Insurance‌ ‌v
 A violation of 8(06) is an <mark style="color:green;">Infraction</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>If‌ ‌the‌ ‌subject(s)‌ ‌have‌ ‌gotten‌ ‌into‌ ‌an‌ ‌MVA‌ ‌and‌ ‌are‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(06),‌ ‌regardless‌ ‌of‌‌whether‌ ‌ they‌ ‌\
 are‌ ‌at‌ ‌fault‌ ‌or‌ ‌not,‌ ‌the‌ ‌person(s)‌ ‌in‌ ‌question‌ ‌are‌ ‌to‌ ‌receive‌ ‌a‌ ‌license‌ ‌suspension‌ ‌of‌ ‌6‌ ‌days.‌ ‌They‌ ‌may‌ ‌have‌ ‌their‌ ‌license‌ ‌reinstated‌ ‌sooner‌ ‌if‌ ‌they‌ ‌provide‌ ‌proof‌ ‌of‌ ‌‌motor‌ ‌vehicle‌ ‌ insurance.‌ ‌
 
-{%  style="success" %}
+
 $150
-{% end %}
+
 
 ## **8(07).‌ ‌License‌ ‌Plate‌ ‌**
 
@@ -121,9 +121,9 @@ A‌ ‌violation‌ ‌of‌ ‌either‌ ‌8(07)A‌ ‌and/or‌ ‌8(07)B�
 A‌ ‌violation‌ ‌of‌ ‌either‌ ‌8(07)C‌ ‌and/or‌ ‌8(07)D‌ ‌is‌ ‌a‌ ‌secondary‌ ‌offense.‌ ‌This‌ ‌means‌ ‌that‌ ‌a‌ ‌law‌ ‌ enforcement‌ ‌officer‌ ‌must‌ ‌have‌ ‌reasonable‌ ‌suspicion‌ ‌that‌ ‌a‌ ‌crime‌ ‌other‌ ‌than‌ ‌8(07)C/D‌ ‌has‌ ‌ been,‌ ‌is,‌ ‌or‌ ‌is‌ ‌about‌ ‌to‌ ‌be‌ ‌committed‌ ‌before‌ ‌initiating‌ ‌a‌ ‌stop.‌ ‌ \
 &#x20;  <mark style="color:green;"></mark>   A violation of 8(07)C and/or 8(07)D is an <mark style="color:green;">Infraction</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>OOC‌ ‌Note:‌ ‌A‌ ‌law‌ ‌enforcement‌ ‌officer‌ ‌may‌ ‌not‌ ‌charge‌ ‌a‌ ‌person‌ ‌with‌ ‌8(07).‌ ‌License‌ ‌Plate‌ ‌ when‌ ‌said‌ ‌person‌ ‌is‌ ‌driving‌ ‌a‌ ‌vehicle‌ ‌that‌ ‌doesn’t‌ ‌physically‌ ‌allow‌ ‌them‌ ‌to‌ ‌have‌ ‌a‌ ‌plate‌ ‌ attached.‌ ‌This‌ ‌can‌ ‌be‌ ‌clarified‌ ‌by‌ ‌the‌ ‌civilian‌ ‌through‌ ‌chat.‌ ‌ ‌
 
-{%  style="success" %}
+
 $150
-{% end %}
+
 
 ## **8(08).‌ ‌Accident‌ ‌Reporting‌ ‌Requirements‌ ‌-‌ ‌Property‌ ‌Damage‌ ‌**
 
@@ -136,9 +136,9 @@ A‌ ‌Driver‌ ‌Commits‌ ‌an‌ ‌Accident‌ ‌Reporting‌ ‌offen
 \
 &#x20;<mark style="color:green;"></mark> A violation of 8(08) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 <mark style="color:yellow;">6 Months</mark>
-{% end %}
+
 
 ## **8(09).‌ ‌Accident‌ ‌Reporting‌ ‌Requirements‌ ‌-‌ ‌Injury‌ ‌or‌ ‌Death‌**
 
@@ -152,13 +152,13 @@ A‌ ‌Driver‌ ‌Commits‌ ‌an‌ ‌Accident‌ ‌Reporting‌ ‌offen
 \
 &#x20;<mark style="color:green;"></mark> A violation of 8(09) is a <mark style="color:yellow;">Misdemeanor (if the accident results in injury)</mark>\ <mark style="color:yellow;"></mark> <mark style="color:green;"></mark> A violation of 8(09) is a <mark style="color:red;">Felony</mark> <mark style="color:red;">(if the accident results in death)</mark>
 
-{%  style="warning" %}
+
 9 Months
-{% end %}
+
 
 {%  style="danger" %}
 17 Months
-{% end %}
+
 
 ## **8(10).‌ ‌Traffic‌ ‌Signals‌ ‌-‌ ‌Responsibility‌ ‌at‌ ‌a‌ ‌Green‌ ‌Signal‌**
 
@@ -172,9 +172,9 @@ A‌ ‌driver‌ ‌who‌ ‌is‌
 
 A violation of 8(10) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 $150
-{% end %}
+
 
 ## **8(11).‌ ‌Traffic‌ ‌Signals‌ ‌-‌ ‌Responsibility‌ ‌at‌ ‌a‌ ‌Red‌ ‌Signal‌ ‌**
 
@@ -388,9 +388,9 @@ Any operator of a vehicle who
 
 A violation of 8(22) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 The violator may be charged with a summons, or jail time of 4 months
-{% end %}
+
 
 ## **8(23).‌ ‌Motor‌ ‌Vehicle‌ ‌Contest‌ ‌**
 
