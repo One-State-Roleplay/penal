@@ -30,9 +30,7 @@ A person commits First Degree Murder when they.
 
 A violation of 1(01) ‌is‌ ‌a‌ <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">Felony</mark>
 
-!!! warning ""
-
-    60 months
+!!! danger "60 months"
 
 ## **1(02). Second Degree Murder**
 
@@ -249,5 +247,3 @@ A person commits Human Trafficking when they.
 {% hint style="danger" %}
 40 Months
 {% endhint %}
-
-## ****
