@@ -38,9 +38,9 @@ A‌ ‌violation‌ ‌of‌ ‌13(01)‌ ‌is‌ ‌a‌  <mark style="color:
 
 It‌ ‌is‌ ‌the‌ ‌at‌ ‌the‌ ‌sole‌ ‌discretion‌ ‌of‌ ‌the‌ ‌Wildlife‌ ‌Rangers‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.
 
-{% hint style="warning" %}
+{%  style="warning" %}
 5 Months
-{% endhint %}
+{% end %}
 
 ## 13(02)**‌. Hunting‌ ‌Permits‌**
 
@@ -74,9 +74,9 @@ A violation of 13(02) is an <mark style="color:green;">Infraction</mark>.
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌Revocation‌ ‌of‌ ‌hunting‌ ‌permits‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌Fish‌ ‌and‌ ‌Game‌ ‌Warden.‌
 
-{% hint style="success" %}
+{%  style="success" %}
 $300
-{% endhint %}
+{% end %}
 
 ## 13(03). **Daily‌ ‌Limits‌ ‌and‌ ‌Possession‌ ‌Limits‌**
 
@@ -192,9 +192,9 @@ No person shall
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌
 
-{% hint style="success" %}
+{%  style="success" %}
 $300
-{% endhint %}
+{% end %}
 
 ## 13(04). **Daily‌ ‌Limits‌ ‌and‌ ‌Possession‌ ‌Limits‌ ‌-‌ ‌Excessive‌ ‌Violations‌**
 
@@ -206,9 +206,9 @@ No person shall
 
 Enforcing‌ ‌Wardens‌ ‌must‌ ‌seize‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game.‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 4 Months
-{% endhint %}
+{% end %}
 
 ## 13(05) **Hunting‌ ‌Hours**
 
@@ -218,9 +218,9 @@ No person shall
 
 &#x20;  A violation of 13(05) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌
 
-{% hint style="success" %}
+{%  style="success" %}
 $120
-{% endhint %}
+{% end %}
 
 ## 13(06) **Hunting‌ ‌Methods‌**
 
@@ -246,9 +246,9 @@ A‌ ‌violation‌ ‌of‌ ‌13(06)‌ ‌is‌ ‌a‌ ‌<mark style="colo
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌‌ to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 4 Months
-{% endhint %}
+{% end %}
 
 
 
@@ -264,9 +264,9 @@ A violation of 13(07) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeano
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 13(08) ‌Poaching‌
 
@@ -278,9 +278,9 @@ A violation of 13(08) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeano
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 13(09) **‌Use‌ ‌of‌ ‌Animals‌**
 
@@ -292,9 +292,9 @@ A violation ‌of 13(09) is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdeme
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 6 Months
-{% endhint %}
+{% end %}
 
 ## 13(10) **Authorized‌ ‌Hunting‌ ‌and‌ ‌Fishing‌ ‌Areas‌**
 
@@ -322,9 +322,9 @@ A violation of 13(10) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infract
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌
 
-{% hint style="success" %}
+{%  style="success" %}
 $400
-{% endhint %}
+{% end %}
 
 ## 13(11) Commercial‌ ‌Fishing
 
@@ -346,9 +346,9 @@ No person shall
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.
 
-{% hint style="success" %}
+{%  style="success" %}
 $300
-{% endhint %}
+{% end %}
 
 ## 13(12) Conservation‌ ‌of‌ ‌Natural‌ ‌Resources‌
 
@@ -368,6 +368,6 @@ No person shall
 
 &#x20;Any‌ ‌money‌ ‌made‌ ‌of‌ ‌the‌ ‌illegal‌ ‌harvest‌ ‌of‌ ‌a‌ ‌natural‌ ‌resource‌ ‌is‌ ‌to‌ ‌be‌ ‌seized‌ ‌and‌ ‌given‌ ‌to‌ ‌the‌ ‌State‌ ‌Government‌ ‌of‌ ‌San‌ ‌Andreas.‌
 
-{% hint style="danger" %}
+{%  style="danger" %}
 22 Months
-{% endhint %}
+{% end %}

@@ -12,9 +12,9 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌License‌ ‌and‌ ‌Permit�
 \
 A Violation of 9(01). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 9(02).‌ ‌Firearm‌ ‌Age‌ ‌Restrictions‌
 
@@ -29,9 +29,9 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌Age‌ ‌Restrictions‌ ‌wh
 \
 A violation of 9(02). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 9(03).‌ ‌Firearm‌ ‌Carry‌ ‌Violation‌
 
@@ -42,9 +42,9 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌Carry‌ ‌Violation‌ ‌whe
 \
 A violation of 9(03). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 9(04).‌ ‌Possession‌ ‌of‌ ‌an‌ ‌Illegal‌ ‌Weapon‌
 
@@ -90,13 +90,13 @@ This‌ ‌crime‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌‌
 \
 (OOC‌ ‌note)‌ ‌If‌ ‌a‌ ‌weapon‌ ‌is‌ ‌listed‌ ‌as‌ ‌an‌ ‌illegal‌ ‌weapon‌ ‌you‌ ‌can‌ ‌still‌ ‌use‌ ‌it‌ ‌as‌ ‌long‌ ‌as‌ ‌your‌ civilian‌ ‌contact‌ ‌level‌ ‌permits‌ ‌that‌ ‌weapons‌ ‌usage.‌ ‌However,‌ ‌if‌ ‌you‌ ‌are‌ ‌stopped‌ ‌by‌ ‌law ‌enforcement‌ ‌you‌ ‌may‌ ‌be‌ ‌arrested‌ ‌for‌ ‌possession‌ ‌of‌ ‌an‌ ‌illegal‌ ‌weapon.‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
-{% hint style="danger" %}
+{%  style="danger" %}
 15 Months
-{% endhint %}
+{% end %}
 
 ## 9(05).‌ ‌Brandishing‌ ‌a‌ ‌Firearm‌
 
@@ -106,9 +106,9 @@ A‌ ‌person‌ ‌commits‌ ‌Brandishing‌ ‌a‌ ‌Firearm‌ ‌when�
 \
 A‌ ‌violation‌ ‌of‌ ‌9(05)‌. ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony‌</mark>
 
-{% hint style="danger" %}
+{%  style="danger" %}
 13 Months
-{% endhint %}
+{% end %}
 
 ## 9(06).‌ ‌Weapons‌ ‌Discharge‌ ‌Violation‌
 
@@ -123,9 +123,9 @@ A‌ ‌person‌ ‌commits‌ ‌Weapons‌ ‌Discharge‌ ‌Violation‌ �
 \
 A violation of 9(06). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 8 Months
-{% endhint %}
+{% end %}
 
 ## 9(07).‌ ‌Drive-By‌ ‌Shooting‌
 
@@ -135,9 +135,9 @@ A‌ ‌person‌ ‌commits‌ ‌Drive-By‌ ‌Shooting‌ ‌when‌ ‌they
 \
 A‌ ‌violation‌ ‌of‌ ‌9(07)‌. ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%  style="danger" %}
 15 Months
-{% endhint %}
+{% end %}
 
 ## 9(08).‌ ‌Illegal‌ ‌Sale‌ ‌of‌ ‌a‌ ‌Firearm
 
@@ -149,9 +149,9 @@ A‌ ‌person‌ ‌commits‌ ‌Illegal‌ ‌Sale‌ ‌of‌ ‌a‌ ‌Fir
 \
 A violation of 9(08). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 9(09).‌ ‌Toy‌ ‌and‌ ‌Mock‌ ‌Weapon‌ ‌Violations‌
 
@@ -163,9 +163,9 @@ A‌ ‌person‌ ‌commits‌ ‌Toy‌ ‌and‌ ‌Mock ‌Weapon‌ ‌Viol
 &#x20;    c) Fire‌ ‌a‌ ‌toy,‌ ‌mock,‌ ‌fake,‌ ‌legitimate‌ ‌or‌ ‌imitation‌ ‌weapon‌ ‌that‌ ‌fires‌ ‌a‌ ‌paintball‌ ‌pellet‌ ‌or‌ ‌BB‌ ‌round‌ ‌at‌ ‌or‌ ‌from‌ ‌a‌ ‌building,‌ ‌‌vehicle‌‌ ‌or‌ ‌aircraft;‌ ‌or‌ ‌\
 &#x20;    d) Use‌ ‌a‌ ‌toy,‌ ‌mock,‌ ‌fake,‌ ‌legitimate‌ ‌or‌ ‌imitation‌ ‌weapon‌ ‌while‌ ‌in‌ ‌the‌ ‌act‌ ‌of‌ ‌another‌‌ <mark style="color:yellow;">Misdemeanor‌</mark> <mark style="color:red;">‌ ‌</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark>A violation of 9(09). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 10 Months
-{% endhint %}
+{% end %}
 
 ## 9(10).‌ ‌Transportation‌ ‌of‌ ‌Firearms‌
 
@@ -176,9 +176,9 @@ A‌ ‌person‌ ‌commits‌ ‌Transportation‌ ‌of‌ ‌Firearms‌ ‌
 \
 A‌ ‌violation‌ ‌of‌ ‌9(10)‌ ‌is‌ ‌a‌ ‌‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark> ‌
 
-{% hint style="warning" %}
+{%  style="warning" %}
 5 Months
-{% endhint %}
+{% end %}
 
 ## 9(11).‌ ‌Transportation‌ ‌of‌ ‌Firearms‌ ‌for‌ ‌Commercial‌ ‌Purposes‌
 
@@ -194,6 +194,6 @@ A violation of 9(11). is a <mark style="color:red;">Felony</mark>\
 \
 When‌ ‌transporting‌ ‌your‌ ‌own‌ ‌firearms‌ ‌you‌ ‌are‌ ‌not‌ ‌required‌ ‌to‌ ‌have‌ ‌a‌ ‌permit‌
 
-{% hint style="danger" %}
+{%  style="danger" %}
 17 Months
-{% endhint %}
+{% end %}

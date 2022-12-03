@@ -14,9 +14,9 @@ A violation of 2(01) ‌is‌ ‌a‌ ‌‌<mark style="color:green;">Infractio
 
 This‌ ‌crime‌ ‌cannot‌ ‌be‌ ‌stacked‌ ‌with‌ ‌Trespassing,‌ ‌Federal‌ ‌Trespassing‌ ‌or‌ ‌Burglary.‌
 
-{% hint style="success" %}
+{%   style="success" %}
 $500
-{% endhint %}
+{% end  %}
 
 ## 2(02).‌ ‌Trespassing‌
 
@@ -30,9 +30,9 @@ A‌ ‌person‌ ‌commits‌ ‌Trespassing‌ ‌when‌ ‌they,‌
 
 &#x20;    A violation of 2(02) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 6 Months
-{% endhint %}
+{% end  %}
 
 ## **2(03).‌ ‌Federal‌ ‌Trespassing‌ ‌**
 
@@ -44,9 +44,9 @@ A‌ ‌person‌ ‌commits‌ ‌Federal‌ ‌Trespassing‌ ‌when‌ ‌th
 
 &#x20;    A violation of 2(03) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 3 Months
-{% endhint %}
+{% end  %}
 
 ## 2**(04).‌ ‌Unauthorized‌ ‌Access‌ ‌to‌ ‌an‌ ‌Electronic‌ ‌Device‌**
 
@@ -56,9 +56,9 @@ A‌ ‌person‌ ‌commits‌ ‌Unauthorized‌ ‌Access‌ ‌to‌ ‌an�
 
 &#x20;    A violation of 2(04) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 <mark style="color:yellow;">4 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(05).‌ ‌Vandalism‌
 
@@ -68,13 +68,13 @@ A‌ ‌person‌ ‌commits‌ ‌Vandalism‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    A‌ ‌violation‌ ‌of‌ ‌2(05)‌ ‌is‌ ‌a‌ ‌wobbler.‌ ‌Therefore,‌ ‌depending‌ ‌on‌ ‌the‌ ‌severity‌ ‌of‌ ‌the‌ ‌crime,‌ ‌it‌ ‌can‌ ‌be‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌‌ ‌‌</mark>or‌ ‌a‌ ‌‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌
 
-{% hint style="success" %}
+{%   style="success" %}
 $250
-{% endhint %}
+{% end  %}
 
-{% hint style="warning" %}
+{%   style="warning" %}
 2 Months
-{% endhint %}
+{% end  %}
 
 ## 2(06).‌ ‌Receiving‌ ‌Stolen‌ ‌Property‌ ‌
 
@@ -86,9 +86,9 @@ A‌ ‌person‌ ‌commits‌ ‌Receiving‌ ‌Stolen‌ ‌Property‌ ‌w
 
 &#x20;    A violation of 2(06) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 5 Months
-{% endhint %}
+{% end  %}
 
 ## 2(07).‌ ‌Petty‌ ‌Theft‌
 
@@ -102,9 +102,9 @@ A‌ ‌person‌ ‌commits‌ ‌Petty‌ ‌Theft‌ ‌when‌ ‌they,‌ �
 
 &#x20;    A violation of 2(07) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 <mark style="color:yellow;">8 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(08).‌ ‌Grand‌ ‌Theft‌ ‌
 
@@ -116,9 +116,9 @@ A‌ ‌person‌ ‌commits‌ ‌Grand‌ ‌Theft‌ ‌when‌ ‌they,‌
 
 &#x20;    A violation of 2(08) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">15 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(09).‌ ‌Carjacking‌ ‌
 
@@ -128,9 +128,9 @@ A‌ ‌person‌ ‌commits‌ ‌Carjacking‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    A violation of 2(09) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">15 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(10).‌ ‌Grand‌ ‌Theft‌ ‌Auto‌
 
@@ -142,9 +142,9 @@ A‌ ‌person‌ ‌commits‌ ‌Grand‌ ‌Theft‌ ‌Auto‌ ‌when‌ �
 
 &#x20;    A violation of 2(10) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">22 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(11).‌ ‌Burglary‌ ‌
 
@@ -155,9 +155,9 @@ A‌ ‌person‌ ‌commits‌ ‌Burglary‌ ‌when‌ ‌they,‌ ‌\
 
 &#x20;    A violation of 2(11) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">12 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(12).‌ ‌Possession‌ ‌of‌ ‌Burglary‌ ‌Tools‌ ‌
 
@@ -169,9 +169,9 @@ A‌ ‌person‌ ‌commits‌ ‌Possession‌ ‌of‌ ‌Burglary‌ ‌tool
 
 &#x20;    A violation of 2(12) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 <mark style="color:yellow;">5 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(13).‌ ‌Robbery‌ ‌
 
@@ -183,9 +183,9 @@ A‌ ‌Person‌ ‌commits‌ ‌Robbery‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    A violation of 2(13) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">20 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(14).‌ ‌Forgery/Fraud‌ ‌
 
@@ -203,9 +203,9 @@ A‌ ‌person‌ ‌commits‌ ‌Forgery‌ ‌/‌ ‌Fraud‌ ‌when‌ ‌
 
 &#x20;    A violation of 2(14) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">16 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(15).‌ ‌Commercial‌ ‌Bribery‌ ‌
 
@@ -217,9 +217,9 @@ A‌ ‌person‌ ‌commits‌ ‌Bribery‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;         A violation of 2(15) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%   style="danger" %}
 <mark style="color:red;">14 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 2(16).‌ ‌Extortion‌
 
@@ -235,6 +235,6 @@ A‌ ‌person‌ ‌commits‌ ‌Extortion‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    A violation of 2(16) is a <mark style="color:yellow;">Misdemeanor</mark> ‌
 
-{% hint style="warning" %}
+{%   style="warning" %}
 6 Months
-{% endhint %}
+{% end  %}

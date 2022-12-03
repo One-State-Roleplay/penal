@@ -14,9 +14,9 @@ A‌ ‌person‌ ‌commits‌ ‌Animal‌ ‌Abuse‌ ‌or‌ ‌Animal‌ �
 \
 &#x20;    A violation of 7(01) is a ‌<mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{% hint style="danger" %}
+{%  style="danger" %}
 12 Months
-{% endhint %}
+{% end %}
 
 ## **7(02).‌ ‌Leash‌ ‌Laws‌ ‌**
 
@@ -29,9 +29,9 @@ A‌ ‌person‌ ‌commits‌ ‌Leash‌ ‌Laws‌ ‌when‌ ‌they,‌ �
 \
 &#x20;    A violation of 7(02) is a <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $50
-{% endhint %}
+{% end %}
 
 ## **7(03).‌ ‌Minor‌ ‌Alcohol‌ ‌Violation‌ ‌**
 
@@ -46,9 +46,9 @@ A‌ ‌person‌ ‌under‌ ‌the‌ ‌age‌ ‌of‌ ‌21‌ ‌commits�
 \
 &#x20;     A violation of 7(03) is a <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $125
-{% endhint %}
+{% end %}
 
 ## **7(04).‌ ‌Child‌ ‌Neglect‌ ‌**
 
@@ -60,9 +60,9 @@ A‌ ‌person‌ ‌commits‌ ‌Child‌ ‌Neglect‌ ‌when‌ ‌they,‌
 \
 &#x20; A violation of 7(04) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{% hint style="danger" %}
+{%  style="danger" %}
 22 Months
-{% endhint %}
+{% end %}
 
 ## **7(05).‌ ‌Abuse‌ ‌of‌ ‌Dependent‌ ‌Adults‌ ‌**
 
@@ -76,9 +76,9 @@ A‌ ‌person‌ ‌commits‌ ‌Abuse‌ ‌of‌ ‌Dependent‌ ‌Adults�
 \
 &#x20; A violation of 7(05) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{% hint style="danger" %}
+{%  style="danger" %}
 22 Months
-{% endhint %}
+{% end %}
 
 ## **7(06).‌ ‌Failure‌ ‌to‌ ‌Control‌ ‌a‌ ‌Dangerous‌ ‌Animal‌ ‌**
 
@@ -90,13 +90,13 @@ A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ ‌
 
 A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ **‌**death‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌.</mark>
 
-{% hint style="warning" %}
+{%  style="warning" %}
 9 Months
-{% endhint %}
+{% end %}
 
-{% hint style="danger" %}
+{%  style="danger" %}
 13 Months
-{% endhint %}
+{% end %}
 
 ## **7(07).‌ ‌Transportation‌ ‌of‌ ‌Live‌ ‌Farm‌ ‌Animals‌ ‌**
 
@@ -118,6 +118,6 @@ The‌ ‌Bill‌ ‌of‌ ‌Lading‌ ‌must‌ ‌show‌ ‌the‌ ‌name�
 
 &#x20;     A violation of 7(07) is a <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $350
-{% endhint %}
+{% end %}

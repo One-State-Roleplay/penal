@@ -8,9 +8,9 @@ A‌ ‌person‌ ‌commits‌ ‌Lewd‌ ‌Conduct‌ ‌in‌ ‌Public‌ �
 \
 &#x20;   A violation of 3(01)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{% hint style="warning" %}
+{%   style="warning" %}
 <mark style="color:yellow;">3 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## 3(02). Indecent‌ ‌Exposure‌ ‌
 
@@ -20,9 +20,9 @@ A person commits Indecent Exposure when they,
 
 &#x20;    A violation of 3(02)a is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{%   style="warning" %}
 <mark style="color:yellow;">3 Months</mark>
-{% endhint %}
+{% end  %}
 
 ## **3(03).‌ ‌Prostitution‌ ‌**
 
@@ -32,9 +32,9 @@ A‌ ‌person‌ ‌commits‌ ‌Prostitution‌ ‌when‌ ‌they,‌ ‌
 \
 &#x20;    A violation of 3(03)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{% hint style="warning" %}
+{%  style="warning" %}
 <mark style="color:yellow;">6 Months</mark>
-{% endhint %}
+{% end %}
 
 ## **3(04).‌ ‌Pandering‌ ‌/‌ ‌Pimping‌ ‌**
 
@@ -50,9 +50,9 @@ A‌ ‌person‌ ‌commits‌ ‌Pandering‌ ‌/‌ ‌Pimping‌ ‌when‌
 \
 &#x20;   A violation of 3(04) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%  style="danger" %}
 13 Months
-{% endhint %}
+{% end %}
 
 ## **3(05).‌ ‌Sexual‌ ‌Battery‌ ‌**
 
@@ -64,9 +64,9 @@ A‌ ‌person‌ ‌commits‌ ‌Sexual‌ ‌Battery‌ ‌when‌ ‌they,�
 \
 &#x20;    A violation of 3(05) is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{% hint style="warning" %}
+{%  style="warning" %}
 <mark style="color:yellow;">8 Months</mark>
-{% endhint %}
+{% end %}
 
 ## **3(06).‌ ‌Rape‌ ‌**
 
@@ -80,6 +80,6 @@ A‌ ‌person‌ ‌commits‌ ‌Rape‌ ‌when‌ ‌they,‌\
 \
 &#x20;    A violation of 3(06) is a <mark style="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{%  style="danger" %}
 30 Months
-{% endhint %}
+{% end %}

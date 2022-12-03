@@ -19,13 +19,13 @@ No‌ ‌Person‌ ‌shall,\
 \
 Suspension‌ ‌of‌ ‌CDL‌ ‌License‌ ‌(if‌ ‌applicable)‌ ‌and‌ ‌$1000‌ ‌fine, this‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌.‌</mark> ‌ If‌ ‌HAZMAT‌ ‌Materials‌ ‌and‌ ‌or‌ ‌Passengers‌ ‌are‌ ‌being‌ ‌transported‌, this‌ ‌crime‌ ‌is‌ ‌now‌ ‌a‌ <mark style="color:yellow;">Misdemeanor‌.‌</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $200
-{% endhint %}
+{% end %}
 
-{% hint style="warning" %}
+{%  style="warning" %}
 2 Months
-{% endhint %}
+{% end %}
 
 ## 10(02).‌ ‌Additional‌ ‌Certificate‌ ‌Requirements‌
 
@@ -38,9 +38,9 @@ No‌ ‌Person‌ ‌shall,‌\
 \
 A violation of 10(02). is an <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $150
-{% endhint %}
+{% end %}
 
 ## 10(03).‌ ‌Commercial‌ ‌Motor‌ ‌Vehicle‌ ‌Point‌ ‌System‌
 
@@ -78,9 +78,9 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(03). is an <mark style="color:green;">Infraction ‌ ‌</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $200
-{% endhint %}
+{% end %}
 
 ## 10(04).‌ ‌Duty‌ ‌Day‌ ‌Limits‌
 
@@ -95,9 +95,9 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(04). is an <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $350
-{% endhint %}
+{% end %}
 
 ## 10(05).‌ ‌Commercial‌ ‌Motor‌ ‌Vehicle‌ ‌Oversize/Overweight
 
@@ -111,9 +111,9 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(05). is an <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $500
-{% endhint %}
+{% end %}
 
 ## 10(06).‌ ‌Hazardous‌ ‌Material‌ ‌and‌ ‌Passenger‌ ‌Transportation‌
 
@@ -128,6 +128,6 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(06). is an <mark style="color:green;">Infraction</mark>
 
-{% hint style="success" %}
+{%  style="success" %}
 $275
-{% endhint %}
+{% end %}
