@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Title 1 - Crimes Against the Person](README.md)
+* [Title 1 - Crimes Against the Person](title-1-crimes-against-the-person.md)
 * [Title 2 - Crimes Against Property](title-2-crimes-against-property.md)
 * [Title 3 - Crimes Against Public Decency](title-3-crimes-against-public-decency.md)
 * [Title 4 - Crimes Against Public Justice](title-4-crimes-against-public-justice.md)
