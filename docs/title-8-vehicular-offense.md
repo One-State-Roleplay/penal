@@ -70,7 +70,7 @@ A violation of 8(04) carries a penalty of <mark style="color:yellow;">2 months</
 
 ## **8(05).‌ ‌Implied‌ ‌Consent‌**
 
-{%  style="info" %}
+
 Any person violating 8(05) must be read the [Implied Consent Warning](https://drive.google.com/file/d/1gKpkeu0zRD0yW0S7IfpPCIUuGmvK3FfE/view?usp=sharing) before being charged as a violator
 
 

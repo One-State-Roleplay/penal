@@ -125,7 +125,7 @@ No person shall&#x20;
 
 &#x20;    a) attempt‌ ‌to or‌ ‌maliciously‌ damage,‌ ‌move,‌ ‌displace,‌ ‌injure,‌ ‌interfere ‌with‌ ‌any‌ ‌State‌ ‌infrastructure
 
-{%  style="info" %}
+
 State Infrastructure is defined as:
 
 &#x20;   i) Dam‌ ‌walls ‌and‌ ‌accompanying ‌equipment‌ ‌and‌ ‌utilities‌ ‌&#x20;
