@@ -28,10 +28,10 @@ A person commits First Degree Murder when they.
 
 &#x20;          Anyone in violation is guilty under this section of code.&#x20;
 
-A violation of 1(01) ‌is‌ ‌a‌ <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">Felony</mark>
+A violation of 1(01) ‌is‌ ‌a‌ <mark ="color:red;">****</mark> <mark ="color:red;"></mark><mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">60 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">60 Months</mark>
 {% endhint %}
 
 ## **1(02). Second Degree Murder**
@@ -44,10 +44,10 @@ A person commits Second Degree Murder when they.
 
 &#x20;         ****          i) Note the name-calling, smirking, “ Dirty looks” and/or general taunting alone do not qualify a quarrel and aren’t sufficient enough to justify a “heat of passion” argument. Anyone in violation is guilty under this section of code.
 
-A violation of 1(02) ‌is‌ ‌a‌ <mark style="color:red;">Felony</mark>
+A violation of 1(02) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">55 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">55 Months</mark>
 {% endhint %}
 
 ## 1(03). Manslaughter
@@ -58,10 +58,10 @@ A person commits Manslaughter when they.&#x20;
 
 &#x20;         Anyone in violation is guilty under this section of code.
 
-A violation of 1(03) ‌is‌ ‌a‌ <mark style="color:red;">Felony</mark>
+A violation of 1(03) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">30 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">30 Months</mark>
 {% endhint %}
 
 ## 1(04). Attempted Murder
@@ -78,10 +78,10 @@ A person commits Attempted Murder when they.
 
 &#x20;    Anyone in violation is guilty under this section of code.
 
-&#x20;    A violation of 1(04)A is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(04)A is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">28 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">28 Months</mark>
 {% endhint %}
 
 ## 1(05). Criminal Threats
@@ -98,9 +98,9 @@ A person commits Criminal Threats when they.
 
 &#x20;    Anyone in violation is guilty under this section of code.
 
-&#x20;    A violation of 1(05) is a wobbler. Therefore, depending on severity of the crime it can be a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 1(05) is a wobbler. Therefore, depending on severity of the crime it can be a <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{% hint ="warning" %}
 10 Months
 {% endhint %}
 
@@ -116,10 +116,10 @@ A person commits Harassment via Electronic Communication Device when they.
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-&#x20;  A violation of 1(06) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;  A violation of 1(06) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{% hint ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% endhint %}
 
 ## **1(07). Indirect Electronic Harassment**
@@ -130,10 +130,10 @@ A person commits Indirect Electronic Harassment when they.
 
 &#x20;    Anyone in violation is guilty under section of code.&#x20;
 
-&#x20;A violation of 1(07) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;A violation of 1(07) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
-<mark style="color:yellow;">4 Months</mark>
+{% hint ="warning" %}
+<mark ="color:yellow;">4 Months</mark>
 {% endhint %}
 
 ## **1(08). Assault**
@@ -144,10 +144,10 @@ A person commits Assault when they.
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-&#x20; A violation of 1(08) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20; A violation of 1(08) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{% hint ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% endhint %}
 
 ## **1(09). Battery**
@@ -158,10 +158,10 @@ A person commits Battery when they
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-A violation of 1(09) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 1(09) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{% hint ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% endhint %}
 
 ## 1(10). Assault with a Deadly Weapon
@@ -170,10 +170,10 @@ A person commits Assault with a Deadly Weapon when they.
 
 &#x20;    a) Commits 1(08). Assault and use of weapons that can cause great bodily injury or death.
 
-&#x20;    A violation of 1(10) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(10) is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">24 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">24 Months</mark>
 {% endhint %}
 
 ## **1(11). Stalking**
@@ -184,9 +184,9 @@ A person commits Staking when they
 
 &#x20;   b) Intentionally or maliciously follows or another person
 
-A violation of 1(11) is a <mark style="color:red;"></mark> <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 1(11) is a <mark ="color:red;"></mark> <mark ="color:yellow;">Misdemeanor</mark>
 
-{% hint style="warning" %}
+{% hint ="warning" %}
 4 Months
 {% endhint %}
 
@@ -196,10 +196,10 @@ A person commits False Imprisonment when they
 
 &#x20;    a) Commits 1(08). Assault and use of weapons that can cause great bodily injury or death.
 
-A violation of 1(12) is a <mark style="color:red;">Felony</mark>
+A violation of 1(12) is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">8 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">8 Months</mark>
 {% endhint %}
 
 ## 1(13). Kidnapping
@@ -216,10 +216,10 @@ A person commits Kidnapping they.
 
 &#x20; ****               3) Risk of harm - When moving the victim for the purpose of facilitating another crime or when you increase the perceived risk. (i.e. moving someone from a public place into a private one.)
 
-&#x20;    A violation of 1(13) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(13) is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">28 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">28 Months</mark>
 {% endhint %}
 
 ## 1(14). Torture
@@ -228,10 +228,10 @@ A person commits Torture when they.
 
 &#x20;    a) Intentionally causes extreme physical or psychological pain and suffering for someone for the purpose of revenge, extortion, persuasion, or for any sadistic purpose.
 
-&#x20;    A violation of 1(14) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(14) is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
-<mark style="color:red;">40 Months</mark>
+{% hint ="danger" %}
+<mark ="color:red;">40 Months</mark>
 {% endhint %}
 
 ## **1(15). Human Trafficking**
@@ -244,9 +244,9 @@ A person commits Human Trafficking when they.
 
 &#x20;    b) Intentionally restrict another person’s liberty with the intent of forced labor, or forced activities.
 
-&#x20;    A violation of 1(15) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(15) is a <mark ="color:red;">Felony</mark>
 
-{% hint style="danger" %}
+{% hint ="danger" %}
 40 Months
 {% endhint %}
 

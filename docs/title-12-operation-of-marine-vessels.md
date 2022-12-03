@@ -14,9 +14,9 @@ _Applicability‌_\
 A‌ ‌person‌ ‌shall‌ ‌not‌,\
 &#x20;    a) Operate‌ ‌any‌ ‌water‌ ‌vessel,‌ ‌without‌ ‌‌possessing‌‌ ‌a‌ ‌valid‌ ‌and‌ ‌current‌ ‌boating‌ ‌operators‌ ‌license.‌ ‌\
 \
-A violation of 12(01). is an <mark style="color:green;">Infraction ‌</mark>
+A violation of 12(01). is an <mark ="color:green;">Infraction ‌</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -30,9 +30,9 @@ No‌ ‌Person‌ ‌Shall‌,\
 &#x20;    iv) Functional‌ ‌2‌ ‌way‌ ‌radio‌ ‌tuned‌ ‌to‌ ‌the‌ ‌appropriate‌ ‌frequency‌ ‌\
 &#x20;     v) Fire‌ ‌suppression‌ ‌system‌ ‌(i.e.‌ ‌Fire‌ ‌Extinguisher,‌ ‌Sprinkler‌ ‌System**)‌**\
 ****\
-****A violation of 12(02). is an <mark style="color:green;">Infraction</mark>
+****A violation of 12(02). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $250
 {% end %}
 
@@ -45,10 +45,10 @@ No‌ ‌Person‌ ‌Shall‌,\
 &#x20;    iii) Speed‌ ‌Limit‌ ‌of‌ ‌25‌ ‌mph‌ ‌enforced‌ ‌within‌ ‌25‌ ‌meters‌ ‌of‌ ‌any‌ ‌coast‌ ‌or‌ ‌shoreline‌ ‌when‌ ‌not‌ ‌in‌ ‌a‌ ‌designated‌ ‌swim‌ ‌area,‌ ‌public‌ ‌or‌ ‌private.‌ ‌\
 &#x20;    iv) No‌ ‌Speed‌ ‌limit‌ ‌enforced‌ ‌on‌ ‌any‌ ‌water‌ ‌considered‌ ‌to‌ ‌be‌ ‌“open‌ ‌seas”‌ ‌however‌ ‌a‌ ‌vessel‌ ‌is‌ ‌considered‌ ‌operating‌ ‌in‌ ‌an‌ ‌unsafe‌ ‌or‌ ‌reckless‌ ‌manor‌ ‌anytime‌ ‌when‌ ‌it's‌ ‌speeds‌ ‌exceed‌ ‌what‌ ‌is‌ ‌fit‌ ‌for‌ ‌the‌ ‌conditions‌ ‌\
 \
-A violation of 12(03). is an <mark style="color:green;">Infraction</mark>\
+A violation of 12(03). is an <mark ="color:green;">Infraction</mark>\
 Violations‌ ‌of‌ ‌this‌ ‌offense‌ ‌are‌ ‌escalated‌ ‌if‌ ‌repeated‌ ‌over‌ ‌a‌ ‌1‌ ‌week‌ ‌timeframe‌. Upon‌ ‌a‌ ‌third‌ ‌violation,‌ ‌the‌ ‌boater’s‌ ‌maritime‌ ‌license‌ ‌can‌ ‌be‌ ‌suspended‌ ‌for‌ ‌3‌ ‌days‌ ‌(in‌ ‌game)‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌
 
-{%  style="success" %}
+{%  ="success" %}
 $250
 {% end %}
 
@@ -60,8 +60,8 @@ No‌ ‌Person‌ ‌Shall‌,\
 &#x20;     ii) Within‌ ‌500ft‌ ‌of‌ ‌Los‌ ‌Santos‌ ‌International‌ ‌Airport‌ ‌\
 &#x20;    iii) Any‌ ‌area‌ ‌marked‌ ‌“Not‌ ‌for‌ ‌Entry‌ ‌by‌ ‌Boats”‌ ‌\
 \
-A violation of 12(04). is an <mark style="color:green;">Infraction</mark>
+A violation of 12(04). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $400
 {% end %}

@@ -24,13 +24,13 @@ No‌ ‌person‌ ‌may‌ ‌park‌ ‌a‌ ‌‌vehicle‌‌ ‌in‌ ‌
 
 &#x20;    d) Blocks‌ ‌a‌ ‌Fire‌ ‌Lane‌
 
-&#x20;  A violation of 14(01) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
+&#x20;  A violation of 14(01) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
 
 The‌ ‌‌vehicle‌‌ ‌may‌ ‌also‌ ‌be‌ ‌towed‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌any‌ ‌Fire‌ ‌Investigator‌ ‌or‌ ‌Peace Officer.‌ ‌&#x20;
 
 When‌ ‌SAFD‌ ‌is‌ ‌responding‌ ‌to‌ ‌an‌ ‌official‌ ‌call,‌ ‌they‌ ‌reserve‌ ‌the‌ ‌right‌ ‌to‌ ‌do‌ ‌whatever‌ ‌that‌ ‌they deem ‌necessary‌ ‌to‌ ‌an‌ ‌illegally‌ ‌parked‌ ‌‌vehicle‌‌ ‌that‌ ‌is‌ ‌actively‌ ‌preventing‌ ‌or‌ ‌obstructing‌ ‌their operations.‌
 
-{%  style="success" %}
+{%  ="success" %}
 $250
 {% end %}
 
@@ -88,11 +88,11 @@ The‌ ‌fire‌ ‌must‌ ‌be‌ ‌within‌ ‌daylight‌ ‌hours‌ �
 
 e) Be‌ ‌in‌ ‌compliance‌ ‌with‌ ‌the‌ ‌terms‌ ‌of‌ ‌their‌ ‌Burn‌ ‌Permit‌ ‌/‌ ‌Fireworks‌ ‌Permit‌ ‌for‌ ‌the‌ ‌Permit’s‌ ‌duration.‌
 
-A violation of 14(03) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
+A violation of 14(03) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
 
 In‌ ‌instances‌ ‌where‌ ‌14(02)A‌ ‌or‌ ‌14(02)C‌ ‌are‌ ‌violated‌ ‌and‌ ‌the‌ ‌fire‌ ‌spreads‌ ‌to‌ ‌affect‌ ‌another person ‌or‌ ‌their‌ ‌‌property‌,‌ ‌the‌ ‌offender‌ ‌may‌ ‌also‌ ‌be‌ ‌subject‌ ‌to‌ ‌‌14(04).‌ ‌Negligent‌ ‌Arson‌.‌ ‌ In‌ ‌instances‌ ‌where‌ ‌14(02)B‌ ‌or‌ ‌14(02)D‌ ‌are‌ ‌violated‌ ‌and‌ ‌the‌ ‌fire‌ ‌spreads‌ ‌to‌ ‌affect‌ ‌another person ‌or‌ ‌their‌ ‌‌property‌‌ ‌as‌ ‌a‌ ‌direct‌ ‌result‌ ‌of‌ ‌a‌ ‌regulation‌ ‌that‌ ‌was‌ ‌violated,‌ ‌the‌ ‌offender‌ ‌may‌ ‌also‌ ‌be‌ ‌subject‌ ‌to‌ ‌‌14(04).‌ ‌Negligent‌ ‌Arson‌.‌
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -185,13 +185,13 @@ ii) The‌ ‌labels‌ ‌on‌ ‌Hazardous‌ ‌Materials‌ ‌do not follo
 kk) A‌ ‌building‌ ‌owner‌ ‌shall‌ ‌not‌ ‌hinder,‌ ‌obstruct,‌ ‌or‌ ‌interfere‌ ‌with‌ ‌a‌ ‌Fire‌ ‌Investigator‌ ‌conducting‌ ‌an‌ ‌inspection.‌ ‌\
 
 
-1st violation of 14(04) ‌is‌ ‌a‌ ‌‌<mark style="color:blue;">Written‌ ‌Warning‌</mark>.‌ ‌&#x20;
+1st violation of 14(04) ‌is‌ ‌a‌ ‌‌<mark ="color:blue;">Written‌ ‌Warning‌</mark>.‌ ‌&#x20;
 
-2nd violation of 14(04) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
+2nd violation of 14(04) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
 
-3rd violation of 14(04) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌‌</mark> resulting in <mark style="color:green;"></mark> a‌ ‌building‌ ‌shut‌ ‌down‌ ‌for‌ ‌a‌ ‌period‌ ‌of three ‌(3)‌ ‌days.‌ ‌&#x20;
+3rd violation of 14(04) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌‌</mark> resulting in <mark ="color:green;"></mark> a‌ ‌building‌ ‌shut‌ ‌down‌ ‌for‌ ‌a‌ ‌period‌ ‌of three ‌(3)‌ ‌days.‌ ‌&#x20;
 
-4th violation ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌‌ ‌‌</mark>resulting ‌in‌ ‌an‌ ‌indefinite‌ ‌building shut ‌down.‌ ‌&#x20;
+4th violation ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌‌ ‌‌</mark>resulting ‌in‌ ‌an‌ ‌indefinite‌ ‌building shut ‌down.‌ ‌&#x20;
 
 This‌ ‌section‌ ‌of‌ ‌code‌ ‌may‌ ‌only‌ ‌be‌ ‌enforced‌ ‌by‌ ‌a‌ ‌Fire‌ ‌Investigator.‌ ‌ Violations‌ ‌of‌ ‌14(03) JJ ‌and‌ ‌14(03) KK ‌may‌ ‌be‌ ‌subject‌ ‌to‌ ‌an‌ ‌arrest‌ ‌under‌ ‌‌4(07).‌ ‌Obstruction‌ ‌of a ‌Government‌ ‌Employee‌.‌ ‌ ‌
 
@@ -203,13 +203,13 @@ A‌ ‌person‌ ‌commits‌ ‌Negligent‌ ‌Arson‌ ‌when‌ ‌they,�
 
 &#x20;      i) For‌ ‌the‌ ‌purposes‌ ‌of‌ ‌this‌ ‌section‌ ‌only,‌ ‌‌property‌‌ ‌does‌ ‌not‌ ‌include‌ ‌the‌ ‌person’s‌ ‌own‌ ‌‌property‌.‌
 
-When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌‌property‌,‌ ‌violation of 14(05) is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
+When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌‌property‌,‌ ‌violation of 14(05) is‌ ‌a‌ ‌‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
 
-When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌a‌ ‌‌structure‌‌ ‌or‌ ‌forest‌ ‌land,‌ ‌violation of 14(05) is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
+When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌a‌ ‌‌structure‌‌ ‌or‌ ‌forest‌ ‌land,‌ ‌violation of 14(05) is‌ ‌a‌ ‌‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
 
-When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌an‌ ‌inhabited‌ ‌‌property‌‌ ‌or‌ ‌inhabited‌ ‌‌structure‌,‌ ‌this‌ ‌violation is‌ ‌<mark style="color:red;">Felony‌</mark>.‌
+When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌an‌ ‌inhabited‌ ‌‌property‌‌ ‌or‌ ‌inhabited‌ ‌‌structure‌,‌ ‌this‌ ‌violation is‌ ‌<mark ="color:red;">Felony‌</mark>.‌
 
-&#x20;‌When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury, ‌violation of 14(05) is a‌ <mark style="color:red;">Felony‌</mark>.‌ ‌
+&#x20;‌When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury, ‌violation of 14(05) is a‌ <mark ="color:red;">Felony‌</mark>.‌ ‌
 
 &#x20;Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury‌ ‌also‌ ‌occurs‌ ‌when‌ ‌the‌ ‌fire‌ ‌causes‌ ‌injury‌ ‌to‌ ‌firefighter or other emergency personnel.‌
 
@@ -221,13 +221,13 @@ When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌an‌ ‌inhabited�
 
 &#x20;    b) Intentionally‌ ‌aids,‌ ‌counsels,‌ ‌or‌ ‌helps‌ ‌facilitate‌ ‌a‌ ‌fire‌ ‌of‌ ‌any‌ ‌‌structure‌,‌ ‌wildland,‌ ‌or‌ ‌‌property‌
 
-&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌‌property‌,‌ ‌violation of 14(06) is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
+&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌‌property‌,‌ ‌violation of 14(06) is‌ ‌a‌ ‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌ ‌&#x20;
 
-&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌a‌ ‌‌structure‌‌ ‌or‌ ‌forest‌ ‌land,‌ ‌violation of 14(06) is‌ ‌a‌ ‌<mark style="color:red;">Felony‌</mark>.‌ ‌
+&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌a‌ ‌‌structure‌‌ ‌or‌ ‌forest‌ ‌land,‌ ‌violation of 14(06) is‌ ‌a‌ ‌<mark ="color:red;">Felony‌</mark>.‌ ‌
 
-&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌an‌ ‌inhabited‌ ‌‌property‌‌ ‌or‌ ‌inhabited‌ ‌‌structure‌,‌ ‌violation of 14(06) is a ‌<mark style="color:red;">Felony‌</mark>.‌ ‌
+&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌of‌ ‌an‌ ‌inhabited‌ ‌‌property‌‌ ‌or‌ ‌inhabited‌ ‌‌structure‌,‌ ‌violation of 14(06) is a ‌<mark ="color:red;">Felony‌</mark>.‌ ‌
 
-&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury,‌ ‌violation of 14(06) is ‌a <mark style="color:red;">Felony‌</mark>.‌ ‌&#x20;
+&#x20;  When‌ ‌someone‌ ‌commits‌ ‌Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury,‌ ‌violation of 14(06) is ‌a <mark ="color:red;">Felony‌</mark>.‌ ‌&#x20;
 
 Arson‌ ‌that‌ ‌causes‌ ‌great‌ ‌bodily‌ ‌injury‌ ‌also‌ ‌occurs‌ ‌when‌ ‌the‌ ‌fire‌ ‌causes‌ ‌injury‌ ‌to‌ ‌firefighter or other emergency personnel.‌
 
@@ -239,9 +239,9 @@ A‌ ‌person‌ ‌commits‌ ‌Open‌ ‌Flame‌ ‌near‌ ‌a‌ ‌Fir
 
 &#x20;       i) This‌ ‌includes,‌ ‌but‌ ‌is‌ ‌not‌ ‌limited‌ ‌to,‌ ‌gas‌ ‌pumps‌ ‌or‌ ‌gas‌ ‌tanks.‌
 
-For‌ ‌a‌ ‌first‌ ‌offense,‌ violation of 14(07) is‌ ‌a‌ ‌‌<mark style="color:blue;">Written‌ ‌Warning‌</mark>.‌ ‌
+For‌ ‌a‌ ‌first‌ ‌offense,‌ violation of 14(07) is‌ ‌a‌ ‌‌<mark ="color:blue;">Written‌ ‌Warning‌</mark>.‌ ‌
 
-&#x20;For‌ ‌a‌ ‌second‌ ‌offense‌ ‌or‌ ‌if‌ ‌the‌ ‌offender‌ ‌fails‌ ‌to‌ ‌comply‌ ‌with‌ ‌the‌ ‌written‌ ‌warning,‌ ‌violation of 14(07) is an ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
+&#x20;For‌ ‌a‌ ‌second‌ ‌offense‌ ‌or‌ ‌if‌ ‌the‌ ‌offender‌ ‌fails‌ ‌to‌ ‌comply‌ ‌with‌ ‌the‌ ‌written‌ ‌warning,‌ ‌violation of 14(07) is an ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌ ‌&#x20;
 
 If‌ ‌in‌ ‌the‌ ‌same‌ ‌instance,‌ ‌the‌ ‌offender‌ ‌continues‌ ‌to‌ ‌fail‌ ‌to‌ ‌comply‌ ‌with‌ ‌a‌ ‌lawful‌ ‌order‌ ‌such‌ ‌as this,‌ ‌the‌ ‌offender‌ ‌may‌ ‌be‌ ‌charged‌ ‌with‌ ‌4(08).‌ ‌Obstruction‌ ‌of‌ ‌a‌ ‌Government‌ ‌Employee.‌
 
@@ -291,5 +291,5 @@ A‌ ‌person‌ ‌commits‌ ‌“Restrictions‌ ‌on‌ ‌Smoking”‌ 
 
 &#x20;    c) smoke ‌a‌ ‌cigarette,‌ ‌cigar,‌ ‌or‌ ‌electronic‌ ‌cigarette‌ ‌on‌ ‌any‌ ‌‌property‌‌ ‌that‌ ‌doesn’t‌ ‌allow‌ ‌smoking‌ ‌as‌ ‌directed‌ ‌by‌ ‌a‌ ‌posted‌ ‌sign‌ ‌or‌ ‌by‌ ‌the‌ ‌owner‌ ‌of‌ ‌the‌ ‌‌property‌.‌
 
-A violation of 14(08) is an <mark style="color:green;">Infraction</mark>.
+A violation of 14(08) is an <mark ="color:green;">Infraction</mark>.
 

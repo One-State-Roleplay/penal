@@ -10,11 +10,11 @@ A‌ ‌person‌ commits Loitering when they
 
 Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌code.‌ ‌&#x20;
 
-A violation of 2(01) ‌is‌ ‌a‌ ‌‌<mark style="color:green;">Infraction ‌</mark>&#x20;
+A violation of 2(01) ‌is‌ ‌a‌ ‌‌<mark ="color:green;">Infraction ‌</mark>&#x20;
 
 This‌ ‌crime‌ ‌cannot‌ ‌be‌ ‌stacked‌ ‌with‌ ‌Trespassing,‌ ‌Federal‌ ‌Trespassing‌ ‌or‌ ‌Burglary.‌
 
-{%   style="success" %}
+{%   ="success" %}
 $500
 {% end  %}
 
@@ -28,9 +28,9 @@ A‌ ‌person‌ ‌commits‌ ‌Trespassing‌ ‌when‌ ‌they,‌
 
 &#x20;    b) Enter‌ ‌a‌ ‌restricted‌ ‌area‌ ‌of‌ ‌the‌ ‌open‌ ‌‌property‌,‌ ‌defined‌ ‌by‌ ‌a‌ ‌clearly‌ ‌marked‌ ‌restricted‌ ‌area‌ ‌without‌ ‌prior‌ ‌consent‌ ‌from‌ ‌the‌ ‌authorized designee ‌of‌ ‌the‌ ‌‌property‌.‌
 
-&#x20;    A violation of 2(02) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(02) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
+{%   ="warning" %}
 6 Months
 {% end  %}
 
@@ -42,9 +42,9 @@ A‌ ‌person‌ ‌commits‌ ‌Federal‌ ‌Trespassing‌ ‌when‌ ‌th
 
 &#x20;    b) Such‌ ‌facilities‌ ‌include‌ ‌‌(but‌ ‌are‌ ‌not‌ ‌limited‌ ‌to)‌ ‌‌correctional‌ ‌institutions,‌ ‌airports,‌ ‌military‌ ‌encampments,‌ ‌restricted‌ ‌ports,‌ ‌and‌ ‌federally‌ ‌restricted‌ ‌spaces.‌
 
-&#x20;    A violation of 2(03) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(03) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
+{%   ="warning" %}
 3 Months
 {% end  %}
 
@@ -54,10 +54,10 @@ A‌ ‌person‌ ‌commits‌ ‌Unauthorized‌ ‌Access‌ ‌to‌ ‌an�
 
 &#x20;    a) Knowingly‌ ‌and‌ ‌without‌ ‌permission‌ ‌access‌ ‌an‌ ‌electronic‌ ‌device‌ ‌and‌ ‌use‌ ‌or‌ ‌modify‌ ‌its‌ ‌contents‌ ‌in‌ ‌any‌ ‌way.‌ ‌ ‌
 
-&#x20;    A violation of 2(04) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(04) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
-<mark style="color:yellow;">4 Months</mark>
+{%   ="warning" %}
+<mark ="color:yellow;">4 Months</mark>
 {% end  %}
 
 ## 2(05).‌ ‌Vandalism‌
@@ -66,13 +66,13 @@ A‌ ‌person‌ ‌commits‌ ‌Vandalism‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    a) Deface,‌ ‌damage,‌ ‌or‌ ‌destroy‌ ‌‌property‌‌ ‌that‌ ‌belongs‌ ‌to‌ ‌another.‌ ‌
 
-&#x20;    A‌ ‌violation‌ ‌of‌ ‌2(05)‌ ‌is‌ ‌a‌ ‌wobbler.‌ ‌Therefore,‌ ‌depending‌ ‌on‌ ‌the‌ ‌severity‌ ‌of‌ ‌the‌ ‌crime,‌ ‌it‌ ‌can‌ ‌be‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌‌ ‌‌</mark>or‌ ‌a‌ ‌‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌
+&#x20;    A‌ ‌violation‌ ‌of‌ ‌2(05)‌ ‌is‌ ‌a‌ ‌wobbler.‌ ‌Therefore,‌ ‌depending‌ ‌on‌ ‌the‌ ‌severity‌ ‌of‌ ‌the‌ ‌crime,‌ ‌it‌ ‌can‌ ‌be‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌‌ ‌‌</mark>or‌ ‌a‌ ‌‌ ‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌
 
-{%   style="success" %}
+{%   ="success" %}
 $250
 {% end  %}
 
-{%   style="warning" %}
+{%   ="warning" %}
 2 Months
 {% end  %}
 
@@ -84,9 +84,9 @@ A‌ ‌person‌ ‌commits‌ ‌Receiving‌ ‌Stolen‌ ‌Property‌ ‌w
 
 &#x20;    b) Conceals,‌ ‌sells,‌ ‌withholds,‌ ‌or‌ ‌aids‌ ‌in‌ ‌concealing,‌ ‌selling,‌ ‌or‌ ‌withholding‌ ‌any‌ ‌‌property‌‌ ‌from‌ ‌the‌ ‌owner,‌ ‌knowing‌ ‌the‌ ‌‌property‌‌ ‌to‌ ‌be‌ ‌so‌ ‌stolen‌ ‌or‌ ‌obtained.‌
 
-&#x20;    A violation of 2(06) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(06) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
+{%   ="warning" %}
 5 Months
 {% end  %}
 
@@ -100,10 +100,10 @@ A‌ ‌person‌ ‌commits‌ ‌Petty‌ ‌Theft‌ ‌when‌ ‌they,‌ �
 
 &#x20;    b) Fail‌ ‌to‌ ‌pay‌ ‌a‌ ‌contract‌ ‌or‌ ‌invoice‌ ‌(not‌ ‌citation)‌ ‌with‌ ‌a‌ ‌total‌ ‌of‌ ‌less‌ ‌than‌ ‌$950‌ ‌within‌ ‌a‌ ‌set‌ ‌timeframe.‌
 
-&#x20;    A violation of 2(07) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(07) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
-<mark style="color:yellow;">8 Months</mark>
+{%   ="warning" %}
+<mark ="color:yellow;">8 Months</mark>
 {% end  %}
 
 ## 2(08).‌ ‌Grand‌ ‌Theft‌ ‌
@@ -114,10 +114,10 @@ A‌ ‌person‌ ‌commits‌ ‌Grand‌ ‌Theft‌ ‌when‌ ‌they,‌
 
 &#x20;    b) Steal‌ ‌a‌ ‌firearm‌ ‌that‌ ‌belongs‌ ‌to‌ ‌another‌ ‌person;‌ ‌or‌ ‌     c) Fail‌ ‌to‌ ‌pay‌ ‌a‌ ‌contract‌ ‌or‌ ‌invoice‌ ‌(not‌ ‌citation)‌ ‌with‌ ‌a‌ ‌total‌ ‌greater‌ ‌than‌ ‌or‌ ‌equal‌ ‌to‌ ‌$950‌ ‌within‌ ‌a‌ ‌set‌ ‌timeframe.‌ ‌
 
-&#x20;    A violation of 2(08) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(08) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">15 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">15 Months</mark>
 {% end  %}
 
 ## 2(09).‌ ‌Carjacking‌ ‌
@@ -126,10 +126,10 @@ A‌ ‌person‌ ‌commits‌ ‌Carjacking‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    a) Use‌ ‌force‌ ‌or‌ ‌fear‌ ‌to‌ ‌take‌ ‌a‌ ‌‌vehicle‌‌ ‌from‌ ‌another‌ ‌person.‌ ‌
 
-&#x20;    A violation of 2(09) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(09) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">15 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">15 Months</mark>
 {% end  %}
 
 ## 2(10).‌ ‌Grand‌ ‌Theft‌ ‌Auto‌
@@ -140,10 +140,10 @@ A‌ ‌person‌ ‌commits‌ ‌Grand‌ ‌Theft‌ ‌Auto‌ ‌when‌ �
 
 &#x20;    b) Without‌ ‌the‌ ‌permission‌ ‌from‌ ‌the‌ ‌registered‌ ‌owner.‌ ‌
 
-&#x20;    A violation of 2(10) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(10) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">22 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">22 Months</mark>
 {% end  %}
 
 ## 2(11).‌ ‌Burglary‌ ‌
@@ -153,10 +153,10 @@ A‌ ‌person‌ ‌commits‌ ‌Burglary‌ ‌when‌ ‌they,‌ ‌\
 
 &#x20;    b) Intends‌ ‌to‌ ‌commit‌ ‌‌2(07).‌ ‌Petty‌ ‌Theft‌‌ ‌or‌ ‌any‌ ‌other‌ ‌felony.‌ ‌
 
-&#x20;    A violation of 2(11) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(11) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">12 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">12 Months</mark>
 {% end  %}
 
 ## 2(12).‌ ‌Possession‌ ‌of‌ ‌Burglary‌ ‌Tools‌ ‌
@@ -167,10 +167,10 @@ A‌ ‌person‌ ‌commits‌ ‌Possession‌ ‌of‌ ‌Burglary‌ ‌tool
 
 &#x20;    b) Has‌ ‌intent‌ ‌to‌ ‌commit‌ ‌‌2(11).‌ ‌Burglary.‌ ‌
 
-&#x20;    A violation of 2(12) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 2(12) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
-<mark style="color:yellow;">5 Months</mark>
+{%   ="warning" %}
+<mark ="color:yellow;">5 Months</mark>
 {% end  %}
 
 ## 2(13).‌ ‌Robbery‌ ‌
@@ -181,10 +181,10 @@ A‌ ‌Person‌ ‌commits‌ ‌Robbery‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    b) Intended‌ ‌to‌ ‌deprive‌ ‌the‌ ‌owner‌ ‌of‌ ‌the‌ ‌‌property‌‌ ‌permanently‌ ‌or‌ ‌for‌ ‌a‌ ‌long‌ ‌enough‌ ‌time‌ ‌to‌ ‌deprive‌ ‌the‌ ‌owner‌ ‌of‌ ‌a‌ ‌major‌ ‌portion‌ ‌of‌ ‌its‌ ‌value.‌ ‌
 
-&#x20;    A violation of 2(13) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(13) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">20 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">20 Months</mark>
 {% end  %}
 
 ## 2(14).‌ ‌Forgery/Fraud‌ ‌
@@ -201,10 +201,10 @@ A‌ ‌person‌ ‌commits‌ ‌Forgery‌ ‌/‌ ‌Fraud‌ ‌when‌ ‌
 
 &#x20;    c) Intentionally‌ ‌misrepresent‌ ‌a‌ ‌matter‌ ‌of‌ ‌fact‌ ‌-‌ ‌whether‌ ‌by‌ ‌words‌ ‌or‌ ‌by‌ ‌conduct,‌ ‌by‌ ‌false‌ ‌or‌ ‌misleading‌ ‌allegations,‌ ‌or‌ ‌by‌ ‌concealment‌ ‌of‌ ‌what‌ ‌should‌ ‌have‌ ‌been‌ ‌disclosed‌ ‌-‌ ‌that‌ ‌deceives‌ ‌and‌ ‌is‌ ‌intended‌ ‌to‌ ‌deceive‌ ‌another‌ ‌so‌ ‌that‌ ‌such‌ ‌other‌ ‌will‌ ‌act‌ ‌upon‌ ‌it‌ ‌to‌ ‌their‌ ‌disadvantage.‌ ‌
 
-&#x20;    A violation of 2(14) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 2(14) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">16 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">16 Months</mark>
 {% end  %}
 
 ## 2(15).‌ ‌Commercial‌ ‌Bribery‌ ‌
@@ -215,10 +215,10 @@ A‌ ‌person‌ ‌commits‌ ‌Bribery‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;    b) Are‌ ‌an‌ ‌employee‌ ‌of‌ ‌a‌ ‌company‌ ‌that‌ ‌accepts‌ ‌something‌ ‌of‌ ‌value‌ ‌from‌ ‌another‌ ‌person‌ ‌with‌ ‌the‌ ‌intent‌ ‌to‌ ‌influence‌ ‌the‌ ‌employee’s‌ ‌decision‌ ‌to‌ ‌the‌ ‌benefit‌ ‌of‌ ‌the‌ ‌person‌ ‌providing‌ ‌said‌ ‌something‌ ‌of‌ ‌value.‌ ‌
 
-&#x20;         A violation of 2(15) is a <mark style="color:red;">Felony</mark>
+&#x20;         A violation of 2(15) is a <mark ="color:red;">Felony</mark>
 
-{%   style="danger" %}
-<mark style="color:red;">14 Months</mark>
+{%   ="danger" %}
+<mark ="color:red;">14 Months</mark>
 {% end  %}
 
 ## 2(16).‌ ‌Extortion‌
@@ -233,8 +233,8 @@ A‌ ‌person‌ ‌commits‌ ‌Extortion‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;   c) Utilize‌ ‌privileged‌ ‌information‌ ‌to‌ ‌intimidate‌ ‌another‌ ‌for‌ ‌certain‌ ‌‌property‌‌ ‌or‌ ‌services.‌ ‌
 
-&#x20;    A violation of 2(16) is a <mark style="color:yellow;">Misdemeanor</mark> ‌
+&#x20;    A violation of 2(16) is a <mark ="color:yellow;">Misdemeanor</mark> ‌
 
-{%   style="warning" %}
+{%   ="warning" %}
 6 Months
 {% end  %}

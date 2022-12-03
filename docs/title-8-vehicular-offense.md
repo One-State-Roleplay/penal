@@ -21,10 +21,10 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌‌Vehicle‌‌ ‌Registration‌ �
 &#x20;    d) Don't‌ ‌have‌ ‌proof‌ ‌of‌ ‌registration‌ ‌inside‌ ‌the‌ ‌‌motor‌ ‌vehicle‌‌ ‌while‌ ‌it's‌ ‌being‌ ‌operated‌ ‌inside‌ ‌the‌ ‌State‌ ‌of‌ ‌San‌ ‌Andreas.‌ ‌\
 
 
-&#x20;A violation of 8(01) is an <mark style="color:green;">Infraction</mark>
+&#x20;A violation of 8(01) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
-A violation of 8(01) carries a fine of <mark style="color:green;">$500</mark>, the vehicle must be impounded
+{%  ="success" %}
+A violation of 8(01) carries a fine of <mark ="color:green;">$500</mark>, the vehicle must be impounded
 {% end %}
 
 ## **8(02).‌ ‌Autonomous‌ ‌Vehicles‌**
@@ -34,10 +34,10 @@ A violation of 8(01) carries a fine of <mark style="color:green;">$500</mark>, t
 &#x20;          i) These‌ ‌vehicles‌ ‌can‌ ‌only‌ ‌be‌ ‌driven/managed‌ ‌by‌ ‌company‌ ‌employees or;\
 &#x20;‌     b) Manufacturer‌ ‌who‌ ‌makes‌ ‌a‌ ‌‌vehicle‌‌ ‌that‌ ‌is‌ ‌intended‌ ‌for‌ ‌public‌ ‌use‌ ‌must‌ ‌be‌ ‌given‌ ‌a‌ ‌deployment‌ ‌permit‌ ‌by‌ ‌the‌ ‌San‌ ‌Andreas‌ ‌Transportation‌ ‌Safety‌ ‌Board‌ ‌and‌ ‌the‌ ‌San‌ ‌Andreas‌ ‌Department‌ ‌of‌ ‌Motor‌ ‌Vehicles‌ ‌prior‌ ‌to‌ ‌being‌ ‌sold.‌ ‌ ‌
 
-A violation of 8(02) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(02) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
-A violation of 8(02) carries a penalty of <mark style="color:green;">$500</mark>, the vehicle may be impounded
+{%  ="success" %}
+A violation of 8(02) carries a penalty of <mark ="color:green;">$500</mark>, the vehicle may be impounded
 {% end %}
 
 ## **8(03).‌ ‌Driving‌ ‌Without‌ ‌a‌ ‌License‌ ‌**
@@ -50,10 +50,10 @@ All‌ ‌persons‌ ‌driving‌ ‌a‌ ‌‌motor‌ ‌vehicle‌‌ ‌on
 
 &#x20;‌     b) Have‌ ‌their‌ ‌valid‌ ‌driver’s‌ ‌license‌ ‌or‌ ‌provisional‌ ‌instruction‌ ‌permit‌ ‌in‌ ‌their‌ ‌immediate‌ ‌possession‌ ‌at‌ ‌all‌ ‌times‌ ‌while‌ ‌driving‌ ‌a‌ ‌‌motor‌ ‌vehicle‌;‌ ‌ ‌
 
-A violation of 8(03) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(03) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
-A violation of 8(03) carries a fine of <mark style="color:green;">$500</mark>, the vehicle may be impounded
+{%  ="success" %}
+A violation of 8(03) carries a fine of <mark ="color:green;">$500</mark>, the vehicle may be impounded
 {% end %}
 
 ## **8(04).‌ ‌Driving‌ ‌with‌ ‌a‌ ‌Suspended‌ ‌or‌ ‌Revoked‌ ‌License‌ ‌**
@@ -62,15 +62,15 @@ A‌ ‌person‌ ‌commits‌ ‌Driving‌ ‌while‌ ‌Suspended‌ ‌or�
 **** ‌     a) Drives‌‌ ‌a‌ ‌‌motor‌ ‌vehicle‌‌ ‌on‌ ‌a‌ ‌‌highway‌;‌ ‌and‌ ‌\
 &#x20;‌     b) Has‌ ‌a‌ ‌revoked‌ ‌or‌ ‌suspended‌ ‌license‌ ‌or‌ ‌provisional‌ ‌instruction‌ ‌permit.‌ ‌
 
-A violation of 8(04) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(04) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-A violation of 8(04) carries a penalty of <mark style="color:yellow;">2 months</mark> of incarceration, the vehicle may be impounded
+{%  ="warning" %}
+A violation of 8(04) carries a penalty of <mark ="color:yellow;">2 months</mark> of incarceration, the vehicle may be impounded
 {% end %}
 
 ## **8(05).‌ ‌Implied‌ ‌Consent‌**
 
-{%  style="info" %}
+{%  ="info" %}
 Any person violating 8(05) must be read the [Implied Consent Warning](https://drive.google.com/file/d/1gKpkeu0zRD0yW0S7IfpPCIUuGmvK3FfE/view?usp=sharing) before being charged as a violator
 {% end %}
 
@@ -86,10 +86,10 @@ Any person violating 8(05) must be read the [Implied Consent Warning](https://dr
 
 &#x20;         i) such tests may only be administered by a physician, certified paramedic, registered nurse, licensed practitioner nurse, or other personnel authorized by a hospital to draw blood acting at the request of a law enforcement officer.
 
-A violation of 8(05) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(05) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-A violation of 8(05) carries a penalty of <mark style="color:yellow;">6 months</mark> of incarceration, and a driver's license revocation for 1 year. The vehicle may be impounded
+{%  ="warning" %}
+A violation of 8(05) carries a penalty of <mark ="color:yellow;">6 months</mark> of incarceration, and a driver's license revocation for 1 year. The vehicle may be impounded
 {% end %}
 
 ## **8(06).‌ ‌Vehicle‌ ‌Insurance‌ ‌**
@@ -98,10 +98,10 @@ A‌ ‌driver‌ ‌commits‌ ‌a‌ ‌‌Vehicle‌‌ ‌Insurance‌ ‌v
 **** ‌     a) Fail‌ ‌to‌ ‌obtain‌ ‌insurance‌ ‌on‌ ‌the‌ ‌‌motor‌ ‌vehicle‌‌ ‌they‌ ‌are‌ ‌driving;‌ ‌or‌ ‌\
 &#x20;‌     b) Fail‌ ‌to‌ ‌show‌ ‌proof‌ ‌of‌ ‌‌motor‌ ‌vehicle‌‌ ‌insurance‌ ‌when‌ ‌asked‌ ‌to‌ ‌do‌ ‌so‌ ‌by‌ ‌a‌ ‌law‌ ‌enforcement‌ ‌officer.
 
-A violation of 8(06) is an <mark style="color:green;">Infraction</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>If‌ ‌the‌ ‌subject(s)‌ ‌have‌ ‌gotten‌ ‌into‌ ‌an‌ ‌MVA‌ ‌and‌ ‌are‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(06),‌ ‌regardless‌ ‌of‌‌whether‌ ‌ they‌ ‌\
+A violation of 8(06) is an <mark ="color:green;">Infraction</mark>\ <mark ="color:green;"></mark>\ <mark ="color:green;"></mark>If‌ ‌the‌ ‌subject(s)‌ ‌have‌ ‌gotten‌ ‌into‌ ‌an‌ ‌MVA‌ ‌and‌ ‌are‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(06),‌ ‌regardless‌ ‌of‌‌whether‌ ‌ they‌ ‌\
 are‌ ‌at‌ ‌fault‌ ‌or‌ ‌not,‌ ‌the‌ ‌person(s)‌ ‌in‌ ‌question‌ ‌are‌ ‌to‌ ‌receive‌ ‌a‌ ‌license‌ ‌suspension‌ ‌of‌ ‌6‌ ‌days.‌ ‌They‌ ‌may‌ ‌have‌ ‌their‌ ‌license‌ ‌reinstated‌ ‌sooner‌ ‌if‌ ‌they‌ ‌provide‌ ‌proof‌ ‌of‌ ‌‌motor‌ ‌vehicle‌ ‌ insurance.‌ ‌
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -115,13 +115,13 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌Visible‌ ‌Plate‌ ‌violation�
 &#x20;          i) One‌ ‌on‌ ‌the‌ ‌front‌ ‌and‌ ‌one‌ ‌on‌ ‌the‌ ‌rear‌ ‌
 
 A‌ ‌violation‌ ‌of‌ ‌either‌ ‌8(07)A‌ ‌and/or‌ ‌8(07)B‌ ‌is‌ ‌a‌ ‌primary‌ ‌offense.‌ ‌ ‌\
-&#x20;  A violation of 8(07)A and/or 8(07)B is an <mark style="color:green;">Infraction</mark>&#x20;
+&#x20;  A violation of 8(07)A and/or 8(07)B is an <mark ="color:green;">Infraction</mark>&#x20;
 
 \
 A‌ ‌violation‌ ‌of‌ ‌either‌ ‌8(07)C‌ ‌and/or‌ ‌8(07)D‌ ‌is‌ ‌a‌ ‌secondary‌ ‌offense.‌ ‌This‌ ‌means‌ ‌that‌ ‌a‌ ‌law‌ ‌ enforcement‌ ‌officer‌ ‌must‌ ‌have‌ ‌reasonable‌ ‌suspicion‌ ‌that‌ ‌a‌ ‌crime‌ ‌other‌ ‌than‌ ‌8(07)C/D‌ ‌has‌ ‌ been,‌ ‌is,‌ ‌or‌ ‌is‌ ‌about‌ ‌to‌ ‌be‌ ‌committed‌ ‌before‌ ‌initiating‌ ‌a‌ ‌stop.‌ ‌ \
-&#x20;  <mark style="color:green;"></mark>   A violation of 8(07)C and/or 8(07)D is an <mark style="color:green;">Infraction</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>OOC‌ ‌Note:‌ ‌A‌ ‌law‌ ‌enforcement‌ ‌officer‌ ‌may‌ ‌not‌ ‌charge‌ ‌a‌ ‌person‌ ‌with‌ ‌8(07).‌ ‌License‌ ‌Plate‌ ‌ when‌ ‌said‌ ‌person‌ ‌is‌ ‌driving‌ ‌a‌ ‌vehicle‌ ‌that‌ ‌doesn’t‌ ‌physically‌ ‌allow‌ ‌them‌ ‌to‌ ‌have‌ ‌a‌ ‌plate‌ ‌ attached.‌ ‌This‌ ‌can‌ ‌be‌ ‌clarified‌ ‌by‌ ‌the‌ ‌civilian‌ ‌through‌ ‌chat.‌ ‌ ‌
+&#x20;  <mark ="color:green;"></mark>   A violation of 8(07)C and/or 8(07)D is an <mark ="color:green;">Infraction</mark> \ <mark ="color:green;"></mark>\ <mark ="color:green;"></mark>OOC‌ ‌Note:‌ ‌A‌ ‌law‌ ‌enforcement‌ ‌officer‌ ‌may‌ ‌not‌ ‌charge‌ ‌a‌ ‌person‌ ‌with‌ ‌8(07).‌ ‌License‌ ‌Plate‌ ‌ when‌ ‌said‌ ‌person‌ ‌is‌ ‌driving‌ ‌a‌ ‌vehicle‌ ‌that‌ ‌doesn’t‌ ‌physically‌ ‌allow‌ ‌them‌ ‌to‌ ‌have‌ ‌a‌ ‌plate‌ ‌ attached.‌ ‌This‌ ‌can‌ ‌be‌ ‌clarified‌ ‌by‌ ‌the‌ ‌civilian‌ ‌through‌ ‌chat.‌ ‌ ‌
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -134,10 +134,10 @@ A‌ ‌Driver‌ ‌Commits‌ ‌an‌ ‌Accident‌ ‌Reporting‌ ‌offen
 &#x20;         ii) Details‌ ‌about‌ ‌the‌ ‌Registered‌ ‌Owner‌ ‌\
 &#x20;        iii) Details‌ ‌in‌ ‌relation‌ ‌to‌ ‌‌vehicle‌‌ ‌insurance‌ ‌\
 \
-&#x20;<mark style="color:green;"></mark> A violation of 8(08) is a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;<mark ="color:green;"></mark> A violation of 8(08) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% end %}
 
 ## **8(09).‌ ‌Accident‌ ‌Reporting‌ ‌Requirements‌ ‌-‌ ‌Injury‌ ‌or‌ ‌Death‌**
@@ -150,13 +150,13 @@ A‌ ‌Driver‌ ‌Commits‌ ‌an‌ ‌Accident‌ ‌Reporting‌ ‌offen
 &#x20;         ii) Details‌ ‌about‌ ‌the‌ ‌Registered‌ ‌Owner‌ ‌\
 &#x20;        iii) Details‌ ‌in‌ ‌relation‌ ‌to‌ ‌‌vehicle‌‌ ‌insurance‌ ‌\
 \
-&#x20;<mark style="color:green;"></mark> A violation of 8(09) is a <mark style="color:yellow;">Misdemeanor (if the accident results in injury)</mark>\ <mark style="color:yellow;"></mark> <mark style="color:green;"></mark> A violation of 8(09) is a <mark style="color:red;">Felony</mark> <mark style="color:red;">(if the accident results in death)</mark>
+&#x20;<mark ="color:green;"></mark> A violation of 8(09) is a <mark ="color:yellow;">Misdemeanor (if the accident results in injury)</mark>\ <mark ="color:yellow;"></mark> <mark ="color:green;"></mark> A violation of 8(09) is a <mark ="color:red;">Felony</mark> <mark ="color:red;">(if the accident results in death)</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 9 Months
 {% end %}
 
-{%  style="danger" %}
+{%  ="danger" %}
 17 Months
 {% end %}
 
@@ -170,9 +170,9 @@ A‌ ‌driver‌ ‌who‌ ‌is‌
 
 &#x20;    b) facing‌ ‌a‌ ‌green‌ ‌arrow‌ ‌signal,‌ ‌shown‌ ‌alone‌ ‌or‌ ‌in‌ ‌combination‌ ‌with‌ ‌another‌ ‌indication,‌ ‌shall‌ ‌enter‌ ‌the‌ ‌intersection‌ ‌only‌ ‌to‌ ‌make‌ ‌the‌ ‌movement‌ ‌indicated‌ ‌by‌ ‌the‌ ‌green‌ ‌arrow‌ ‌or‌ ‌any‌ ‌other‌ ‌movement‌ ‌that‌ ‌is‌ ‌permitted‌ ‌by‌ ‌other‌ ‌indications‌ ‌shown‌ ‌at‌ ‌the‌ ‌same‌ ‌time.‌ ‌A‌ ‌driver‌ ‌facing‌ ‌a‌ ‌left‌ ‌green‌ ‌arrow‌ ‌may‌ ‌also‌ ‌make‌ ‌a‌ ‌U-turn‌ ‌unless‌ ‌prohibited‌ ‌by‌ ‌a‌ ‌sign.‌ ‌A‌ ‌driver‌ ‌shall‌ ‌yield‌ ‌the‌ ‌right-of-way‌ ‌to‌ ‌other‌ ‌traffic‌ ‌and‌ ‌to‌ ‌pedestrians‌ ‌lawfully‌ ‌within‌ ‌the‌ ‌intersection‌ ‌or‌ ‌an‌ ‌adjacent‌ ‌crosswalk.‌ ‌
 
-A violation of 8(10) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(10) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -186,9 +186,9 @@ A driver who is
 
 &#x20;    b) facing‌ ‌a‌ ‌steady‌ ‌circular‌ ‌red‌ ‌signal,‌ ‌after‌ ‌stopping‌ ‌as‌ ‌required‌ ‌by‌ ‌8(11)A‌ ‌may‌ ‌turn‌ ‌right,‌ ‌or‌ ‌turn‌ ‌left‌ ‌from‌ ‌a‌ ‌one-way‌ ‌street‌ ‌onto‌ ‌a‌ ‌one-way‌ ‌street,‌ ‌except‌ ‌when‌ ‌there‌ ‌is‌ ‌a‌ ‌sign‌ ‌in‌ ‌place‌ ‌prohibiting‌ ‌a‌ ‌turn.‌ ‌A‌ ‌driver‌ ‌making‌ ‌that‌ ‌turn‌ ‌shall‌ ‌yield‌ ‌the‌ ‌right-of-way‌ ‌to‌ ‌pedestrians‌ ‌lawfully‌ ‌within‌ ‌an‌ ‌adjacent‌ ‌crosswalk‌ ‌and‌ ‌to‌ ‌any‌ ‌‌vehicle‌‌ ‌that‌ ‌has‌ ‌approached‌ ‌or‌ ‌is‌ ‌approaching‌ ‌so‌ ‌closely‌ ‌as‌ ‌to‌ ‌constitute‌ ‌an‌ ‌immediate‌ ‌hazard‌ ‌to‌ ‌the‌ ‌driver.‌ ‌The‌ ‌driver‌ ‌shall‌ ‌continue‌ ‌to‌ ‌yield‌ ‌the‌ ‌right-of-way‌ ‌to‌ ‌that‌ ‌‌vehicle‌‌ ‌until‌ ‌the‌ ‌driver‌ ‌can‌ ‌proceed‌ ‌with‌ ‌reasonable‌ ‌safety.‌ ‌
 
-A violation of 8(11) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(11) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $175
 {% end %}
 
@@ -211,9 +211,9 @@ $175
 
 &#x20;         ii) Make‌ ‌any‌ ‌turn‌ ‌with‌ ‌the‌ ‌‌vehicle‌‌ ‌on‌ ‌the‌ ‌divided‌ ‌section‌ ‌of‌ ‌‌highway‌,‌ ‌unless‌ ‌there‌ ‌are‌ ‌traffic‌ ‌control‌ ‌signals‌ ‌that‌ ‌allow‌ ‌you‌ ‌to‌ ‌make‌ ‌such‌ ‌a‌ ‌turn‌ ‌
 
-A violation of 8(12) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(12) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $190
 {% end %}
 
@@ -225,9 +225,9 @@ $190
 
 &#x20;    b) On‌ ‌a‌ ‌two-lane‌ ‌‌highway‌,‌ ‌no‌ ‌‌vehicle‌‌ ‌shall‌ ‌be‌ ‌driven‌ ‌to‌ ‌the‌ ‌left‌ ‌side‌ ‌of‌ ‌the‌ ‌center‌ ‌of‌ ‌the‌ ‌‌roadway‌‌ ‌in‌ ‌overtaking‌ ‌and‌ ‌passing‌ ‌another‌ ‌‌vehicle‌‌ ‌proceeding‌ ‌in‌ ‌the‌ ‌same‌ ‌direction‌ ‌unless‌ ‌the‌ ‌left‌ ‌side‌ ‌is‌ ‌clearly‌ ‌visible‌ ‌and‌ ‌free‌ ‌of‌ ‌oncoming‌ ‌traffic‌ ‌for‌ ‌a‌ ‌sufficient‌ ‌distance‌ ‌ahead‌ ‌to‌ ‌permit‌ ‌such‌ ‌overtaking‌ ‌and‌ ‌passing‌ ‌to‌ ‌be‌ ‌completely‌ ‌made‌ ‌without‌ ‌interfering‌ ‌with‌ ‌the‌ ‌safe‌ ‌operation‌ ‌of‌ ‌any‌ ‌‌vehicle‌ ‌approaching‌ ‌from‌ ‌the‌ ‌opposite‌ ‌direction.‌ ‌
 
-A violation of 8(13) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(13) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -237,9 +237,9 @@ $150
 
 &#x20;    b) On‌ ‌a‌ ‌two-lane‌ ‌‌road‌‌ ‌where‌ ‌passing‌ ‌is‌ ‌unsafe‌ ‌because‌ ‌of‌ ‌traffic‌ ‌in‌ ‌the‌ ‌opposite‌ ‌direction‌ ‌or‌ ‌other‌ ‌conditions,‌ ‌any‌ ‌‌vehicle‌‌ ‌proceeding‌ ‌upon‌ ‌the‌ ‌‌highway‌‌ ‌at‌ ‌a‌ ‌speed‌ ‌less‌ ‌than‌ ‌the‌ ‌normal‌ ‌speed‌ ‌of‌ ‌traffic‌ ‌moving‌ ‌in‌ ‌the‌ ‌same‌ ‌direction‌ ‌at‌ ‌that‌ ‌time‌ ‌behind‌ ‌which‌ ‌five‌ ‌or‌ ‌more‌ ‌vehicles‌ ‌are‌ ‌formed‌ ‌in‌ ‌line,‌ ‌shall‌ ‌turn‌ ‌off‌ ‌the‌ ‌‌roadway‌‌ ‌at‌ ‌the‌ ‌nearest‌ ‌place‌ ‌where‌ ‌sufficient‌ ‌area‌ ‌for‌ ‌a‌ ‌safe‌ ‌turnout‌ ‌exists,‌ ‌in‌ ‌order‌ ‌to‌ ‌permit‌ ‌the‌ ‌vehicles‌ ‌following‌ ‌it‌ ‌to‌ ‌proceed.‌ ‌
 
-A violation of 8(14) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(14) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -251,9 +251,9 @@ The driver of any vehicle shall not
 
 &#x20;    b) Follow‌ ‌within‌ ‌300‌ ‌feet‌ ‌of‌ ‌any‌ ‌authorized‌ ‌emergency‌ ‌‌vehicle‌‌ ‌or‌ ‌any‌ ‌group‌ ‌of‌ ‌authorized‌ ‌emergency‌ ‌vehicles‌ ‌operating‌ ‌with‌ ‌lights‌ ‌and/or‌ ‌sirens
 
-A violation 8(15) is an <mark style="color:green;">Infraction</mark>
+A violation 8(15) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $125
 {% end %}
 
@@ -283,9 +283,9 @@ The driver of any vehicle
 
 &#x20;    g) That‌ ‌is‌ ‌approaching‌ ‌a‌ ‌“T”‌ ‌intersection‌ ‌absent‌ ‌of‌ ‌traffic‌ ‌control‌ ‌devices‌ ‌shall‌ ‌come‌ ‌to‌ ‌a‌ ‌full‌ ‌stop‌ ‌and‌ ‌yield‌ ‌to‌ ‌all‌ ‌through‌ ‌traffic‌ ‌before‌ ‌entering‌ ‌the‌ ‌intersection.‌ ‌
 
-A violation of 8(16) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(16) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $200
 {% end %}
 
@@ -295,9 +295,9 @@ Upon‌ ‌the‌ ‌immediate‌ ‌approach‌ ‌of‌ ‌an‌ ‌authorized
 
 &#x20;    ****     a)  **‌**Yield‌ ‌the‌ ‌right-of-way‌ ‌and‌ ‌shall‌ ‌immediately‌ ‌‌drive‌‌ ‌to‌ ‌the‌ ‌right-hand‌ ‌side‌ ‌of‌ ‌the‌ ‌‌roadway‌,‌ ‌clear‌ ‌of‌ ‌any‌ ‌intersection,‌ ‌and‌ ‌stop‌ ‌until‌ ‌the‌ ‌authorized‌ ‌emergency‌ ‌‌vehicle‌‌ ‌has‌ ‌passed.‌ ‌
 
-A violation of 8(17) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(17) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $450
 {% end %}
 
@@ -317,9 +317,9 @@ $450
 
 &#x20;    f) No‌ ‌person‌ ‌in‌ ‌a‌ ‌residence‌ ‌district‌ ‌shall‌ ‌make‌ ‌a‌ ‌U-turn‌ ‌when‌ ‌any‌ ‌other‌ ‌‌vehicle‌‌ ‌is‌ ‌approaching‌ ‌from‌ ‌either‌ ‌direction‌ ‌within‌ ‌200‌ ‌feet,‌ ‌except‌ ‌at‌ ‌an‌ ‌intersection‌ ‌when‌ ‌the‌ ‌approaching‌ ‌‌vehicle‌‌ ‌is‌ ‌controlled‌ ‌by‌ ‌an‌ ‌official‌ ‌traffic‌ ‌control‌ ‌device.‌ ‌
 
-A violation of 8(18) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(18) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -343,31 +343,31 @@ No driver may operate a vehicle
 
 &#x20;       vi) 65 MPH on any State Highway, Freeway, Interstate, or U.S Highway
 
-A violation of 8(19) is an <mark style="color:green;">Infraction</mark> when the vehicle is travelling at or below 99 MPH
+A violation of 8(19) is an <mark ="color:green;">Infraction</mark> when the vehicle is travelling at or below 99 MPH
 
-A violation of 8(19) is a <mark style="color:yellow;">Misdemeanor</mark> when the vehicle is travelling at or above 100 MPH
+A violation of 8(19) is a <mark ="color:yellow;">Misdemeanor</mark> when the vehicle is travelling at or above 100 MPH
 
-{%  style="success" %}
-A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 1-9 MPH greater than the speed limit carries a fine of <mark style="color:green;">$118</mark>
+{%  ="success" %}
+A violation of 8(19) as an <mark ="color:green;">Infraction</mark> for speeding 1-9 MPH greater than the speed limit carries a fine of <mark ="color:green;">$118</mark>
 
-A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 10-19 MPH greater than the speed limit carries a fine of <mark style="color:green;">$193</mark>
+A violation of 8(19) as an <mark ="color:green;">Infraction</mark> for speeding 10-19 MPH greater than the speed limit carries a fine of <mark ="color:green;">$193</mark>
 
-A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 20-29 MPH greater than the speed limit carries a fine of <mark style="color:green;">$268</mark>
+A violation of 8(19) as an <mark ="color:green;">Infraction</mark> for speeding 20-29 MPH greater than the speed limit carries a fine of <mark ="color:green;">$268</mark>
 
-A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 30+ MPH greater than the speed limit carries a fine of <mark style="color:green;">$343</mark>
+A violation of 8(19) as an <mark ="color:green;">Infraction</mark> for speeding 30+ MPH greater than the speed limit carries a fine of <mark ="color:green;">$343</mark>
 {% end %}
 
-{%  style="warning" %}
-A violation of 8(19) as <mark style="color:yellow;">Misdemeanor</mark> for speeding at or above 100 MPH carries a penalty of <mark style="color:yellow;">3 months</mark> of incarceration
+{%  ="warning" %}
+A violation of 8(19) as <mark ="color:yellow;">Misdemeanor</mark> for speeding at or above 100 MPH carries a penalty of <mark ="color:yellow;">3 months</mark> of incarceration
 {% end %}
 
 ## **8(20).‌ ‌Stop‌ ‌Signs‌**
 
 &#x20;    a) The‌ ‌driver‌ ‌of‌ ‌any‌ ‌‌vehicle‌‌ ‌approaching‌ ‌a‌ ‌stop‌ ‌sign‌ ‌or‌ ‌pavement‌ ‌marking‌ ‌of‌ ‌“STOP”‌ ‌at‌ ‌the‌ ‌entrance‌ ‌to‌ ‌an‌ ‌intersection‌ ‌shall‌ ‌stop‌ ‌at‌ ‌the‌ ‌marked‌ ‌limit‌ ‌line.‌ ‌If‌ ‌there‌ ‌is‌ ‌no‌ ‌clearly‌ ‌marked‌ ‌limit‌ ‌line,‌ ‌they‌ ‌shall‌ ‌stop‌ ‌before‌ ‌entering‌ ‌the‌ ‌crosswalk‌ ‌on‌ ‌the‌ ‌near‌ ‌side‌ ‌of‌ ‌the‌ ‌intersection.‌ ‌If‌ ‌there‌ ‌is‌ ‌no‌ ‌marked‌ ‌or‌ ‌unmarked‌ ‌crosswalk,‌ ‌they‌ ‌shall‌ ‌stop‌ ‌before‌ ‌entering‌ ‌the‌ ‌intersection.‌ ‌
 
-A violation of 8(20) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(20) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -393,9 +393,9 @@ No vehicle may park
 
 &#x20;    a) any vehicle that is parked (defined as any‌ ‌‌vehicle‌‌ ‌who's operator‌ ‌is outside‌ ‌of‌ ‌the‌ ‌‌vehicle‌;‌ ‌or‌ ‌any‌ ‌occupied vehicle) in any of the above manners or locations, and who's operator refuses to move it at the request of a peace officer or property manager may be towed and subject to an impound fee.
 
-A violation of 8(21) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(21) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -409,9 +409,9 @@ Any operator of a vehicle who
 
 &#x20;    b) Has‌ ‌committed‌ ‌three‌ ‌(3)‌ ‌or‌ ‌more‌ ‌consecutive‌ ‌moving violations as defined under Title 8 - 'Vehicular Offenses'
 
-A violation of 8(22) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(22) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 The violator may be charged with a summons, or jail time of 4 months
 {% end %}
 
@@ -423,9 +423,9 @@ Any person who
 
 &#x20;    b) Aids‌ or facilitates in any way a ‌‌motor‌ ‌vehicle‌ ‌contest‌‌ ‌on‌ ‌any‌ ‌‌highway‌‌ ‌or‌ ‌‌roadway‌ ‌
 
-A violation of 8(23) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(23) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 5 Months
 {% end %}
 
@@ -435,9 +435,9 @@ No person shall ‌
 
 &#x20;    a) ‌operate a motor vehicle in a manner that causes excessive engine noise, tire squealing, skids or slides upon acceleration or stopping; or in a manner as to simulate a race, or to cause the vehicle to unnecessarily sway or turn abruptly, or to impede traffic.
 
-A violation of 8(24) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(24) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 The violator may be charged with a summons, or jail time of 5 months
 {% end %}
 
@@ -449,15 +449,15 @@ Any person who
 
 &#x20;    b) throws a projectile that is capable of inflicting great bodily harm, with the intent to damage a vehicle in motion or injure its occupants
 
-A violation of 8(25)a is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(25)a is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 4 Months
 {% end %}
 
-A violation of 8(25)b is a <mark style="color:red;">Felony</mark>
+A violation of 8(25)b is a <mark ="color:red;">Felony</mark>
 
-{%  style="danger" %}
+{%  ="danger" %}
 15 Months
 {% end %}
 
@@ -471,15 +471,15 @@ No person at or above the age of 21 years shall
 
 &#x20;    c) operate a vehicle as a vehicle for hire, with a passenger in the vehicle at the time of the offense, while under the influence of alcohol, with a Blood Alcohol Concentration at or above 0.04%, or while under the influence of any controlled or prohibited substance
 
-A violation of 8(26) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(26) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 6 Months
 {% end %}
 
-A violation of 8(26)b is a <mark style="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
+A violation of 8(26)b is a <mark ="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
 
-{%  style="warning" %}
+{%  ="warning" %}
 9 Months
 {% end %}
 
@@ -493,15 +493,15 @@ Any person at or below the age of 20 years shall
 
 &#x20;    c) operate a vehicle as a vehicle for hire, with a passenger in the vehicle at the time of the offense, while under the influence of alcohol, or while under the influence of any controlled or prohibited substance
 
-A violation of 8(27) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(27) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 6 Months
 {% end %}
 
-A violation of 8(27)b is a <mark style="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
+A violation of 8(27)b is a <mark ="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
 
-{%  style="warning" %}
+{%  ="warning" %}
 9 Months
 {% end %}
 
@@ -519,9 +519,9 @@ A violator of 8(26) - Driving Under the Influence, or 8(27) - Driving Under the 
 
 A charge of 8(28) may not be stacked with a charge of 8(22) - Reckless Driving or 8(23) - Motor Vehicle Contest
 
-A violation of 8(28) is a <mark style="color:red;">Felony</mark>
+A violation of 8(28) is a <mark ="color:red;">Felony</mark>
 
-{%  style="danger" %}
+{%  ="danger" %}
 20 Months
 {% end %}
 
@@ -533,9 +533,9 @@ Any person who, while in the operators or front passengers seat of a motor vehic
 
 &#x20;    b) possesses an unsealed container of a controlled or prohibited substance
 
-A violation of 8(29) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(29) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -545,9 +545,9 @@ A person who, while operating a motor vehicle
 
 &#x20;    a) Willfully‌ ‌refuses‌ ‌or‌ ‌fails‌ ‌to‌ ‌comply‌ ‌with‌ ‌a‌ ‌lawful‌ ‌order,‌ ‌signal,‌ ‌or‌ ‌direction‌ ‌of‌ ‌any‌ ‌law‌ ‌enforcement‌ ‌officer
 
-A violation of 8(30) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(30) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 The violator may be charged with a summons, or jail time of 4 months
 {% end %}
 
@@ -557,9 +557,9 @@ A person who, while operating a land, air, or sea vehicle
 
 &#x20;    a) willfully‌ ‌flees‌ ‌or‌ ‌otherwise‌ ‌attempts‌ ‌to‌ ‌elude‌ ‌or‌ ‌avoid‌ ‌a‌ ‌pursuing ‌peace‌ ‌officer‌ ‌who‌ ‌communicates‌ ‌a request to stop either visually‌ ‌or‌ ‌audibly‌, by‌ ‌means‌ ‌of‌ ‌emergency sirens and lights, ‌or through verbal commands
 
-A violation of 8(31) is a <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 8(31) is a <mark ="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 6 Months
 {% end %}
 
@@ -575,9 +575,9 @@ A violator of 8(31) - Evading a Peace Officer, who simultaneously meets any of t
 
 A charge of 8(32) may not be stacked with a charge of 8(22) - Reckless Driving
 
-A violation of 8(32) is a <mark style="color:red;">Felony</mark>
+A violation of 8(32) is a <mark ="color:red;">Felony</mark>
 
-{%  style="danger" %}
+{%  ="danger" %}
 22 Months
 {% end %}
 
@@ -634,11 +634,11 @@ v) Windshield‌ ‌or‌ ‌front‌ ‌windows‌ ‌that‌ ‌are‌ ‌obst
 &#x20;               2\) Only‌ ‌allowed‌ ‌to‌ ‌be‌ ‌active‌ ‌on‌ ‌private‌ ‌‌property‌ ‌\
 &#x20;               3\) At‌ ‌no‌ ‌time‌ ‌can‌ ‌it‌ ‌be‌ ‌be‌ ‌red‌ ‌or‌ ‌blue‌ ‌underglow/neon‌ ‌
 
-&#x20; A violation of 8(33) is an <mark style="color:green;">Infraction</mark>\
-&#x20;<mark style="color:green;"></mark> If‌ ‌the‌ ‌vehicle‌ ‌is‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(33)A.ix,‌ ‌the‌ ‌vehicle‌ ‌may‌ ‌be‌ ‌towed‌ ‌and‌ ‌impounded‌ ‌at‌ ‌the‌ ‌ discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌\
+&#x20; A violation of 8(33) is an <mark ="color:green;">Infraction</mark>\
+&#x20;<mark ="color:green;"></mark> If‌ ‌the‌ ‌vehicle‌ ‌is‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(33)A.ix,‌ ‌the‌ ‌vehicle‌ ‌may‌ ‌be‌ ‌towed‌ ‌and‌ ‌impounded‌ ‌at‌ ‌the‌ ‌ discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌\
 &#x20;If‌ ‌the‌ ‌vehicle‌ ‌has‌ ‌two‌ ‌simultaneous‌ ‌violations‌ ‌of‌ ‌8(33),‌ ‌the‌ ‌vehicle‌ ‌may‌ ‌be‌ ‌towed‌ ‌and‌ ‌ impounded‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌
 
-{%  style="success" %}
+{%  ="success" %}
 $400
 {% end %}
 
@@ -648,9 +648,9 @@ Any person who, while operating a motor vehicle
 
 &#x20;    a) shows aggressiveness or‌ ‌angry‌ ‌behavior‌, forms rude‌ ‌gestures,‌ ‌verbal‌ ‌insults,‌ ‌physical‌ ‌threats‌ ‌or‌ ‌dangerous‌ ‌driving‌ ‌methods‌ ‌targeted‌ ‌towards‌ ‌another‌ ‌driver‌ ‌in‌ ‌an‌ ‌effort‌ ‌to‌ ‌intimidate‌ ‌or‌ ‌release‌ ‌frustration.
 
-A violation of 8(34) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(34) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $500
 {% end %}
 
@@ -666,9 +666,9 @@ Any person who
 
 &#x20;    d) operates‌ ‌a‌ ‌‌motor‌ ‌vehicle‌‌ ‌on‌ ‌a‌ ‌‌highway/roadway‌‌ ‌while‌ ‌there‌ ‌are‌ ‌unrestrained passengers in an enclosed or open area of a vehicle meant for the transportation of cargo
 
-A violation of 8(35) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(35) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $235
 {% end %}
 
@@ -682,9 +682,9 @@ Any person who
 
 &#x20;    c) operates a vehicle on a sidewalk&#x20;
 
-A violation of 8(36) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(36) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -694,9 +694,9 @@ Any person who
 
 &#x20;    a) operates a ‌motorcycle,‌ ‌motor-driven‌ ‌cycle,‌ ‌or‌ ‌motorized‌ ‌bicycle‌ ‌upon‌ ‌a‌ ‌public‌ ‌‌roadway/highway‌‌ ‌while the operator or any passengers are not wearing DOT certified crash helmets
 
-A violation of 8(37) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(37) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -724,9 +724,9 @@ $150
 
 &#x20;    i) “Bicycling Under the Influence”‌ ‌Bicyclists‌ ‌may‌ ‌not‌ ‌operate‌ ‌a‌ ‌bicycle‌ ‌while‌ ‌under‌ ‌the‌ ‌influence‌ ‌of‌ ‌alcohol, with a Blood Alcohol Concentration at or above 0.08%, or under the influence of any controlled or prohibited substances
 
-A violation of 8(38) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(38) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -736,9 +736,9 @@ No person shall
 
 &#x20;    a) impede‌ ‌or‌ ‌block‌ ‌the‌ ‌normal‌ ‌and‌ ‌reasonable‌ ‌movement‌ ‌of‌ ‌traffic‌ ‌unless‌ ‌necessary‌ ‌for‌ ‌safe‌ ‌operations.‌ ‌
 
-A violation of 8(39) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(39) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -748,9 +748,9 @@ A vehicle shall not be operated on any highway/roadway unless
 
 &#x20;    a) the vehicle is so constructed or loaded as to prevent any of its load from dropping, shifting, leaking, blowing, or otherwise escaping therefrom
 
-A violation of 8(40) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(40) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $175
 {% end %}
 
@@ -758,9 +758,9 @@ $175
 
 &#x20;   **** a) The‌ ‌operator ‌of‌ ‌a‌ ‌‌motor‌ ‌vehicle‌‌ ‌shall‌ ‌only‌ ‌give‌ ‌audible‌ ‌warning‌ ‌with‌ ‌a‌ ‌horn‌ ‌when‌ ‌reasonably‌ ‌necessary‌ ‌to‌ ‌ensure‌ ‌safe‌ ‌operation‌ ‌of‌ ‌the‌ ‌‌vehicle‌.‌ ‌
 
-A violation of 8(41) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(41) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -768,9 +768,9 @@ $150
 
 &#x20;    a) An operator of a ‌‌motor‌ ‌vehicle‌‌ ‌shall‌ ‌not operate, ‌or‌ ‌permit‌ ‌the‌ ‌operation‌ ‌of,‌ ‌any‌ ‌sound‌ ‌system‌ ‌which‌ ‌can‌ ‌be‌ ‌heard‌ ‌from‌ ‌50‌ ‌or‌ ‌more‌ ‌feet‌ ‌away‌ ‌while the vehicle is being operated on a highway/roadway
 
-A violation of 8(42) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(42) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -780,9 +780,9 @@ $150
 
 &#x20;    b) any window tint on the rear passenger windows and the rear-facing window must allow for the transmission of more than 20% of light
 
-A violation of 8(43) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(43) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $175
 {% end %}
 
@@ -794,9 +794,9 @@ No person shall
 
 &#x20;         i) exemption: hands-free devices; bluetooth speaker system, singular bluetooth earphone/earbud
 
-A violation of 8(44) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(44) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -810,9 +810,9 @@ No person shall&#x20;
 
 &#x20;    c) leave‌ ‌a‌ ‌door‌ ‌of‌ ‌a‌ ‌stationary‌ ‌‌vehicle‌‌ ‌open in such a manner that poses a hazard to other vehicular traffic
 
-A violation of 8(45) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(45) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -828,9 +828,9 @@ Any operator of a motor vehicle must, when‌ ‌approaching‌ ‌a‌ ‌stati
 
 &#x20;    d) when the speed limit is at or above 15 MPH, the operator of a vehicle must move as far left as is prudent
 
-A violation of 8(46) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(46) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $400
 {% end %}
 
@@ -842,9 +842,9 @@ No person shall
 
 &#x20;         i) exemption: roadside assistance vehicles
 
-A violation of 8(47) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(47) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -856,9 +856,9 @@ No person shall
 
 &#x20;         i) exemption: the person ‌owns‌ ‌or‌ ‌rents‌ ‌private‌ ‌‌property‌‌ ‌that‌ ‌is‌ ‌only‌ ‌accessible‌ ‌via‌ ‌a‌ ‌state‌ ‌owned‌ ‌and/or‌ ‌maintained‌ ‌trail‌ ‌and‌ ‌his/her‌ ‌‌vehicle‌‌ ‌is‌ ‌capable‌ ‌of‌ ‌navigating‌ ‌such‌ ‌‌roadways‌.‌ ‌
 
-An violation of 8(48) is an <mark style="color:green;">Infraction</mark>
+An violation of 8(48) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -872,9 +872,9 @@ No person shall
 
 &#x20;        ii) exemption: The‌ ‌‌vehicle‌‌ ‌is‌ ‌operated‌ ‌by‌ ‌authorized‌ ‌employees‌ ‌of‌ ‌a‌ ‌state‌ ‌agency,‌ ‌municipality,‌ ‌or‌ ‌company‌ ‌for‌ ‌the‌ ‌sole‌ ‌purpose‌ ‌of‌ ‌conducting‌ ‌official‌ ‌duties.
 
-A violation of 8(49) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(49) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -898,9 +898,9 @@ $150
 &#x20;      vii) US‌ ‌‌Route‌‌ ‌15‌ ‌ \
 &#x20;     viii) US‌ ‌‌Route‌‌ ‌20‌ ‌
 
-&#x20; A violation of 8(51) is an <mark style="color:green;">Infraction</mark>
+&#x20; A violation of 8(51) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -912,9 +912,9 @@ A motor vehicle shall not
 
 &#x20;         i) exemption: farm equipment/farm vehicles
 
-A violation of 8(51) is an <mark style="color:green;">Infraction</mark>
+A violation of 8(51) is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
@@ -927,8 +927,8 @@ Any individual while occupying motor vehicle must
 &#x20;    b) insure all other occupants of the motor vehicle is following 8(52)a
 
 \
-A violation of 8(52) is an <mark style="color:green;">Infraction</mark>&#x20;
+A violation of 8(52) is an <mark ="color:green;">Infraction</mark>&#x20;
 
-{%  style="success" %}
+{%  ="success" %}
 $100
 {% end %}

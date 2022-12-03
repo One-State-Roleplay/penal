@@ -12,9 +12,9 @@ A‌ ‌person‌ ‌commits‌ ‌Animal‌ ‌Abuse‌ ‌or‌ ‌Animal‌ �
 \
 &#x20;    d) Leave‌ ‌an‌ ‌animal‌ ‌in‌ ‌an‌ ‌unattended‌ ‌‌vehicle‌‌ ‌under‌ ‌conditions‌ ‌that‌ ‌endanger‌ ‌the‌ ‌health‌ ‌or‌ ‌well-being‌ ‌of‌ ‌the‌ ‌animal‌ ‌\
 \
-&#x20;    A violation of 7(01) is a ‌<mark style="color:red;">Felony‌</mark>.‌&#x20;
+&#x20;    A violation of 7(01) is a ‌<mark ="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
+{%  ="danger" %}
 12 Months
 {% end %}
 
@@ -27,9 +27,9 @@ A‌ ‌person‌ ‌commits‌ ‌Leash‌ ‌Laws‌ ‌when‌ ‌they,‌ �
 \
 &#x20;    b) Walk‌ ‌a‌ ‌dog‌ ‌on‌ ‌a‌ ‌leash‌ ‌that‌ ‌is‌ ‌longer‌ ‌in‌ ‌6ft‌ ‌in‌ ‌length.‌ ‌\
 \
-&#x20;    A violation of 7(02) is a <mark style="color:green;">Infraction</mark>
+&#x20;    A violation of 7(02) is a <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $50
 {% end %}
 
@@ -44,9 +44,9 @@ A‌ ‌person‌ ‌under‌ ‌the‌ ‌age‌ ‌of‌ ‌21‌ ‌commits�
 &#x20;        ****         i) Exceptions:\
 &#x20;         1\) The‌ ‌minor‌ ‌is‌ ‌in‌ ‌a‌ ‌private‌ ‌location‌ ‌and/or‌ ‌on‌ ‌private‌ ‌‌property‌‌ ‌and‌ ‌is‌ ‌being‌ ‌supervised‌ ‌by‌ ‌a‌ ‌parent/guardian‌ ‌or‌ ‌spouse‌\
 \
-&#x20;     A violation of 7(03) is a <mark style="color:green;">Infraction</mark>
+&#x20;     A violation of 7(03) is a <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $125
 {% end %}
 
@@ -58,9 +58,9 @@ A‌ ‌person‌ ‌commits‌ ‌Child‌ ‌Neglect‌ ‌when‌ ‌they,‌
 \
 &#x20;   b) Abandon/‌ ‌leave‌ ‌without‌ ‌supervision‌ ‌their‌ ‌child‌ ‌in‌ ‌a‌ ‌space‌ ‌that‌ ‌could‌ ‌harm‌ ‌them‌ ‌(e.g.‌ ‌locked‌ ‌car)‌ ‌Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code.‌ ‌\
 \
-&#x20; A violation of 7(04) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
+&#x20; A violation of 7(04) is a <mark ="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
+{%  ="danger" %}
 22 Months
 {% end %}
 
@@ -74,9 +74,9 @@ A‌ ‌person‌ ‌commits‌ ‌Abuse‌ ‌of‌ ‌Dependent‌ ‌Adults�
 \
 &#x20;    c) Willfully‌ ‌cause‌ ‌or‌ ‌permit‌ ‌financial‌ ‌exploitation‌ ‌or‌ ‌fraud‌ ‌against‌ ‌said‌ ‌elderly/dependent‌ ‌adult‌ ‌ Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code.‌\
 \
-&#x20; A violation of 7(05) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
+&#x20; A violation of 7(05) is a <mark ="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
+{%  ="danger" %}
 22 Months
 {% end %}
 
@@ -86,15 +86,15 @@ A‌ ‌person‌ ‌commits‌ ‌“Failure‌ ‌to‌ ‌Control‌ ‌a‌ 
 
 &#x20;    a) **** Fail‌ ‌to‌ ‌exercise‌ ‌ordinary‌ ‌care‌ ‌with‌ ‌an‌ ‌animal‌ ‌that‌ ‌they‌ ‌own‌ ‌or‌ ‌are‌ ‌taking‌ ‌care‌ ‌of,‌ ‌and‌ ‌as‌ ‌a‌ ‌result,‌ ‌another‌ ‌person‌ ‌is‌ ‌killed‌ ‌or‌ ‌suffered‌ ‌an‌ ‌injury.‌ ‌
 
-A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ ‌injury‌ ‌is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdemeanor‌‌.</mark>&#x20;
+A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ ‌injury‌ ‌is‌ ‌a‌ ‌‌<mark ="color:yellow;">Misdemeanor‌‌.</mark>&#x20;
 
-A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ **‌**death‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌.</mark>
+A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ **‌**death‌ ‌is‌ ‌a‌ ‌‌<mark ="color:red;">Felony‌.</mark>
 
-{%  style="warning" %}
+{%  ="warning" %}
 9 Months
 {% end %}
 
-{%  style="danger" %}
+{%  ="danger" %}
 13 Months
 {% end %}
 
@@ -116,8 +116,8 @@ The‌ ‌Bill‌ ‌of‌ ‌Lading‌ ‌must‌ ‌show‌ ‌the‌ ‌name�
 &#x20;         i) Animals‌ ‌can‌ ‌not‌ ‌be‌ ‌in‌ ‌a‌ ‌vehicle‌ ‌with‌ ‌an‌ ‌open‌ ‌back‌ ‌or‌ ‌an‌ ‌open‌ ‌trailer.‌ ‌\
 &#x20;        ii) Animals‌ ‌can‌ ‌not‌ ‌be‌ ‌in‌ ‌a‌ ‌closed‌ ‌trailer‌ ‌without‌ ‌reasonable‌ ‌airflow.‌ ‌
 
-&#x20;     A violation of 7(07) is a <mark style="color:green;">Infraction</mark>
+&#x20;     A violation of 7(07) is a <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $350
 {% end %}

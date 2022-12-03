@@ -17,35 +17,35 @@ No‌ ‌Person‌ ‌shall,\
 &#x20;     ii) Any‌ ‌combination‌ ‌‌vehicle‌,‌ ‌including‌ ‌but‌ ‌not‌ ‌limited‌ ‌to‌ ‌a‌ ‌semi‌ ‌truck‌ ‌or‌ ‌tractor-trailer;‌ ‌or‌\
 &#x20;    iii) A‌ ‌‌vehicle‌‌ ‌designed‌ ‌to‌ ‌transport‌ ‌16‌ ‌or‌ ‌more‌ ‌passengers,‌ ‌including‌ ‌the‌ ‌driver,‌ ‌ether‌ ‌city‌ ‌or‌ ‌long‌ ‌haul‌ ‌buses‌\
 \
-Suspension‌ ‌of‌ ‌CDL‌ ‌License‌ ‌(if‌ ‌applicable)‌ ‌and‌ ‌$1000‌ ‌fine, this‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌.‌</mark> ‌ If‌ ‌HAZMAT‌ ‌Materials‌ ‌and‌ ‌or‌ ‌Passengers‌ ‌are‌ ‌being‌ ‌transported‌, this‌ ‌crime‌ ‌is‌ ‌now‌ ‌a‌ <mark style="color:yellow;">Misdemeanor‌.‌</mark>
+Suspension‌ ‌of‌ ‌CDL‌ ‌License‌ ‌(if‌ ‌applicable)‌ ‌and‌ ‌$1000‌ ‌fine, this‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌.‌</mark> ‌ If‌ ‌HAZMAT‌ ‌Materials‌ ‌and‌ ‌or‌ ‌Passengers‌ ‌are‌ ‌being‌ ‌transported‌, this‌ ‌crime‌ ‌is‌ ‌now‌ ‌a‌ <mark ="color:yellow;">Misdemeanor‌.‌</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $200
 {% end %}
 
-{%  style="warning" %}
+{%  ="warning" %}
 2 Months
 {% end %}
 
 ## 10(02).‌ ‌Additional‌ ‌Certificate‌ ‌Requirements‌
 
 No‌ ‌Person‌ ‌shall,‌\
-&#x20;    <mark style="color:yellow;"></mark>     a) Drive‌‌ ‌and‌ ‌operate‌ ‌a‌ ‌commercial‌ ‌‌motor‌ ‌vehicle‌‌ ‌without‌ ‌the‌ ‌following‌ ‌in‌ ‌their‌ ‌possession‌ ‌in‌ ‌addition‌ ‌to‌ ‌any‌ ‌documents‌ ‌required‌ ‌in‌ ‌any‌ ‌other‌ ‌section‌ ‌\
+&#x20;    <mark ="color:yellow;"></mark>     a) Drive‌‌ ‌and‌ ‌operate‌ ‌a‌ ‌commercial‌ ‌‌motor‌ ‌vehicle‌‌ ‌without‌ ‌the‌ ‌following‌ ‌in‌ ‌their‌ ‌possession‌ ‌in‌ ‌addition‌ ‌to‌ ‌any‌ ‌documents‌ ‌required‌ ‌in‌ ‌any‌ ‌other‌ ‌section‌ ‌\
 &#x20;      i) A‌ ‌duty‌ ‌log‌ ‌book‌ ‌\
 &#x20;         1\) Except‌ ‌for‌ ‌trips‌ ‌that‌ ‌stay‌ ‌within‌ ‌that‌ ‌designated‌ ‌LGA‌ ‌\
 &#x20;     ii) Medical‌ ‌Certificate‌ ‌\
 &#x20;    iii) Accurate‌ ‌Cargo‌ ‌Manifest/Bill‌ ‌of‌ ‌Lading‌ ‌(for‌ ‌cargo‌ ‌carrying‌ ‌vehicles‌ ‌only)‌\
 \
-A violation of 10(02). is an <mark style="color:green;">Infraction</mark>
+A violation of 10(02). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $150
 {% end %}
 
 ## 10(03).‌ ‌Commercial‌ ‌Motor‌ ‌Vehicle‌ ‌Point‌ ‌System‌
 
 No‌ ‌Person‌ ‌Shall,‌\
-&#x20;   <mark style="color:green;"></mark> a) Drive‌‌ ‌in‌ ‌violation‌ ‌of‌ ‌the‌ ‌CMV‌ ‌Point‌ ‌System.‌ ‌ ‌\
+&#x20;   <mark ="color:green;"></mark> a) Drive‌‌ ‌in‌ ‌violation‌ ‌of‌ ‌the‌ ‌CMV‌ ‌Point‌ ‌System.‌ ‌ ‌\
 &#x20;    b) A‌ ‌Commercial‌ ‌‌Motor‌ ‌Vehicle‌‌ ‌Driver‌ ‌shall‌ ‌earn‌ ‌points‌ ‌(Along‌ ‌with‌ ‌a‌ ‌$250‌ ‌fine‌ ‌per‌ ‌infraction)‌ ‌on‌ ‌their‌ ‌license‌ ‌for‌ ‌violations‌ ‌that‌ ‌occur‌ ‌in‌ ‌a‌ ‌commercial‌ ‌‌motor‌ ‌vehicle‌.‌ ‌The‌ ‌Violations‌ ‌are‌ ‌as‌ ‌follows.‌\
 &#x20;      i) Any‌ ‌Violation‌ ‌of‌ ‌8(33)‌ ‌-‌ ‌2‌ ‌Points‌ ‌for‌ ‌Each‌ ‌violation‌ ‌unless‌ ‌they‌ ‌are‌ ‌listed‌ ‌below‌ ‌\
 &#x20;         1\) Inoperable‌ ‌Turn‌ ‌Signal‌ ‌-‌ ‌6‌ ‌Points‌ ‌\
@@ -76,9 +76,9 @@ No‌ ‌Person‌ ‌Shall,‌\
 &#x20;      i) After‌ ‌the‌ ‌suspension‌ ‌the‌ ‌amount‌ ‌of‌ ‌points‌ ‌on‌ ‌the‌ ‌license‌ ‌shall‌ ‌be‌ ‌reduced‌ ‌by‌ ‌15.‌ ‌\
 &#x20;    e) If‌ ‌a‌ ‌person‌ ‌obtains‌ ‌3‌ ‌violations‌ ‌marked‌ ‌with‌ ‌^‌ ‌symbol‌ ‌above‌ ‌or‌ ‌listed‌ ‌below‌ ‌in‌ ‌a‌ ‌15‌ ‌day‌ ‌period‌ ‌their‌ ‌Commercial‌ ‌Drivers‌ ‌License‌ ‌shall‌ ‌be‌ ‌suspended.‌\
 \
-A violation of 10(03). is an <mark style="color:green;">Infraction ‌ ‌</mark>
+A violation of 10(03). is an <mark ="color:green;">Infraction ‌ ‌</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $200
 {% end %}
 
@@ -93,9 +93,9 @@ No‌ ‌Person‌ ‌Shall,‌\
 &#x20;   b) Not‌ ‌Maintain‌ ‌a‌ ‌logbook‌ ‌without‌ ‌indicating‌ ‌what‌ ‌times‌ ‌at‌ ‌which‌ ‌the‌ ‌driver‌ ‌went‌ ‌on‌ ‌duty,‌ ‌off‌ ‌duty,‌ ‌was‌ ‌driving,‌ ‌and‌ ‌took‌ ‌their‌ ‌required‌ ‌breaks.‌ ‌ ‌\
 &#x20;     i) Drivers‌ ‌will‌ ‌keep‌ ‌records‌ ‌for‌ ‌7‌ ‌days‌ ‌including‌ ‌the‌ ‌current‌ ‌day.‌ ‌ Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code‌ ‌\
 \
-A violation of 10(04). is an <mark style="color:green;">Infraction</mark>
+A violation of 10(04). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $350
 {% end %}
 
@@ -109,16 +109,16 @@ No‌ ‌Person‌ ‌Shall,‌\
 &#x20;    d) Drive‌ ‌any‌ ‌non‌ ‌combination‌ ‌vehicle‌ ‌that‌ ‌exceeds‌ ‌65‌ ‌feet‌ ‌(19.8‌ ‌meters)‌ ‌in‌ ‌length‌ ‌and‌ ‌8.5‌ ‌feet‌ ‌(2.6‌ ‌meters)‌ ‌in‌ ‌width.‌\
 &#x20;      i) Unless‌ ‌registered‌ ‌and‌ ‌approved‌ ‌by‌ ‌SAHP’s‌ ‌Commercial‌ ‌Vehicle‌ ‌Enforcement‌ ‌prior‌ ‌to‌ ‌departing.‌\
 \
-A violation of 10(05). is an <mark style="color:green;">Infraction</mark>
+A violation of 10(05). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $500
 {% end %}
 
 ## 10(06).‌ ‌Hazardous‌ ‌Material‌ ‌and‌ ‌Passenger‌ ‌Transportation‌
 
 No‌ ‌Person‌ ‌Shall,‌\
-&#x20;    <mark style="color:green;"></mark>     a) While‌ ‌transporting‌ ‌passengers‌ ‌or‌ ‌hazardous‌ ‌materials:‌ ‌\
+&#x20;    <mark ="color:green;"></mark>     a) While‌ ‌transporting‌ ‌passengers‌ ‌or‌ ‌hazardous‌ ‌materials:‌ ‌\
 &#x20;      i) All‌ ‌vehicles‌ ‌must‌ ‌come‌ ‌to‌ ‌a‌ ‌complete‌ ‌stop‌ ‌at‌ ‌ALL‌ ‌railroad‌ ‌crossings‌ ‌and‌ ‌have‌ ‌their‌ ‌emergency‌ ‌flashers‌ ‌activated‌ ‌\
 &#x20;     ii) All‌ ‌vehicles‌ ‌with‌ ‌HAZMAT‌ ‌materials‌ ‌in‌ ‌transport‌ ‌should‌ ‌have‌ ‌the‌ ‌proper‌ ‌placards,‌ ‌one‌ ‌per‌ ‌side,‌ ‌and‌ ‌one‌ ‌on‌ ‌each‌ ‌end.‌ ‌\
 &#x20;    iii) All‌ ‌vehicles‌ ‌with‌ ‌HAZMAT‌ ‌materials‌ ‌in‌ ‌transport‌ ‌shall‌ ‌not‌ ‌‌drive‌‌ ‌through‌ ‌a‌ ‌residential‌ ‌area,‌ ‌except‌ ‌when‌ ‌the‌ ‌drop‌ ‌off‌ ‌point‌ ‌is‌ ‌located‌ ‌in‌ ‌a‌ ‌Residential‌ ‌area.‌\
@@ -126,8 +126,8 @@ No‌ ‌Person‌ ‌Shall,‌\
 &#x20;     v) Be‌ ‌fueling‌ ‌while‌ ‌passengers‌ ‌are‌ ‌aboard‌ ‌\
 &#x20;    vi) Be‌ ‌smoking‌ ‌while‌ ‌aboard‌ ‌Public‌ ‌Transportation‌ ‌\
 \
-A violation of 10(06). is an <mark style="color:green;">Infraction</mark>
+A violation of 10(06). is an <mark ="color:green;">Infraction</mark>
 
-{%  style="success" %}
+{%  ="success" %}
 $275
 {% end %}

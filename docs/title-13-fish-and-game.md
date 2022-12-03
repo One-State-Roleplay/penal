@@ -34,11 +34,11 @@ No‌ ‌Person‌ ‌Shall‌
 
 &#x20;   b) Any‌ ‌Person‌ ‌who‌ ‌harms‌ ‌any‌ ‌of‌ ‌the‌ ‌animals‌ ‌above‌ ‌for‌ ‌an‌ ‌act‌ ‌of‌ ‌self‌ defense ‌which‌ ‌has‌ ‌been‌ ‌proven‌ ‌as‌ ‌such‌ ‌can‌ ‌not‌ ‌be‌ ‌charged‌ ‌in‌ ‌this‌ ‌section‌.
 
-A‌ ‌violation‌ ‌of‌ ‌13(01)‌ ‌is‌ ‌a‌  <mark style="color:yellow;">Misdemeanor‌.‌</mark> ‌&#x20;
+A‌ ‌violation‌ ‌of‌ ‌13(01)‌ ‌is‌ ‌a‌  <mark ="color:yellow;">Misdemeanor‌.‌</mark> ‌&#x20;
 
 It‌ ‌is‌ ‌the‌ ‌at‌ ‌the‌ ‌sole‌ ‌discretion‌ ‌of‌ ‌the‌ ‌Wildlife‌ ‌Rangers‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.
 
-{%  style="warning" %}
+{%  ="warning" %}
 5 Months
 {% end %}
 
@@ -70,11 +70,11 @@ No person shall
 
 &#x20;    d) A‌ ‌person‌ ‌must‌ ‌display‌ ‌their‌ ‌permit‌ ‌to‌ ‌a‌ ‌fish‌ ‌and‌ ‌game‌ ‌warden‌ ‌upon‌ ‌request.‌
 
-A violation of 13(02) is an <mark style="color:green;">Infraction</mark>.
+A violation of 13(02) is an <mark ="color:green;">Infraction</mark>.
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌Revocation‌ ‌of‌ ‌hunting‌ ‌permits‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌Fish‌ ‌and‌ ‌Game‌ ‌Warden.‌
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -188,11 +188,11 @@ No person shall
 
 &#x20;             3\) Commercial:‌ ‌No‌ ‌Limit‌
 
-&#x20;       A violation of 13(03) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌&#x20;
+&#x20;       A violation of 13(03) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌&#x20;
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -202,11 +202,11 @@ No person shall
 
 &#x20;    a) Possess‌‌ ‌or‌ ‌take‌ ‌in‌ ‌the‌ ‌field‌ ‌more‌ ‌than‌ ‌three‌ ‌times‌ ‌the‌ ‌daily‌ ‌bag‌ ‌limit,‌ ‌or‌ ‌who‌ ‌illegally‌ ‌‌possesses‌‌ ‌more‌ ‌than‌ ‌three‌ ‌times‌ ‌the‌ ‌legal‌ ‌‌possession‌‌ ‌limit‌ ‌is‌ ‌in‌ ‌violation‌. **‌**
 
-&#x20;A violation of 13(04) is a <mark style="color:yellow;">Misdemeanor</mark>.&#x20;
+&#x20;A violation of 13(04) is a <mark ="color:yellow;">Misdemeanor</mark>.&#x20;
 
 Enforcing‌ ‌Wardens‌ ‌must‌ ‌seize‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game.‌
 
-{%  style="warning" %}
+{%  ="warning" %}
 4 Months
 {% end %}
 
@@ -216,9 +216,9 @@ No person shall
 
 &#x20;    a) Attempt‌ ‌to‌ ‌or‌ ‌successfully‌ ‌hunt,‌ ‌capture,‌ ‌bait,‌ ‌or‌ ‌lure‌ ‌any‌ ‌between‌ ‌the‌ ‌hours‌ ‌of‌ ‌‌sunset‌‌ ‌and‌ ‌‌sunrise‌.‌
 
-&#x20;  A violation of 13(05) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌
+&#x20;  A violation of 13(05) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌
 
-{%  style="success" %}
+{%  ="success" %}
 $120
 {% end %}
 
@@ -242,11 +242,11 @@ $120
 
 &#x20;       i) Any‌ ‌nets‌ ‌and/or‌ ‌cages‌ ‌used‌ ‌for‌ ‌commercial‌ ‌fishing‌ ‌must‌ ‌be‌ ‌made‌ ‌of‌ ‌a‌ ‌biodegradable‌ ‌material‌ ‌so‌ ‌that‌ ‌in‌ ‌the‌ ‌event‌ ‌of‌ ‌its ‌disconnection‌ ‌from‌ ‌the‌ ‌fish‌ ‌vessel,‌ ‌it‌ ‌will‌ ‌not‌ ‌cause‌ ‌long-term,‌ ‌adverse‌ ‌effect‌ ‌to‌ ‌marine‌ ‌life‌ ‌and‌ ‌public‌ ‌health.‌
 
-A‌ ‌violation‌ ‌of‌ ‌13(06)‌ ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
+A‌ ‌violation‌ ‌of‌ ‌13(06)‌ ‌is‌ ‌a‌ ‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌‌ to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+{%  ="warning" %}
 4 Months
 {% end %}
 
@@ -260,11 +260,11 @@ No person shall
 
 &#x20;      i.e.‌ ‌Alcohol‌ ‌or‌ ‌Drugs.‌ ‌ ‌  ‌&#x20;
 
-A violation of 13(07) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
+A violation of 13(07) ‌is‌ ‌a‌ ‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+{%  ="warning" %}
 10 Months
 {% end %}
 
@@ -274,11 +274,11 @@ Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌
 
 a) Illegally‌ ‌take,‌ ‌possess,‌ ‌import,‌ ‌export,‌ ‌sell,‌ ‌purchases,‌ ‌barters,‌ ‌trades,‌ ‌or‌ ‌exchanges‌ ‌an‌ ‌animal,‌ ‌or‌ ‌part‌ ‌of‌ ‌any‌ ‌of‌ ‌those‌ ‌animals,‌ ‌for‌ ‌profit‌ ‌or‌ ‌personal‌ ‌gain‌. ‌&#x20;
 
-A violation of 13(08) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
+A violation of 13(08) ‌is‌ ‌a‌ ‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+{%  ="warning" %}
 10 Months
 {% end %}
 
@@ -288,11 +288,11 @@ No person shall
 
 &#x20;    a) Capture ‌or‌ ‌destroy‌ ‌any‌ ‌deer‌ ‌and‌ ‌detach‌ ‌or‌ ‌remove‌ ‌from‌ ‌the‌ ‌carcass‌ ‌only‌ ‌the‌ ‌head,‌ ‌hide,‌ ‌antlers,‌ ‌or‌ ‌horns;‌ ‌nor‌ ‌shall‌ ‌any‌ ‌person‌ ‌at‌ ‌any‌ ‌time‌ ‌leave‌ ‌through‌ ‌carelessness‌ ‌or‌ ‌neglect‌ ‌any‌ ‌game‌ ‌mammal‌ ‌or‌ ‌game‌ ‌bird‌ ‌which‌ ‌is‌ ‌in‌ ‌their‌ ‌‌possession‌,‌ ‌or‌ ‌any‌ ‌portion‌ ‌of‌ ‌the‌ ‌flesh‌ ‌usually‌ ‌eaten‌ ‌by‌ ‌humans,‌ ‌to‌ ‌go‌ ‌needlessly‌ ‌to‌ ‌waste.‌ ‌&#x20;
 
-A violation ‌of 13(09) is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
+A violation ‌of 13(09) is‌ ‌a‌ ‌‌<mark ="color:yellow;">Misdemeanor‌</mark>.‌ ‌&#x20;
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+{%  ="warning" %}
 6 Months
 {% end %}
 
@@ -318,11 +318,11 @@ No person shall
 
 &#x20;         ii) On‌ ‌or‌ ‌over‌ ‌any‌ ‌‌roadway‌‌ ‌recognized ‌by‌ ‌the‌ ‌State‌ ‌of‌ ‌San‌ ‌Andreas‌ ‌Department‌ ‌of‌ Transportation,‌ ‌regardless‌ ‌of‌ ‌type‌
 
-A violation of 13(10) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌&#x20;
+A violation of 13(10) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌&#x20;
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌
 
-{%  style="success" %}
+{%  ="success" %}
 $400
 {% end %}
 
@@ -342,11 +342,11 @@ No person shall
 
 &#x20;        iv) The‌ ‌amount‌ ‌of‌ ‌caught‌ ‌fish‌ ‌is‌ ‌within‌ ‌the‌ ‌limits‌ ‌set‌ ‌forth‌ ‌by‌ ‌13(03)‌ ‌Daily‌ ‌Limits‌ ‌&‌ ‌Possessions‌ ‌Limits‌.
 
-&#x20;     A violation of 13(11) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌&#x20;
+&#x20;     A violation of 13(11) ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>.‌ ‌&#x20;
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.
 
-{%  style="success" %}
+{%  ="success" %}
 $300
 {% end %}
 
@@ -364,10 +364,10 @@ No person shall
 
 &#x20;       i) Small‌ ‌scale‌ ‌digging,‌ ‌tree-trimming,‌ ‌tree-chopping,‌ ‌harvesting‌ ‌of‌ ‌plants,‌ ‌berries‌ ‌or‌ ‌other‌ ‌gathering‌ ‌/‌ ‌usage‌ ‌of‌ ‌natural‌ ‌resources,‌ ‌within‌ ‌the‌ ‌confines‌ ‌of‌ ‌state‌ ‌and/‌ ‌or‌ ‌federally‌ ‌owned‌ ‌land,‌ ‌for‌ ‌recreational‌ ‌usage‌ ‌is‌ ‌permitted‌.
 
-&#x20;A violation of 13(12) ‌is‌ ‌a‌ <mark style="color:red;">Felony‌</mark>.‌ ‌ ‌&#x20;
+&#x20;A violation of 13(12) ‌is‌ ‌a‌ <mark ="color:red;">Felony‌</mark>.‌ ‌ ‌&#x20;
 
 &#x20;Any‌ ‌money‌ ‌made‌ ‌of‌ ‌the‌ ‌illegal‌ ‌harvest‌ ‌of‌ ‌a‌ ‌natural‌ ‌resource‌ ‌is‌ ‌to‌ ‌be‌ ‌seized‌ ‌and‌ ‌given‌ ‌to‌ ‌the‌ ‌State‌ ‌Government‌ ‌of‌ ‌San‌ ‌Andreas.‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 22 Months
 {% end %}

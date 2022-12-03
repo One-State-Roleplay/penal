@@ -1,6 +1,7 @@
 site_name: San Andreas Penal Code
 repo_name: OSRP Penal Code
 repo_url: https://github.com/One-State-Roleplay/penal
+edit_uri: edit/main/docs/
 site_author: "One State Roleplay"
 copyright: "© Copyright 2022 by One State Roleplay"
 
@@ -44,6 +45,8 @@ theme:
   favicon: assets/images/logo.png
   icon:
     repo: fontawesome/brands/git-alt
+  font:
+    text: Poppins
   features:
     - navigation.instant
     - navigation.tracking
@@ -81,4 +84,4 @@ extra:
   generator: false
 
 extra_css:
-  - stylesheets/extra.css
+  - sheets/extra.css

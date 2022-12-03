@@ -28,7 +28,7 @@ A person commits First Degree Murder when they.
 
 &#x20;          Anyone in violation is guilty under this section of code.&#x20;
 
-A violation of 1(01) ‌is‌ ‌a‌ <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">Felony</mark>
+A violation of 1(01) ‌is‌ ‌a‌ <mark ="color:red;">****</mark> <mark ="color:red;"></mark><mark ="color:red;">Felony</mark>
 
 !!! danger "60 months"
 
@@ -42,7 +42,7 @@ A person commits Second Degree Murder when they.
 
 &#x20;         ****          i) Note the name-calling, smirking, “ Dirty looks” and/or general taunting alone do not qualify a quarrel and aren’t sufficient enough to justify a “heat of passion” argument. Anyone in violation is guilty under this section of code.
 
-A violation of 1(02) ‌is‌ ‌a‌ <mark style="color:red;">Felony</mark>
+A violation of 1(02) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
 !!! danger "55 months"
 
@@ -54,7 +54,7 @@ A person commits Manslaughter when they.&#x20;
 
 &#x20;         Anyone in violation is guilty under this section of code.
 
-A violation of 1(03) ‌is‌ ‌a‌ <mark style="color:red;">Felony</mark>
+A violation of 1(03) ‌is‌ ‌a‌ <mark ="color:red;">Felony</mark>
 
 !!! danger "30 months"
 
@@ -72,7 +72,7 @@ A person commits Attempted Murder when they.
 
 &#x20;    Anyone in violation is guilty under this section of code.
 
-&#x20;    A violation of 1(04)A is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(04)A is a <mark ="color:red;">Felony</mark>
 
 !!! danger "28 months"
 
@@ -90,7 +90,7 @@ A person commits Criminal Threats when they.
 
 &#x20;    Anyone in violation is guilty under this section of code.
 
-&#x20;    A violation of 1(05) is a wobbler. Therefore, depending on severity of the crime it can be a <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;    A violation of 1(05) is a wobbler. Therefore, depending on severity of the crime it can be a <mark ="color:yellow;">Misdemeanor</mark>
 
 !!! danger "10 months"
 
@@ -106,7 +106,7 @@ A person commits Harassment via Electronic Communication Device when they.
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-&#x20;  A violation of 1(06) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;  A violation of 1(06) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
 !!! danger "6 months"
 
@@ -118,7 +118,7 @@ A person commits Indirect Electronic Harassment when they.
 
 &#x20;    Anyone in violation is guilty under section of code.&#x20;
 
-&#x20;A violation of 1(07) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20;A violation of 1(07) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
 !!! danger "4 months"
 
@@ -130,7 +130,7 @@ A person commits Assault when they.
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-&#x20; A violation of 1(08) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+&#x20; A violation of 1(08) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
 {!!! danger "6 months"
 
@@ -142,7 +142,7 @@ A person commits Battery when they
 
 &#x20;    Anyone in violation is guilty under section of code.
 
-A violation of 1(09) ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 1(09) ‌is‌ ‌a‌ <mark ="color:yellow;">Misdemeanor</mark>
 
 !!! danger "6 months"
 
@@ -152,7 +152,7 @@ A person commits Assault with a Deadly Weapon when they.
 
 &#x20;    a) Commits 1(08). Assault and use of weapons that can cause great bodily injury or death.
 
-&#x20;    A violation of 1(10) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(10) is a <mark ="color:red;">Felony</mark>
 
 !!! danger "24 months"
 
@@ -164,7 +164,7 @@ A person commits Staking when they
 
 &#x20;   b) Intentionally or maliciously follows or another person
 
-A violation of 1(11) is a <mark style="color:red;"></mark> <mark style="color:yellow;">Misdemeanor</mark>
+A violation of 1(11) is a <mark ="color:red;"></mark> <mark ="color:yellow;">Misdemeanor</mark>
 
 !!! danger "4 months"
 
@@ -174,7 +174,7 @@ A person commits False Imprisonment when they
 
 &#x20;    a) Commits 1(08). Assault and use of weapons that can cause great bodily injury or death.
 
-A violation of 1(12) is a <mark style="color:red;">Felony</mark>
+A violation of 1(12) is a <mark ="color:red;">Felony</mark>
 
 !!! danger "8 months"
 
@@ -192,7 +192,7 @@ A person commits Kidnapping they.
 
 &#x20; ****               3) Risk of harm - When moving the victim for the purpose of facilitating another crime or when you increase the perceived risk. (i.e. moving someone from a public place into a private one.)
 
-&#x20;    A violation of 1(13) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(13) is a <mark ="color:red;">Felony</mark>
 
 !!! danger "28 months"
 
@@ -202,7 +202,7 @@ A person commits Torture when they.
 
 &#x20;    a) Intentionally causes extreme physical or psychological pain and suffering for someone for the purpose of revenge, extortion, persuasion, or for any sadistic purpose.
 
-&#x20;    A violation of 1(14) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(14) is a <mark ="color:red;">Felony</mark>
 
 !!! danger "40 months"
 
@@ -216,6 +216,6 @@ A person commits Human Trafficking when they.
 
 &#x20;    b) Intentionally restrict another person’s liberty with the intent of forced labor, or forced activities.
 
-&#x20;    A violation of 1(15) is a <mark style="color:red;">Felony</mark>
+&#x20;    A violation of 1(15) is a <mark ="color:red;">Felony</mark>
 
 !!! danger "40 months"

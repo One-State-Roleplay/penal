@@ -10,10 +10,10 @@ A‌ ‌person‌ ‌commits‌ ‌Dissuading‌ ‌a‌ ‌Witness‌ ‌when�
 \
 &#x20;        i) In‌ ‌4(01)A‌ ‌and‌ ‌4(01)B,‌ ‌an‌ ‌“inquiry‌ ‌authorized‌ ‌by‌ ‌law”‌ ‌includes‌ ‌the‌ ‌investigation,‌ ‌arrest,‌ ‌and‌ ‌booking‌ ‌process.‌ ‌ ‌
 
-A violation of 4(01) is a <mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
+A violation of 4(01) is a <mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">3 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">3 Months</mark>
 {% end %}
 
 ## 4(02).‌ ‌Providing‌ ‌False‌ ‌Information‌ ‌to‌ ‌a‌ ‌Government‌ ‌Employee‌ ‌
@@ -24,10 +24,10 @@ A‌ ‌person‌ ‌commits‌ ‌Providing‌ ‌False‌ ‌Information‌ �
 
 &#x20;   b) Provide‌ ‌knowingly‌ ‌inaccurate‌ ‌data‌ ‌to‌ ‌a‌ ‌government‌ ‌employee‌ ‌investigating‌ ‌in‌ ‌an‌ ‌official‌ ‌capacity.‌ ‌ Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code.‌ ‌
 
-A violation of 4(02) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
+A violation of 4(02) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">3 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">3 Months</mark>
 {% end %}
 
 ## **4(03).‌ ‌Filing‌ ‌a‌ ‌False‌ ‌Police‌ ‌Report‌ ‌**
@@ -38,10 +38,10 @@ A‌ ‌person‌ ‌commits‌ ‌Filing‌ ‌a‌ ‌False‌ ‌Police‌ �
 
 &#x20;   b) Report‌ ‌to‌ ‌any‌ ‌peace‌ ‌officer‌ ‌that‌ ‌a‌ ‌misdemeanor‌ ‌has‌ ‌been‌ ‌committed‌ ‌knowing‌ ‌the‌ ‌report‌ ‌to‌ ‌be‌ ‌false‌ ‌
 
-A violation of 4(03) is a ‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
+A violation of 4(03) is a ‌‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">2 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">2 Months</mark>
 {% end %}
 
 ## **4(04).‌ ‌Failure‌ ‌to‌ ‌Identify‌ ‌to‌ ‌a‌ ‌Peace‌ ‌Officer‌**
@@ -58,12 +58,12 @@ A‌ ‌person‌ ‌commits‌ ‌Failure‌ ‌to‌ ‌Identify‌ ‌to‌ �
 
 &#x20;        ii) Their‌ ‌full‌ ‌name‌ ‌and‌ ‌the‌ ‌last‌ ‌four‌ ‌digits‌ ‌of‌ ‌their‌ ‌social‌ ‌security‌ ‌number‌ ‌as‌ ‌it‌ ‌appears‌ ‌on‌ ‌their‌ ‌federal‌ ‌Social‌ ‌Security‌ ‌card.‌ ‌
 
-A violation of 4(04) is a ‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
+A violation of 4(04) is a ‌‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
 
 Alternatively,‌ ‌a‌ ‌person‌ ‌being‌ ‌arrested‌ ‌for‌ ‌a‌ ‌violation‌ ‌of‌ ‌4(04)‌ ‌may‌ ‌be‌ ‌brought‌ ‌to‌ ‌a‌ ‌police‌‌ station,‌ ‌fingerprinted,‌ ‌and‌ ‌released‌ ‌at‌ ‌the‌ ‌arresting‌ ‌officer’s‌ ‌discretion.‌ ‌ ‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">5 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">5 Months</mark>
 {% end %}
 
 ## **4(05).‌ ‌Disguise‌ ‌from‌ ‌Law‌ ‌**
@@ -80,12 +80,12 @@ A‌ ‌person‌ ‌commits‌ ‌Disguise‌ ‌from‌ ‌Law‌ ‌when‌ �
 &#x20;        ii) If‌ ‌a‌ ‌law‌ ‌enforcement‌ ‌officer‌ ‌has‌ ‌reasonable‌ ‌suspicion‌ ‌that‌ ‌a‌ ‌person‌ ‌has‌ ‌not‌ ‌provided‌ ‌a‌ ‌valid‌ ‌ID,‌ ‌that‌ ‌officer‌ ‌may‌ ‌have‌ ‌that‌ ‌person‌ ‌remove‌ ‌their‌ ‌covering‌ ‌in‌ ‌a‌ ‌ private ‌setting,‌ ‌regardless‌ ‌of‌ ‌any‌ ‌potential‌ ‌exemptions‌ ‌listed‌ ‌above.‌ ‌If‌ ‌the‌ ‌person‌ ‌has‌ ‌a‌ ‌religious‌ exemption,‌ ‌they‌ ‌may‌ ‌choose‌ ‌to‌ ‌have‌ ‌a‌ ‌male‌ ‌or‌ ‌female‌\
 ‌officer.‌ ‌
 
-A violation of 4(05) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
+A violation of 4(05) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌
 
 Alternatively,‌ ‌a‌ ‌person‌ ‌being‌ ‌arrested‌ ‌for‌ ‌a‌ ‌violation‌ ‌of‌ ‌4(05)‌ ‌may‌ ‌be‌ ‌brought‌ ‌to‌ ‌a‌ ‌police‌ ‌ station,‌ ‌fingerprinted,‌ ‌and‌ ‌released‌ ‌at‌ ‌the‌ ‌arresting‌ ‌officer’s‌ ‌discretion.‌ ‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% end %}
 
 ## **4(06).‌ ‌Impersonation‌ ‌Of‌ ‌a‌ ‌Government‌ ‌Employee‌ ‌**
@@ -100,10 +100,10 @@ A‌ ‌person‌ ‌commits‌ ‌Impersonation‌ ‌a‌ ‌Government‌ ‌
 
 &#x20;   c) Claims‌ ‌to‌ ‌be‌ ‌a‌ ‌government‌ ‌worker‌ ‌in‌ ‌order‌ ‌to‌ ‌deceive‌ ‌or‌ ‌take‌ ‌advantage‌ ‌of‌ ‌another‌ ‌individual‌ ‌or‌ ‌organization‌
 
-A violation of 4(06) is a ‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(06) is a ‌‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">8 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">8 Months</mark>
 {% end %}
 
 ## **4(07).‌ ‌Government‌ ‌Bribery‌ ‌**
@@ -114,9 +114,9 @@ A‌ ‌person‌ ‌commits‌ ‌Government‌ ‌Bribery‌ ‌when‌ ‌the
 
 &#x20;   b) Are‌ ‌a‌ ‌government‌ ‌employee‌ ‌that‌ ‌accepts‌ ‌something‌ ‌of‌ ‌value‌ ‌from‌ ‌another‌ ‌person‌ ‌with‌ ‌the‌ ‌intent‌ ‌to‌ ‌influence‌ ‌the‌ ‌employee’s‌ ‌decision‌ ‌in‌ ‌an‌ ‌official‌ ‌matter.‌ ‌ **‌**
 
-A violation of 4(07) is a ‌<mark style="color:red;">Felony</mark>.‌
+A violation of 4(07) is a ‌<mark ="color:red;">Felony</mark>.‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 15 Months
 {% end %}
 
@@ -128,10 +128,10 @@ A‌ ‌person‌ ‌commits‌ ‌Obstruction‌ ‌of‌ ‌a‌ ‌Government
 
 &#x20;   b) Fail‌ ‌to‌ ‌comply‌ ‌with‌ ‌an‌ ‌officer's‌ ‌lawful‌ ‌orders‌ ‌after‌ ‌repeated‌ ‌attempts‌ ‌ ‌ Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code‌ ‌
 
-A violation of 4(08) is a ‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(08) is a ‌‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">9 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">9 Months</mark>
 {% end %}
 
 ## **4(09).‌ ‌Resisting‌ ‌a‌ ‌Peace‌ ‌Officer‌ ‌**
@@ -140,10 +140,10 @@ A‌ ‌person‌ ‌commits‌ ‌Resisting‌ ‌a‌ ‌Peace‌ ‌Officer�
 
 &#x20;   a) **** Avoid‌ ‌apprehension‌ ‌or‌ ‌arrest‌ ‌from‌ ‌an‌ ‌officer‌ ‌by‌ ‌non-vehicular‌ ‌means‌ ‌or‌ ‌resists‌ ‌apprehension‌ ‌by‌ ‌any‌ ‌physical‌ ‌means.‌ ‌
 
-A violation of 4(09) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(09) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">10 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">10 Months</mark>
 {% end %}
 
 ## **4(10).‌ ‌Escape‌ ‌From‌ ‌Custody‌ ‌**
@@ -154,9 +154,9 @@ A‌ ‌person‌ ‌commits‌ ‌Escape‌ ‌From‌ ‌Custody‌ ‌when‌
 
 &#x20;   b) Have‌ ‌been‌ ‌arrested,‌ ‌booked,‌ ‌charged,‌ ‌or‌ ‌convicted‌ ‌of‌ ‌any‌ ‌crime‌ ‌who‌ ‌thereafter‌ ‌escapes‌ ‌or‌ ‌attempts‌ ‌to‌ ‌escape‌ ‌from‌ ‌a‌ ‌county‌ ‌or‌ ‌city‌ ‌jail,‌ ‌prison,‌ ‌community‌ ‌service,‌ ‌custody‌ ‌of‌ ‌a‌ ‌correctional‌ ‌or‌ ‌parole‌ ‌officer‌ ‌
 
-A violation of 4(10) is a ‌<mark style="color:red;">Felony</mark>.
+A violation of 4(10) is a ‌<mark ="color:red;">Felony</mark>.
 
-{%  style="danger" %}
+{%  ="danger" %}
 17 Months
 {% end %}
 
@@ -166,9 +166,9 @@ A‌ ‌person‌ ‌commits‌ ‌Assisting‌ ‌Escape‌ ‌when‌ ‌they,
 
 &#x20;   a) **** Directly‌ ‌aid‌ ‌or‌ ‌assist‌ ‌in‌ ‌an‌ ‌inmate‌ ‌escaping‌ ‌from‌ ‌the‌ ‌law,‌ ‌including‌ ‌the‌ ‌lawful‌ ‌custody‌ ‌of‌ ‌a‌ ‌peace‌ ‌officer,‌ ‌prisoner‌ ‌transport,‌ ‌parole,‌ ‌community‌ ‌server,‌ ‌or‌ ‌incarceration‌ ‌in‌ ‌a‌ ‌county‌ ‌jail‌ ‌or‌ ‌state‌ ‌prison‌ ‌
 
-A violation of 4(11) is a ‌<mark style="color:red;">Felony</mark>.‌
+A violation of 4(11) is a ‌<mark ="color:red;">Felony</mark>.‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 15 Months
 {% end %}
 
@@ -182,10 +182,10 @@ A‌ ‌person‌ ‌commits‌ ‌Misuse‌ ‌of‌ ‌a‌  ‌Government‌ 
 
 &#x20;   c) Uses‌ ‌a‌ ‌government‌ ‌hotline‌ ‌to‌ ‌perform‌ ‌a‌ ‌prank‌ ‌call,‌ ‌fake‌ ‌call,‌ ‌or‌ ‌tries‌ ‌to‌ ‌incite‌ ‌mayhem.‌ ‌ ‌ Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code‌ ‌
 
-A violation of 4(12) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(12) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">8 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">8 Months</mark>
 {% end %}
 
 ## **4(13).‌ ‌Tampering‌ ‌With‌ ‌Evidence‌ ‌**
@@ -194,10 +194,10 @@ A‌ ‌person‌ ‌commits‌ ‌Tampering‌ ‌with‌ ‌Evidence‌ ‌whe
 
 &#x20;   a) **** Willfully‌ ‌and‌ ‌intentionally‌ ‌destroy‌ ‌or‌ ‌attempt‌ ‌to‌ ‌destroy,‌ ‌create,‌ ‌or‌ ‌attempt‌ ‌to‌ ‌create‌ ‌false‌ ‌evidence,‌ ‌conceal,‌ ‌or‌ ‌alter‌ ‌any‌ ‌evidence‌ ‌that‌ ‌can‌ ‌later‌ ‌potentially‌ ‌be‌ ‌used‌ ‌in‌ ‌a‌ ‌Criminal‌ ‌Investigation‌ ‌or‌ ‌court‌ ‌proceedings.‌
 
-A violation of 4(13) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(13) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">10 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">10 Months</mark>
 {% end %}
 
 ## **4(14).‌ ‌Introduction‌ ‌of‌ ‌Contraband‌ ‌into‌ ‌a‌ ‌Restricted‌ ‌Facility‌ ‌**
@@ -212,9 +212,9 @@ A‌ ‌person‌ ‌commits‌ ‌Introduction‌ ‌of‌ ‌Contraband‌ ‌
 
 &#x20;        iii) Any‌ ‌controlled‌ ‌substance‌ ‌that‌ ‌is‌ ‌not‌ ‌lawfully‌ ‌prescribed.‌
 
-A violation of 4(14) is a ‌<mark style="color:red;">Felony</mark>.‌
+A violation of 4(14) is a ‌<mark ="color:red;">Felony</mark>.‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 22 Months
 {% end %}
 
@@ -230,9 +230,9 @@ A‌ ‌person‌ ‌commits‌ ‌False‌ ‌Arrest‌ ‌when‌ ‌they,‌ 
 
 &#x20;        iii) Dispossesses‌ ‌someone‌ ‌‌property‌‌ ‌or‌ ‌tenements‌ ‌ ‌
 
-A violation of 4(15) is a ‌<mark style="color:red;">Felony</mark>.‌
+A violation of 4(15) is a ‌<mark ="color:red;">Felony</mark>.‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 16 Months
 {% end %}
 
@@ -244,11 +244,11 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌violation‌ ‌of‌ ‌a‌ ‌Judi
 
 A violation of 4(16) is a ‌Misdemeanor.‌
 
-If‌ ‌there‌ ‌is‌ ‌a‌ ‌violation‌ ‌of‌ ‌4(16)‌ ‌and‌ ‌the‌ ‌offender‌ ‌caused‌ ‌harm‌ ‌to‌ ‌the‌ ‌person‌ ‌that‌ ‌the‌ ‌judicial‌ ‌ order‌ ‌was‌ ‌protecting,‌ ‌this‌ ‌crime‌ ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony‌</mark>.‌ ‌
+If‌ ‌there‌ ‌is‌ ‌a‌ ‌violation‌ ‌of‌ ‌4(16)‌ ‌and‌ ‌the‌ ‌offender‌ ‌caused‌ ‌harm‌ ‌to‌ ‌the‌ ‌person‌ ‌that‌ ‌the‌ ‌judicial‌ ‌ order‌ ‌was‌ ‌protecting,‌ ‌this‌ ‌crime‌ ‌is‌ ‌a‌ ‌<mark ="color:red;">Felony‌</mark>.‌ ‌
 
 If‌ ‌a‌ ‌restraining‌ ‌order‌ ‌is‌ ‌violated‌ ‌the‌ ‌Judge‌ ‌has‌ ‌‌reasonable‌ ‌grounds‌‌ ‌of‌ ‌revocation‌ ‌and‌ removal‌ ‌of‌ ‌firearm‌ ‌permits‌ ‌‌(Judicial‌ ‌Discretion)‌ ‌ ‌
 
-{%  style="danger" %}
+{%  ="danger" %}
 18 Months
 {% end %}
 
@@ -260,12 +260,12 @@ A‌ ‌person‌ ‌commits‌ ‌Failure‌ ‌to‌ ‌Appear/Pay‌ ‌for�
 
 &#x20;   b) Fail‌ ‌to‌ ‌pay‌ ‌for‌ ‌a‌ ‌citation‌ ‌for‌ ‌which‌ ‌they‌ ‌have‌ ‌been‌ ‌found‌ ‌guilty‌ ‌of.‌ ‌
 
-A violation of 4(17) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(17) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
 _This‌ ‌crime‌ ‌can‌ ‌only‌ ‌be‌ ‌applied‌ ‌when‌ ‌a‌ ‌warrant‌ ‌is‌ ‌out‌ ‌of‌ ‌the‌ ‌person‌ ‌arrested‌ ‌issued‌ ‌by‌ ‌the‌ ‌ Civilian‌ ‌Court‌ ‌(Civilian‌ ‌Requested.)‌ ‌_
 
-{%  style="warning" %}
-<mark style="color:yellow;">3 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">3 Months</mark>
 {% end %}
 
 ## **4(18).‌ ‌Contempt‌ ‌of‌ ‌Court‌ ‌** __&#x20;
@@ -276,12 +276,12 @@ A‌ ‌person‌ ‌commits‌ ‌Failure‌ ‌to‌ ‌Appear/Pay‌ ‌for�
 
 &#x20;   b) Obstruct‌ ‌a‌ ‌court‌ ‌proceeding‌ ‌in‌ ‌any‌ ‌way‌ ‌
 
-A violation of 4(18) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(18) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
 _‌But‌ ‌the‌ ‌judge‌ ‌will‌ ‌make‌ ‌the‌ ‌final‌ ‌ruling‌ ‌on‌ ‌sentencing‌ ‌for‌ ‌this‌ ‌crime.‌ ‌_
 
-{%  style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% end %}
 
 ## **4(19).‌ ‌Failure‌ ‌to‌ ‌Sign‌ ‌Citation‌**
@@ -290,10 +290,10 @@ In‌ ‌any‌ ‌case‌ ‌in‌ ‌which‌ ‌a‌ ‌person‌ ‌is‌ �
 
 &#x20;   a) _g_ive‌ ‌a‌ ‌written‌ ‌signature‌ ‌on‌ ‌the‌ ‌citation‌ ‌signifying‌ ‌that‌ ‌the‌ ‌offender‌ ‌will‌ ‌appear‌ ‌in‌ ‌court.‌ ‌
 
-A violation of 4(19) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.‌
+A violation of 4(19) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.‌
 
-{%  style="warning" %}
-<mark style="color:yellow;">6 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">6 Months</mark>
 {% end %}
 
 ## **4(20).‌ ‌Unauthorized‌ ‌Access‌ ‌to‌ ‌a‌ ‌Government‌ ‌Owned‌ ‌Electronic‌ ‌Device‌**
@@ -302,10 +302,10 @@ A‌ ‌person‌ ‌commits‌ ‌Unauthorized‌ ‌Access‌ ‌to‌ ‌a‌
 
 &#x20;   a) **K**nowingly‌ ‌and‌ ‌without‌ ‌permission‌ ‌access‌ ‌an‌ ‌electronic‌ ‌device‌ ‌owned‌ ‌by‌ ‌a‌ ‌government‌ ‌agency.‌ ‌ ‌Anyone‌ ‌in‌ ‌violation‌ ‌is‌ ‌guilty‌ ‌under‌ ‌this‌ ‌section‌ ‌of‌ ‌the‌ ‌code‌ ‌
 
-A violation of 4(20) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>&#x20;
+A violation of 4(20) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>&#x20;
 
-{%  style="warning" %}
-<mark style="color:yellow;">10 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">10 Months</mark>
 {% end %}
 
 ## **4(21).‌ ‌Unlawful‌ ‌Practice‌ ‌of‌ ‌Law‌ ‌**
@@ -322,8 +322,8 @@ A‌ ‌person‌ ‌commits‌ ‌Unlawful‌ ‌Practice‌ ‌of‌ ‌Law‌
 
 &#x20;        iv) Acting‌ ‌in‌ ‌such‌ ‌a‌ ‌way‌ ‌that‌ ‌a‌ ‌reasonable‌ ‌person‌ ‌would‌ ‌believe‌ ‌they‌ ‌are‌ ‌a‌ ‌licensed‌ ‌attorney.‌ ‌
 
-A violation of 4(21) is a ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>.
+A violation of 4(21) is a ‌<mark ="color:yellow;">Misdemeanor‌‌</mark>.
 
-{%  style="warning" %}
-<mark style="color:yellow;">10 Months</mark>
+{%  ="warning" %}
+<mark ="color:yellow;">10 Months</mark>
 {% end %}
