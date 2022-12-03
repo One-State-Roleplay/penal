@@ -38,7 +38,7 @@ A‌ ‌violation‌ ‌of‌ ‌13(01)‌ ‌is‌ ‌a‌  <mark style="color:
 
 It‌ ‌is‌ ‌the‌ ‌at‌ ‌the‌ ‌sole‌ ‌discretion‌ ‌of‌ ‌the‌ ‌Wildlife‌ ‌Rangers‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.
 
-{%  style="warning" %}
+
 5 Months
 {% end %}
 
@@ -74,7 +74,7 @@ A violation of 13(02) is an <mark style="color:green;">Infraction</mark>.
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌Revocation‌ ‌of‌ ‌hunting‌ ‌permits‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌Fish‌ ‌and‌ ‌Game‌ ‌Warden.‌
 
-{%  style="success" %}
+
 $300
 {% end %}
 
@@ -192,7 +192,7 @@ No person shall
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌
 
-{%  style="success" %}
+
 $300
 {% end %}
 
@@ -206,7 +206,7 @@ No person shall
 
 Enforcing‌ ‌Wardens‌ ‌must‌ ‌seize‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game.‌
 
-{%  style="warning" %}
+
 4 Months
 {% end %}
 
@@ -218,7 +218,7 @@ No person shall
 
 &#x20;  A violation of 13(05) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>.‌ ‌
 
-{%  style="success" %}
+
 $120
 {% end %}
 
@@ -246,7 +246,7 @@ A‌ ‌violation‌ ‌of‌ ‌13(06)‌ ‌is‌ ‌a‌ ‌<mark style="colo
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌‌ to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+
 4 Months
 {% end %}
 
@@ -264,7 +264,7 @@ A violation of 13(07) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeano
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -278,7 +278,7 @@ A violation of 13(08) ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeano
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -292,7 +292,7 @@ A violation ‌of 13(09) is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdeme
 
 Enforcing‌ ‌Wardens‌ ‌Discretion‌ ‌if‌ ‌the‌ ‌hunting‌ ‌equipment,‌ ‌and/or‌ ‌hunted‌ ‌fish‌ ‌and‌ ‌game‌ ‌are‌ ‌to‌ ‌be‌ ‌seized‌.‌ ‌
 
-{%  style="warning" %}
+
 6 Months
 {% end %}
 
@@ -322,7 +322,7 @@ A violation of 13(10) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infract
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.‌
 
-{%  style="success" %}
+
 $400
 {% end %}
 
@@ -346,7 +346,7 @@ No person shall
 
 Relevant‌ ‌game‌ ‌and/or‌ ‌equipment‌ ‌may‌ ‌be‌ ‌seized‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌law‌ ‌enforcement‌ ‌officer.
 
-{%  style="success" %}
+
 $300
 {% end %}
 

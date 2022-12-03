@@ -30,7 +30,7 @@ The‌ ‌‌vehicle‌‌ ‌may‌ ‌also‌ ‌be‌ ‌towed‌ ‌at‌ �
 
 When‌ ‌SAFD‌ ‌is‌ ‌responding‌ ‌to‌ ‌an‌ ‌official‌ ‌call,‌ ‌they‌ ‌reserve‌ ‌the‌ ‌right‌ ‌to‌ ‌do‌ ‌whatever‌ ‌that‌ ‌they deem ‌necessary‌ ‌to‌ ‌an‌ ‌illegally‌ ‌parked‌ ‌‌vehicle‌‌ ‌that‌ ‌is‌ ‌actively‌ ‌preventing‌ ‌or‌ ‌obstructing‌ ‌their operations.‌
 
-{%  style="success" %}
+
 $250
 {% end %}
 
@@ -92,7 +92,7 @@ A violation of 14(03) ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infract
 
 In‌ ‌instances‌ ‌where‌ ‌14(02)A‌ ‌or‌ ‌14(02)C‌ ‌are‌ ‌violated‌ ‌and‌ ‌the‌ ‌fire‌ ‌spreads‌ ‌to‌ ‌affect‌ ‌another person ‌or‌ ‌their‌ ‌‌property‌,‌ ‌the‌ ‌offender‌ ‌may‌ ‌also‌ ‌be‌ ‌subject‌ ‌to‌ ‌‌14(04).‌ ‌Negligent‌ ‌Arson‌.‌ ‌ In‌ ‌instances‌ ‌where‌ ‌14(02)B‌ ‌or‌ ‌14(02)D‌ ‌are‌ ‌violated‌ ‌and‌ ‌the‌ ‌fire‌ ‌spreads‌ ‌to‌ ‌affect‌ ‌another person ‌or‌ ‌their‌ ‌‌property‌‌ ‌as‌ ‌a‌ ‌direct‌ ‌result‌ ‌of‌ ‌a‌ ‌regulation‌ ‌that‌ ‌was‌ ‌violated,‌ ‌the‌ ‌offender‌ ‌may‌ ‌also‌ ‌be‌ ‌subject‌ ‌to‌ ‌‌14(04).‌ ‌Negligent‌ ‌Arson‌.‌
 
-{%  style="success" %}
+
 $300
 {% end %}
 

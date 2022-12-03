@@ -48,7 +48,7 @@ No person shall
 
 A violation of 15(04) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 A violation of 15(04) carries a penalty of <mark style="color:yellow;">6 months</mark> of incarceration
 {% end %}
 
@@ -74,11 +74,11 @@ No person shall
 
 A violation of 15(06) may be charged as an <mark style="color:green;">Infraction</mark> or a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="success" %}
+
 A violation of 15(05) as an <mark style="color:green;">Infraction</mark> carries a fine of <mark style="color:green;">$175</mark>
 {% end %}
 
-{%  style="warning" %}
+
 A violation of 15(05) as a <mark style="color:yellow;">Misdemeanor</mark> carries a penalty of a <mark style="color:yellow;">Criminal Summons</mark>, or incarceration of <mark style="color:yellow;">1 month</mark>
 {% end %}
 
@@ -97,7 +97,7 @@ No person shall
 
 A violation of 15(06) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 A violation of 15(06) carries a penalty of a <mark style="color:green;"><mark style="color:yellow;">Criminal Summons<mark style="color:yellow;"></mark>, or incarceration of <mark style="color:yellow;">1 month</mark>
 {% end %}
 
@@ -153,7 +153,7 @@ A violation of 15(08); subsections iv, v, vi, viii, ix, and x is a <mark style="
 
 A violation of 15(08); subsections i, ii, iii is a <mark style="color:red;">Felony</mark>
 
-{%  style="warning" %}
+
 A violation of 15(08) as a <mark style="color:yellow;">Misdemeanor</mark> carries a penalty of <mark style="color:yellow;">2 months</mark> of incarceration
 {% end %}
 

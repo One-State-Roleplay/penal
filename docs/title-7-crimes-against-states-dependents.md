@@ -14,9 +14,7 @@ A‌ ‌person‌ ‌commits‌ ‌Animal‌ ‌Abuse‌ ‌or‌ ‌Animal‌ �
 \
 &#x20;    A violation of 7(01) is a ‌<mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
-12 Months
-{% end %}
+!!! danger "12 months"
 
 ## **7(02).‌ ‌Leash‌ ‌Laws‌ ‌**
 
@@ -29,9 +27,7 @@ A‌ ‌person‌ ‌commits‌ ‌Leash‌ ‌Laws‌ ‌when‌ ‌they,‌ �
 \
 &#x20;    A violation of 7(02) is a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$50
-{% end %}
+!!! success "$50"
 
 ## **7(03).‌ ‌Minor‌ ‌Alcohol‌ ‌Violation‌ ‌**
 
@@ -46,9 +42,7 @@ A‌ ‌person‌ ‌under‌ ‌the‌ ‌age‌ ‌of‌ ‌21‌ ‌commits�
 \
 &#x20;     A violation of 7(03) is a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$125
-{% end %}
+!!! success "$125"
 
 ## **7(04).‌ ‌Child‌ ‌Neglect‌ ‌**
 
@@ -60,9 +54,7 @@ A‌ ‌person‌ ‌commits‌ ‌Child‌ ‌Neglect‌ ‌when‌ ‌they,‌
 \
 &#x20; A violation of 7(04) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
-22 Months
-{% end %}
+!!! danger "22 months"
 
 ## **7(05).‌ ‌Abuse‌ ‌of‌ ‌Dependent‌ ‌Adults‌ ‌**
 
@@ -76,9 +68,7 @@ A‌ ‌person‌ ‌commits‌ ‌Abuse‌ ‌of‌ ‌Dependent‌ ‌Adults�
 \
 &#x20; A violation of 7(05) is a <mark style="color:red;">Felony‌</mark>.‌&#x20;
 
-{%  style="danger" %}
-22 Months
-{% end %}
+!!! danger "22 months"
 
 ## **7(06).‌ ‌Failure‌ ‌to‌ ‌Control‌ ‌a‌ ‌Dangerous‌ ‌Animal‌ ‌**
 
@@ -90,13 +80,9 @@ A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ ‌
 
 A‌ ‌violation‌ ‌of‌ ‌7(06)A‌ ‌that‌ ‌results‌ ‌in‌ **‌**death‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌.</mark>
 
-{%  style="warning" %}
-9 Months
-{% end %}
+!!! danger "9 months"
 
-{%  style="danger" %}
-13 Months
-{% end %}
+!!! danger "13 months"
 
 ## **7(07).‌ ‌Transportation‌ ‌of‌ ‌Live‌ ‌Farm‌ ‌Animals‌ ‌**
 
@@ -118,6 +104,4 @@ The‌ ‌Bill‌ ‌of‌ ‌Lading‌ ‌must‌ ‌show‌ ‌the‌ ‌name�
 
 &#x20;     A violation of 7(07) is a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$350
-{% end %}
+!!! success "$350"

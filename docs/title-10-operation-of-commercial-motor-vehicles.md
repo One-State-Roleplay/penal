@@ -19,11 +19,11 @@ No‌ ‌Person‌ ‌shall,\
 \
 Suspension‌ ‌of‌ ‌CDL‌ ‌License‌ ‌(if‌ ‌applicable)‌ ‌and‌ ‌$1000‌ ‌fine, this‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌.‌</mark> ‌ If‌ ‌HAZMAT‌ ‌Materials‌ ‌and‌ ‌or‌ ‌Passengers‌ ‌are‌ ‌being‌ ‌transported‌, this‌ ‌crime‌ ‌is‌ ‌now‌ ‌a‌ <mark style="color:yellow;">Misdemeanor‌.‌</mark>
 
-{%  style="success" %}
+
 $200
 {% end %}
 
-{%  style="warning" %}
+
 2 Months
 {% end %}
 
@@ -38,7 +38,7 @@ No‌ ‌Person‌ ‌shall,‌\
 \
 A violation of 10(02). is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 $150
 {% end %}
 
@@ -78,7 +78,7 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(03). is an <mark style="color:green;">Infraction ‌ ‌</mark>
 
-{%  style="success" %}
+
 $200
 {% end %}
 
@@ -95,7 +95,7 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(04). is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 $350
 {% end %}
 
@@ -111,7 +111,7 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(05). is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 $500
 {% end %}
 
@@ -128,6 +128,6 @@ No‌ ‌Person‌ ‌Shall,‌\
 \
 A violation of 10(06). is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
+
 $275
 {% end %}

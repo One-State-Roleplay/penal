@@ -188,9 +188,7 @@ A driver who is
 
 A violation of 8(11) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$175
-{% end %}
+!!! success "$125"
 
 ## **8(12).‌ ‌Driving‌ ‌on‌ ‌the‌ ‌Wrong‌ ‌Side‌**
 
@@ -213,9 +211,7 @@ $175
 
 A violation of 8(12) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$190
-{% end %}
+!!! success "$190"
 
 ## **8(13).‌ ‌Maintaining‌ ‌Lanes‌**
 
@@ -227,9 +223,7 @@ $190
 
 A violation of 8(13) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(14).‌ ‌Driving‌ ‌Slower‌ ‌than‌ ‌the‌ ‌Speed‌ ‌of‌ ‌Traffic‌**
 
@@ -239,9 +233,7 @@ $150
 
 A violation of 8(14) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$125"
 
 ## **8(15).‌ ‌Following‌ ‌Distance/Tailgating‌ ‌**
 
@@ -253,9 +245,7 @@ The driver of any vehicle shall not
 
 A violation 8(15) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$125
-{% end %}
+!!! success "$125"
 
 ## **8(16).‌ ‌Right‌ ‌of‌ ‌Way‌ ‌**
 
@@ -285,9 +275,7 @@ The driver of any vehicle
 
 A violation of 8(16) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$200
-{% end %}
+!!! success "$200"
 
 ## **8(17).‌ ‌Right‌ ‌of‌ ‌Way‌ ‌-‌ ‌Emergency‌ ‌Vehicles‌**
 
@@ -297,9 +285,7 @@ Upon‌ ‌the‌ ‌immediate‌ ‌approach‌ ‌of‌ ‌an‌ ‌authorized
 
 A violation of 8(17) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$450
-{% end %}
+!!! success "$450"
 
 ## **8(18).‌ ‌Turning‌ ‌**
 
@@ -319,9 +305,7 @@ $450
 
 A violation of 8(18) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(19).‌ ‌Speed‌ ‌Limits‌ ‌**
 
@@ -347,19 +331,16 @@ A violation of 8(19) is an <mark style="color:green;">Infraction</mark> when the
 
 A violation of 8(19) is a <mark style="color:yellow;">Misdemeanor</mark> when the vehicle is travelling at or above 100 MPH
 
-{%  style="success" %}
+!!! success "
 A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 1-9 MPH greater than the speed limit carries a fine of <mark style="color:green;">$118</mark>
 
 A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 10-19 MPH greater than the speed limit carries a fine of <mark style="color:green;">$193</mark>
 
 A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 20-29 MPH greater than the speed limit carries a fine of <mark style="color:green;">$268</mark>
 
-A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 30+ MPH greater than the speed limit carries a fine of <mark style="color:green;">$343</mark>
-{% end %}
+A violation of 8(19) as an <mark style="color:green;">Infraction</mark> for speeding 30+ MPH greater than the speed limit carries a fine of <mark style="color:green;">$343</mark>"
 
-{%  style="warning" %}
-A violation of 8(19) as <mark style="color:yellow;">Misdemeanor</mark> for speeding at or above 100 MPH carries a penalty of <mark style="color:yellow;">3 months</mark> of incarceration
-{% end %}
+!!! danger "A violation of 8(19) as <mark style="color:yellow;">Misdemeanor</mark> for speeding at or above 100 MPH carries a penalty of <mark style="color:yellow;">3 months</mark> of incarceration"
 
 ## **8(20).‌ ‌Stop‌ ‌Signs‌**
 
@@ -367,9 +348,7 @@ A violation of 8(19) as <mark style="color:yellow;">Misdemeanor</mark> for speed
 
 A violation of 8(20) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(21).‌ ‌Parking‌ ‌**
 
@@ -395,9 +374,7 @@ No vehicle may park
 
 A violation of 8(21) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(22).‌ ‌Reckless‌ ‌Driving‌ ‌**
 
@@ -425,9 +402,7 @@ Any person who
 
 A violation of 8(23) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-5 Months
-{% end %}
+!!! danger "5 months"
 
 ## **8(24).‌ ‌Motor‌ ‌Vehicle‌ ‌Exhibition‌**
 
@@ -437,9 +412,7 @@ No person shall ‌
 
 A violation of 8(24) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-The violator may be charged with a summons, or jail time of 5 months
-{% end %}
+!!! danger "The violator may be charged with a summons, or jail time of 5 months"
 
 ## **8(25).‌ ‌Throwing‌ ‌Objects‌**&#x20;
 
@@ -451,15 +424,11 @@ Any person who
 
 A violation of 8(25)a is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-4 Months
-{% end %}
+!!! danger "4 months"
 
 A violation of 8(25)b is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-15 Months
-{% end %}
+!!! danger "15 months"
 
 ## **8(26).‌ ‌Driving‌ ‌Under‌ ‌the‌ ‌Influence‌ ‌**
 
@@ -473,15 +442,11 @@ No person at or above the age of 21 years shall
 
 A violation of 8(26) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-6 Months
-{% end %}
+!!! danger "6 months"
 
 A violation of 8(26)b is a <mark style="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
 
-{%  style="warning" %}
-9 Months
-{% end %}
+!!! danger "9 months"
 
 ## **8(27).‌ ‌Driving‌ ‌Under‌ ‌the‌ ‌Influence‌ ‌as‌ ‌a‌ ‌Minor‌**
 
@@ -495,15 +460,11 @@ Any person at or below the age of 20 years shall
 
 A violation of 8(27) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-6 Months
-{% end %}
+!!! danger "6 months"
 
 A violation of 8(27)b is a <mark style="color:yellow;">Misdemeanor</mark>, coupled with a revocation of a Commercial Driver's License
 
-{%  style="warning" %}
-9 Months
-{% end %}
+!!! danger "9 months"
 
 ## **8(28).‌ ‌Enhanced‌ ‌Driving‌ ‌Under‌ ‌the‌ ‌Influence‌ ‌ ‌**
 
@@ -521,9 +482,7 @@ A charge of 8(28) may not be stacked with a charge of 8(22) - Reckless Driving o
 
 A violation of 8(28) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-20 Months
-{% end %}
+!!! danger "20 months"
 
 ## **8(29).‌ ‌Open‌ ‌Container‌**
 
@@ -535,9 +494,7 @@ Any person who, while in the operators or front passengers seat of a motor vehic
 
 A violation of 8(29) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$300
-{% end %}
+!!! success "$300"
 
 ## **8(30).‌ ‌Lawful‌ ‌Traffic‌ ‌Orders‌ ‌**
 
@@ -547,9 +504,7 @@ A person who, while operating a motor vehicle
 
 A violation of 8(30) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-The violator may be charged with a summons, or jail time of 4 months
-{% end %}
+!!! danger "The violator may be charged with a summons, or jail time of 4 months"
 
 ## **8(31).‌ ‌Evading‌ ‌A‌ ‌Peace‌ ‌Officer‌ ‌**
 
@@ -559,9 +514,7 @@ A person who, while operating a land, air, or sea vehicle
 
 A violation of 8(31) is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-6 Months
-{% end %}
+!!! danger "6 months"
 
 ## **8(32).‌ ‌Felony‌ ‌Evading‌ ‌A‌ ‌Peace‌ ‌Officer‌ ‌**
 
@@ -577,9 +530,7 @@ A charge of 8(32) may not be stacked with a charge of 8(22) - Reckless Driving
 
 A violation of 8(32) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-22 Months
-{% end %}
+!!! danger "22 months"
 
 ## **8(33).‌ ‌Vehicle‌ ‌Equipment‌ ‌/‌ ‌Unroadworthy‌ ‌Vehicle‌**
 
@@ -638,9 +589,7 @@ v) Windshield‌ ‌or‌ ‌front‌ ‌windows‌ ‌that‌ ‌are‌ ‌obst
 &#x20;<mark style="color:green;"></mark> If‌ ‌the‌ ‌vehicle‌ ‌is‌ ‌in‌ ‌violation‌ ‌of‌ ‌8(33)A.ix,‌ ‌the‌ ‌vehicle‌ ‌may‌ ‌be‌ ‌towed‌ ‌and‌ ‌impounded‌ ‌at‌ ‌the‌ ‌ discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌\
 &#x20;If‌ ‌the‌ ‌vehicle‌ ‌has‌ ‌two‌ ‌simultaneous‌ ‌violations‌ ‌of‌ ‌8(33),‌ ‌the‌ ‌vehicle‌ ‌may‌ ‌be‌ ‌towed‌ ‌and‌ ‌ impounded‌ ‌at‌ ‌the‌ ‌discretion‌ ‌of‌ ‌the‌ ‌primary‌ ‌law‌ ‌enforcement‌ ‌officer.‌ ‌
 
-{%  style="success" %}
-$400
-{% end %}
+!!! success "$400"
 
 ## &#x20;**‌8(34).‌ ‌Road‌ ‌Rage‌**&#x20;
 
@@ -650,9 +599,7 @@ Any person who, while operating a motor vehicle
 
 A violation of 8(34) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$500
-{% end %}
+!!! success "$500"
 
 ## 8(35).‌ ‌Unrestrained‌ ‌Person(s)‌ ‌in‌ ‌Vehicle‌ ‌
 
@@ -668,9 +615,7 @@ Any person who
 
 A violation of 8(35) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$235
-{% end %}
+!!! success "$235"
 
 ## **8(36).‌ ‌Unsafe‌ ‌Speed‌ ‌for‌ ‌Conditions‌ ‌**
 
@@ -684,9 +629,7 @@ Any person who
 
 A violation of 8(36) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(37).‌ ‌Helmet‌ ‌Law‌**
 
@@ -696,9 +639,7 @@ Any person who
 
 A violation of 8(37) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(38).‌  ‌Bicycle‌ ‌Laws‌ ‌**
 
@@ -726,9 +667,7 @@ $150
 
 A violation of 8(38) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! succes "$150"
 
 ## **8(39).‌ ‌Impeding‌ ‌Traffic‌ ‌**
 
@@ -738,9 +677,7 @@ No person shall
 
 A violation of 8(39) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(40).‌ ‌Unsecured‌ ‌Load‌ ‌**
 
@@ -750,9 +687,7 @@ A vehicle shall not be operated on any highway/roadway unless
 
 A violation of 8(40) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$175
-{% end %}
+!!! success "$175"
 
 ## **8(41).‌ ‌Unnecessary‌ ‌Use‌ ‌of‌ ‌Horn‌ ‌**
 
@@ -760,9 +695,7 @@ $175
 
 A violation of 8(41) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## 8(42).‌ ‌Excessive‌ ‌Music/Sounds‌&#x20;
 
@@ -770,9 +703,7 @@ $150
 
 A violation of 8(42) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$125"
 
 ## **8(43).‌ ‌Window‌ ‌Tint‌ ‌**
 
@@ -782,9 +713,7 @@ $150
 
 A violation of 8(43) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$175
-{% end %}
+!!! success "$175"
 
 ## **8(44).‌ ‌Hands‌ ‌Free‌ ‌Device‌**
 
@@ -796,9 +725,7 @@ No person shall
 
 A violation of 8(44) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(45).‌ ‌Operating‌ ‌a‌ ‌Vehicle‌ ‌with‌ ‌Open‌ ‌Doors‌ ‌**
 
@@ -812,9 +739,7 @@ No person shall&#x20;
 
 A violation of 8(45) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$300
-{% end %}
+!!! success "$300"
 
 ## **8(46).‌ ‌Move‌ ‌Over‌ ‌or‌ ‌Slow‌ ‌down‌ ‌for‌ ‌Authorized‌ ‌Vehicles‌ ‌**
 
@@ -830,9 +755,7 @@ Any operator of a motor vehicle must, when‌ ‌approaching‌ ‌a‌ ‌stati
 
 A violation of 8(46) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$400
-{% end %}
+!!! success "$400"
 
 ## **8(47).‌ ‌Driving‌ ‌on‌ ‌the‌ ‌Shoulder‌ ‌/‌ ‌Emergency‌ ‌Lane‌ ‌**
 
@@ -844,9 +767,7 @@ No person shall
 
 A violation of 8(47) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(48).‌ ‌Vehicle‌ ‌Operation‌ ‌on‌ ‌Designated‌ ‌State‌ ‌Trails‌ ‌**
 
@@ -858,9 +779,7 @@ No person shall
 
 An violation of 8(48) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(49).‌ ‌Operation‌ ‌of‌ ‌a‌ ‌Vehicle‌ ‌in‌ ‌a‌ ‌State‌ ‌Park‌ ‌**
 
@@ -874,9 +793,7 @@ No person shall
 
 A violation of 8(49) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(50).‌ ‌Pedestrian‌ ‌Laws‌ ‌**
 
@@ -900,9 +817,7 @@ $150
 
 &#x20; A violation of 8(51) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **8(51).‌ ‌Diesel‌ ‌Fuel‌ ‌Tax‌**
 
@@ -914,9 +829,7 @@ A motor vehicle shall not
 
 A violation of 8(51) is an <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## 8(52) Seatbelt Violation
 
@@ -929,6 +842,4 @@ Any individual while occupying motor vehicle must
 \
 A violation of 8(52) is an <mark style="color:green;">Infraction</mark>&#x20;
 
-{%  style="success" %}
-$100
-{% end %}
+!!! success "$150"

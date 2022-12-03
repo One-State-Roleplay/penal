@@ -14,18 +14,12 @@ This‌ ‌crime‌ ‌is‌ ‌a‌ ‌‌<mark style="color:yellow;">Misdemean
 \
 **Schedule‌ ‌5‌‌** ‌narcotics‌ ‌are‌ ‌‌drugs,‌ ‌substances,‌ ‌or‌ ‌chemicals‌ ‌are‌ ‌defined‌ ‌as‌ ‌drugs‌ ‌with‌ ‌lower‌ ‌ potential‌ ‌for‌ ‌abuse‌ ‌than‌ ‌Schedule‌ ‌IV‌ ‌and‌ ‌consist‌ ‌of‌ ‌preparations‌ ‌containing‌ ‌limited‌ ‌quantities‌ ‌ of‌ ‌certain‌ ‌narcotics.‌ ‌Schedule‌ ‌V‌ ‌drugs‌ ‌are‌ ‌generally‌ ‌used‌ ‌for‌ ‌antidiarrheal,‌ ‌antitussive,‌ ‌and‌ ‌ analgesic‌ ‌purposes.‌ ‌Some‌ ‌examples‌ ‌of‌ ‌Schedule‌ ‌V‌ ‌drugs‌ ‌are,‌ ‌but‌ ‌not‌ ‌limited‌ ‌to,‌ ‌Robitussin‌ ‌ AC,‌ ‌Lomotil,‌ ‌Motofen,‌ ‌Lyrica,‌ ‌Parepectolin.‌ ‌ Possession‌ ‌of‌ ‌a‌ ‌schedule‌ ‌5‌ ‌narcotics‌ ‌are‌ ‌legal‌ ‌regardless‌ ‌of‌ ‌a‌ ‌prescription.‌
 
-{%  style="danger" %}
-Schedule 1 | 20 Months
-{% end %}
+!!! danger "Schedule 1 | 20 Months"
 
-
-
-{%  style="warning" %}
-Schedule 2 | 9 Months
-
-Schedule 3 | 6 Months\
-Schedule 4 | 4 Months
-{% end %}
+!!! danger 
+"Schedule 2 | 9 Months
+Schedule 3 | 6 Months
+Schedule 4 | 4 Months"
 
 ## 6(02).‌ ‌Possession‌ ‌of‌ ‌a‌ ‌Controlled‌ ‌Substance‌ ‌with‌ ‌Intent‌ ‌to‌ ‌Sell‌
 
@@ -35,9 +29,7 @@ A‌ ‌person‌ ‌commits‌ ‌Possession‌ ‌of‌ ‌a‌ ‌Controlled�
 \
 A‌ ‌violation‌ ‌of‌ ‌6(02)‌ ‌is‌ ‌a‌ <mark style="color:red;">‌‌Felony‌</mark>
 
-{%  style="danger" %}
-15 Months
-{% end %}
+!!! danger "15 months"
 
 ## 6(03).‌ ‌Possession‌ ‌of‌ ‌Drug‌ ‌Paraphernalia‌
 
@@ -46,9 +38,7 @@ A‌ ‌person‌ ‌commits‌ ‌Possession‌ ‌of‌ ‌Drug‌ ‌Parapher
 ****\
 ****A‌ ‌violation‌ ‌of‌ ‌6(04)‌ ‌is‌ ‌a‌ ‌<mark style="color:yellow;">Misdemeanor‌‌</mark>
 
-{%  style="warning" %}
-<mark style="color:yellow;">9 Months</mark>
-{% end %}
+!!! danger "9 months"
 
 ## 6(04).‌ ‌Maintaining‌ ‌a‌ ‌Place‌ ‌for‌ ‌the‌ ‌Purpose‌ ‌of‌ ‌Distribution‌
 
@@ -57,9 +47,7 @@ A‌ ‌person‌ ‌commits‌ ‌Maintaining‌ ‌a‌ ‌Place‌ ‌for‌ 
 \
 A‌ ‌violation‌ ‌of‌ ‌6(04)‌ ‌is‌ ‌a‌ ‌<mark style="color:red;">Felony‌</mark>
 
-{%  style="danger" %}
-13 Months
-{% end %}
+!!! danger "13 months"
 
 ## 6(05).‌ ‌Manufacture‌ ‌of‌ ‌a‌ ‌Controlled‌ ‌Substance‌
 
@@ -68,9 +56,7 @@ A‌ ‌person‌ ‌commits‌ ‌the‌ ‌Manufacture‌ ‌of‌ ‌a‌ ‌
 \
 A‌ ‌violation‌ ‌of‌ ‌6(05)‌ ‌is‌ a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-18 Months
-{% end %}
+!!! danger "18 months"
 
 ## 6(06).‌ ‌Sale‌ ‌of‌ ‌a‌ ‌Controlled‌ ‌Substance‌
 
@@ -79,9 +65,7 @@ A‌ ‌person‌ ‌commits‌ ‌Sale‌ ‌a‌ ‌Controlled‌ ‌Substance
 \
 A‌ ‌violation‌ ‌of‌ ‌6(06)‌ ‌is‌ a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-14 Months
-{% end %}
+!!! danger "14 months"
 
 ## 6(07).‌ ‌Under‌ ‌the‌ ‌Influence‌ ‌of‌ ‌a‌ ‌Controlled‌ ‌Substance‌
 
@@ -91,9 +75,7 @@ A‌ ‌person‌ ‌commits‌ ‌Under‌ ‌the‌ ‌Influence‌ ‌of‌ �
 
 A‌ ‌violation‌ ‌of‌ ‌6(07)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>     &#x20;
 
-{%  style="warning" %}
-5 Months
-{% end %}
+!!! danger "5 months"
 
 ## 6(08).‌ ‌Public‌ ‌Intoxication‌
 
@@ -103,9 +85,7 @@ A‌ ‌person‌ ‌commits‌ ‌Public‌ ‌Intoxication‌ ‌when‌ ‌th
 \
 A‌ ‌violation‌ ‌of‌ ‌6(08)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-5 Months
-{% end %}
+!!! danger "5 months"
 
 ## **6(09).‌ ‌Furnishing‌ ‌Alcohol‌ ‌to‌ ‌a‌ ‌Minor‌ ‌**
 
@@ -114,9 +94,7 @@ A‌ ‌person‌‌ ‌commits‌‌ ‌Furnishing‌ ‌Alcohol‌ ‌to‌ �
 \
 A‌ ‌violation‌ ‌of‌ ‌6(09)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{%  style="warning" %}
-8 Months
-{% end %}
+!!! danger "8 months"
 
 ## 6(10).‌ ‌Possession‌ ‌of‌ ‌Marijuana‌ ‌in‌ ‌Excessive‌ ‌Amounts‌
 
@@ -126,9 +104,7 @@ A‌ ‌person‌ ‌commits‌ ‌Possession‌ ‌of‌ ‌Marijuana‌ ‌in�
 \
 A‌ ‌violation‌ ‌of‌ ‌6(10)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-4 Months
-{% end %}
+!!! danger "4 months"
 
 ## 6(11).‌ ‌Underage‌ ‌Possession‌ ‌of‌ ‌Marijuana‌
 
@@ -138,9 +114,7 @@ A‌ ‌person‌ ‌commits‌ ‌Underage‌ ‌Possession‌ ‌of‌ ‌Mari
 \
 A‌ ‌violation‌ ‌of‌ ‌6(11)‌ ‌is‌ a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$500
-{% end %}
+!!! success "$500"
 
 ## 6(12).‌ ‌Underage‌ ‌Possession‌ ‌of‌ ‌Marijuana‌ ‌in‌ ‌Excessive‌ ‌Amounts‌
 
@@ -150,9 +124,7 @@ A‌ ‌person‌ ‌commits‌ ‌Underage‌ ‌Possession‌ ‌of‌ ‌Mari
 \
 A‌ ‌violation‌ ‌of‌ ‌6(12)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-5 Months
-{% end %}
+!!! danger "5 months"
 
 ## **6(13).‌ ‌Marijuana‌ ‌Possession‌ ‌with‌ ‌Intent‌ ‌to‌ ‌Sell‌**
 
@@ -163,9 +135,7 @@ A‌ ‌violation‌ ‌of‌ ‌6(12)‌ ‌is‌ a <mark style="color:yellow;"
 \
 A‌ ‌violation‌ ‌of‌ ‌6(13)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-7 Months
-{% end %}
+!!! danger "7 months"
 
 ## 6(14).‌ ‌Sale‌ ‌or‌ ‌Transportation‌ ‌of‌ ‌Marijuana‌ ‌
 
@@ -175,9 +145,7 @@ A‌ ‌person‌ ‌commits‌ ‌Marijuana‌ ‌Sale‌ ‌or‌ ‌Transport
 \
 A‌ ‌violation‌ ‌of‌ ‌6(14)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{%  style="warning" %}
-7 Months
-{% end %}
+!!! danger "7 months"
 
 ## 6(15).‌ ‌Marijuana‌ ‌Use‌ ‌in‌ ‌Public‌
 
@@ -188,9 +156,7 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌Marijuana‌ ‌Use‌ ‌in‌ ‌Pu
 \
 A‌ ‌violation‌ ‌of‌ ‌6(15)‌ ‌is‌ a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## **6(16).‌ ‌Drinking‌ ‌in‌ ‌Public‌ ‌**
 
@@ -204,9 +170,7 @@ A‌ ‌person‌ ‌commits‌ ‌a‌ ‌Drinking‌ ‌in‌ ‌Public‌ ‌
 
 A‌ ‌violation‌ ‌of‌ ‌6(16)‌ ‌is‌ a <mark style="color:green;">Infraction</mark>
 
-{%  style="success" %}
-$150
-{% end %}
+!!! success "$150"
 
 ## 6(17).‌ ‌Detention‌ ‌of‌ ‌Mentally‌ ‌Disordered‌ ‌Persons‌ ‌
 
@@ -221,9 +185,7 @@ The‌ San Andreas Fire Services (SAFS) ‌has‌ ‌sole‌ ‌discretion‌ �
 \
 A‌ ‌violation‌ ‌of‌ ‌6(18)‌ ‌is‌ a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
-7 Months
-{% end %}
+!!! danger "7 months"
 
 ## 6(19).‌ ‌Parachuting‌ ‌Regulations‌ ‌
 
@@ -240,10 +202,6 @@ A‌ ‌violation‌ ‌of‌ ‌6(19)A-E‌ ‌is‌ ‌an‌ ‌‌<mark style
 A‌ ‌violation‌ ‌of‌ ‌6(19)F‌ ‌is‌ ‌a‌ <mark style="color:yellow;">Misdemeanor‌</mark>\
 The‌ ‌declaration‌ ‌of‌ ‌authorization‌ ‌required‌ ‌in‌ ‌6(19)D ‌must‌ ‌be‌ ‌made‌ ‌in‌ ‌/gme
 
-{%  style="success" %}
-$450
-{% end %}
+!!! success "$450"
 
-{%  style="warning" %}
-2 Months
-{% end %}
+!!! danger "2 months"

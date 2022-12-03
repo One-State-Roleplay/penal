@@ -12,7 +12,7 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌License‌ ‌and‌ ‌Permit�
 \
 A Violation of 9(01). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -29,7 +29,7 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌Age‌ ‌Restrictions‌ ‌wh
 \
 A violation of 9(02). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -42,7 +42,7 @@ A‌ ‌person‌ ‌commits‌ ‌Firearm‌ ‌Carry‌ ‌Violation‌ ‌whe
 \
 A violation of 9(03). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -90,7 +90,7 @@ This‌ ‌crime‌ ‌is‌ ‌a‌ ‌‌<mark style="color:red;">Felony‌‌
 \
 (OOC‌ ‌note)‌ ‌If‌ ‌a‌ ‌weapon‌ ‌is‌ ‌listed‌ ‌as‌ ‌an‌ ‌illegal‌ ‌weapon‌ ‌you‌ ‌can‌ ‌still‌ ‌use‌ ‌it‌ ‌as‌ ‌long‌ ‌as‌ ‌your‌ civilian‌ ‌contact‌ ‌level‌ ‌permits‌ ‌that‌ ‌weapons‌ ‌usage.‌ ‌However,‌ ‌if‌ ‌you‌ ‌are‌ ‌stopped‌ ‌by‌ ‌law ‌enforcement‌ ‌you‌ ‌may‌ ‌be‌ ‌arrested‌ ‌for‌ ‌possession‌ ‌of‌ ‌an‌ ‌illegal‌ ‌weapon.‌
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -123,7 +123,7 @@ A‌ ‌person‌ ‌commits‌ ‌Weapons‌ ‌Discharge‌ ‌Violation‌ �
 \
 A violation of 9(06). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 8 Months
 {% end %}
 
@@ -149,7 +149,7 @@ A‌ ‌person‌ ‌commits‌ ‌Illegal‌ ‌Sale‌ ‌of‌ ‌a‌ ‌Fir
 \
 A violation of 9(08). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -163,7 +163,7 @@ A‌ ‌person‌ ‌commits‌ ‌Toy‌ ‌and‌ ‌Mock ‌Weapon‌ ‌Viol
 &#x20;    c) Fire‌ ‌a‌ ‌toy,‌ ‌mock,‌ ‌fake,‌ ‌legitimate‌ ‌or‌ ‌imitation‌ ‌weapon‌ ‌that‌ ‌fires‌ ‌a‌ ‌paintball‌ ‌pellet‌ ‌or‌ ‌BB‌ ‌round‌ ‌at‌ ‌or‌ ‌from‌ ‌a‌ ‌building,‌ ‌‌vehicle‌‌ ‌or‌ ‌aircraft;‌ ‌or‌ ‌\
 &#x20;    d) Use‌ ‌a‌ ‌toy,‌ ‌mock,‌ ‌fake,‌ ‌legitimate‌ ‌or‌ ‌imitation‌ ‌weapon‌ ‌while‌ ‌in‌ ‌the‌ ‌act‌ ‌of‌ ‌another‌‌ <mark style="color:yellow;">Misdemeanor‌</mark> <mark style="color:red;">‌ ‌</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark>A violation of 9(09). is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%  style="warning" %}
+
 10 Months
 {% end %}
 
@@ -176,7 +176,7 @@ A‌ ‌person‌ ‌commits‌ ‌Transportation‌ ‌of‌ ‌Firearms‌ ‌
 \
 A‌ ‌violation‌ ‌of‌ ‌9(10)‌ ‌is‌ ‌a‌ ‌‌‌<mark style="color:yellow;">Misdemeanor‌‌</mark> ‌
 
-{%  style="warning" %}
+
 5 Months
 {% end %}
 

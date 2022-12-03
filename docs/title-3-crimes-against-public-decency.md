@@ -64,9 +64,7 @@ A‌ ‌person‌ ‌commits‌ ‌Sexual‌ ‌Battery‌ ‌when‌ ‌they,�
 \
 &#x20;    A violation of 3(05) is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{%  style="warning" %}
-<mark style="color:yellow;">8 Months</mark>
-{% end %}
+!!! danger "8 months"
 
 ## **3(06).‌ ‌Rape‌ ‌**
 
@@ -80,6 +78,4 @@ A‌ ‌person‌ ‌commits‌ ‌Rape‌ ‌when‌ ‌they,‌\
 \
 &#x20;    A violation of 3(06) is a <mark style="color:red;">Felony</mark>
 
-{%  style="danger" %}
-30 Months
-{% end %}
+!!! danger "30 months"
