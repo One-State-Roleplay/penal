@@ -7,15 +7,15 @@ A‌ ‌person‌ ‌commits‌ ‌Disturbing‌ ‌the‌ ‌Peace‌ ‌when�
 &#x20;    b) Maliciously‌ ‌and‌ ‌willfully‌ ‌disturbs‌ ‌another‌ ‌person‌ ‌by‌ ‌loud‌ ‌and‌ ‌unreasonable‌ ‌noise;‌ ‌or‌\
 &#x20;    c) Use‌ ‌offensive‌ ‌words‌ ‌in‌ ‌a‌ ‌‌public‌‌ ‌place‌ ‌which‌ ‌are‌ ‌inherently‌ ‌likely‌ ‌to‌ ‌provoke‌ ‌an‌ ‌immediate‌ ‌           violent‌ ‌reaction.‌\
 \
-A‌ ‌violation‌ ‌of‌ ‌5(01)‌ ‌is‌ ‌either an <mark ="color:green;">infraction</mark> or <mark ="color:yellow;">Misdemeanor</mark>.‌ ‌
+A‌ ‌violation‌ ‌of‌ ‌5(01)‌ ‌is‌ ‌either an <mark style="color:green;">infraction</mark> or <mark style="color:yellow;">Misdemeanor</mark>.‌ ‌
 
-  ="success" 
+{%  style="success" %}
 $350
- end 
+{% end %}
 
-  ="warning" 
-<mark ="color:yellow;">2 Months</mark>
- end 
+{%  style="warning" %}
+<mark style="color:yellow;">2 Months</mark>
+{% end %}
 
 ## 5(02).‌ ‌Unlawful‌ ‌Assembly‌
 
@@ -24,24 +24,24 @@ $350
 &#x20;    b) Assemble‌ ‌together‌ ‌to‌ ‌do‌ ‌an‌ ‌unlawful‌ ‌act,‌ ‌or‌ ‌do‌ ‌a‌ ‌lawful‌ ‌act‌ ‌in‌ ‌a‌ ‌violent,‌ ‌boisterous,‌ ‌or‌ ‌tumultuous‌ ‌manner‌ ‌is‌ ‌guilty;‌ ‌or‌\
 &#x20;    c) Remain‌ ‌present‌ ‌at‌ ‌the‌ ‌place‌ ‌of‌ ‌any‌ ‌unlawful‌ ‌assembly,‌ ‌after‌ ‌the‌ ‌same‌ ‌has‌ ‌been‌ ‌lawfully‌ ‌warned‌ ‌to‌ ‌disperse,‌ ‌except‌ ‌law‌ ‌enforcement‌ ‌officers‌ ‌and‌ ‌persons‌ ‌assisting‌ ‌them‌ ‌in‌ ‌attempting‌ ‌to‌ ‌disperse.‌\
 \
-A violation of 5(02) is a <mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌ <mark ="color:yellow;"></mark> \
+A violation of 5(02) is a <mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌ <mark style="color:yellow;"></mark> \
 \
 A‌ ‌group‌ ‌is‌ ‌classed‌ ‌of‌ ‌2‌ ‌or‌ ‌more‌ ‌people,‌ ‌there‌ ‌must‌ ‌be‌ ‌multiple‌ ‌for‌ ‌this‌ ‌crime‌ ‌to‌ ‌occur‌ ‌as‌ ‌it's ‌Assembly,‌ ‌if‌ ‌one‌ ‌person‌ ‌is‌ ‌present‌ ‌this‌ ‌can‌ ‌be‌ ‌taken‌ ‌as‌ ‌Trespassing‌ ‌or‌ ‌another‌ ‌section.‌ ‌The ‌exception‌ ‌is‌ ‌5(02)C‌ ‌where‌ ‌it‌ ‌can‌ ‌apply‌ ‌to‌ ‌one‌ ‌person
 
-  ="warning" 
-<mark ="color:yellow;">5 Months</mark>
- end 
+{%  style="warning" %}
+<mark style="color:yellow;">5 Months</mark>
+{% end %}
 
 ## 5(03).‌ ‌Inciting‌ ‌to‌ ‌Riot‌ ‌
 
 A‌ ‌person‌ ‌commits‌ ‌Inciting‌ ‌to‌ ‌Riot‌ ‌when‌ ‌they,‌\
 &#x20;    a) Intend‌ ‌to‌ ‌cause‌ ‌a‌ ‌riot‌ ‌and‌ ‌does‌ ‌an‌ ‌act‌ ‌or‌ ‌engages‌ ‌in‌ ‌conduct‌ ‌that‌ ‌urges‌ ‌a‌ ‌riot,‌ ‌or‌ ‌urges‌ ‌others‌ ‌to‌ ‌commit‌ ‌acts‌ ‌of‌ ‌force‌ ‌or‌ ‌violence,‌ ‌or‌ ‌the‌ ‌burning‌ ‌or‌ ‌destroying‌ ‌of‌ ‌‌property‌,‌ ‌and‌ ‌at‌ ‌a‌ ‌time‌ ‌and‌ ‌place‌ ‌under‌ ‌circumstances‌ ‌that‌ ‌produce‌ ‌a‌ ‌clear‌ ‌and‌ ‌present‌ ‌and‌ ‌immediate‌ ‌danger‌ ‌of‌ ‌acts‌ ‌of‌ ‌force‌ ‌or‌ ‌violence‌ ‌or‌ ‌the‌ ‌burning‌ ‌or‌ ‌destroying‌ ‌of‌ ‌‌property‌.‌\
 \
-A violation of 5(03) is a <mark ="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌ <mark ="color:yellow;"></mark>&#x20;
+A violation of 5(03) is a <mark style="color:yellow;">Misdemeanor‌‌</mark>.‌ ‌ <mark style="color:yellow;"></mark>&#x20;
 
-  ="warning" 
-<mark ="color:yellow;">10 Months</mark>
- end 
+{%  style="warning" %}
+<mark style="color:yellow;">10 Months</mark>
+{% end %}
 
 ## 5(04).‌ ‌Participation‌ ‌in‌ ‌a‌ ‌Riot‌
 
@@ -51,11 +51,11 @@ A‌ ‌person‌ ‌commits‌ ‌Participation‌ ‌in‌ ‌a‌ ‌Riot‌ 
 &#x20;        ii) Uses‌ ‌force‌ ‌or‌ ‌violence‌\
 &#x20;       iii) Threatens‌ ‌to‌ ‌use‌ ‌force‌ ‌or‌ ‌violence‌\
 \
-A violation of 5(04) is an <mark ="color:green;">infraction</mark>.‌ ‌ <mark ="color:yellow;"></mark>&#x20;
+A violation of 5(04) is an <mark style="color:green;">infraction</mark>.‌ ‌ <mark style="color:yellow;"></mark>&#x20;
 
-  ="success" 
+{%  style="success" %}
 $250
- end 
+{% end %}
 
 ## 5(05).‌ ‌Littering
 
@@ -65,11 +65,11 @@ A‌ ‌person‌ ‌commits‌ ‌Littering‌ ‌when‌ ‌they,‌\
 &#x20;        ii) Private‌ ‌‌property‌‌ ‌without‌ ‌the‌ ‌owner’s‌ ‌consent\
 &#x20;       iii) Public‌ ‌‌property‌\
 \
-This‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark ="color:green;">Infraction‌</mark>
+This‌ ‌crime‌ ‌is‌ ‌an‌ ‌‌<mark style="color:green;">Infraction‌</mark>
 
-  ="success" 
+{%  style="success" %}
 $150
- end 
+{% end %}
 
 ## 5(06).‌ ‌False Report
 
@@ -77,4 +77,4 @@ False report concerning planting a bomb, an explosive, or a weapon of mass destr
 \
 It is unlawful for any person to make a false report, with intent to deceive, mislead, or otherwise misinform any person, concerning the placing or planting of any bomb, dynamite, other deadly explosive, or weapon of mass destruction, or concerning the use of firearms in a violent manner against a person or persons. A person who violates this subsection commits a felony of the second degree.
 
-This crime is a <mark ="color:red;">Felony</mark>.\
+This crime is a <mark style="color:red;">Felony</mark>.\

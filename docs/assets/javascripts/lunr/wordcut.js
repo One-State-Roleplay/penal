@@ -5901,7 +5901,7 @@ process.umask = function() { return 0; };
     return prefix ? prefix + id : id;
   };
 
-  // By default, Underscore uses ERB- template delimiters, change the
+  // By default, Underscore uses ERB-style template delimiters, change the
   // following template settings to use alternative delimiters.
   _.templateSettings = {
     evaluate    : /<%([\s\S]+?)%>/g,
@@ -6001,7 +6001,7 @@ process.umask = function() { return 0; };
   // OOP
   // ---------------
   // If Underscore is called as a function, it returns a wrapped object that
-  // can be used OO-. This wrapper holds altered versions of all the
+  // can be used OO-style. This wrapper holds altered versions of all the
   // underscore functions. Wrapped objects may be chained.
 
   // Helper function to continue chaining intermediate results.
@@ -6250,7 +6250,7 @@ inspect.colors = {
 };
 
 // Don't use 'blue' not visible on cmd.exe
-inspect.s = {
+inspect.styles = {
   'special': 'cyan',
   'number': 'yellow',
   'boolean': 'yellow',
@@ -6263,19 +6263,19 @@ inspect.s = {
 };
 
 
-function stylizeWithColor(str, Type) {
-  var  = inspect.s[Type];
+function stylizeWithColor(str, styleType) {
+  var style = inspect.styles[styleType];
 
-  if () {
-    return '\u001b[' + inspect.colors[][0] + 'm' + str +
-           '\u001b[' + inspect.colors[][1] + 'm';
+  if (style) {
+    return '\u001b[' + inspect.colors[style][0] + 'm' + str +
+           '\u001b[' + inspect.colors[style][1] + 'm';
   } else {
     return str;
   }
 }
 
 
-function stylizeNoColor(str, Type) {
+function stylizeNoColor(str, styleType) {
   return str;
 }
 
