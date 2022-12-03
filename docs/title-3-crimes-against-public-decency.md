@@ -8,7 +8,7 @@ A‌ ‌person‌ ‌commits‌ ‌Lewd‌ ‌Conduct‌ ‌in‌ ‌Public‌ �
 \
 &#x20;   A violation of 3(01)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
 
-{%   style="warning" %}
+
 <mark style="color:yellow;">3 Months</mark>
 {% end  %}
 
@@ -20,7 +20,7 @@ A person commits Indecent Exposure when they,
 
 &#x20;    A violation of 3(02)a is a <mark style="color:yellow;">Misdemeanor</mark>
 
-{%   style="warning" %}
+
 <mark style="color:yellow;">3 Months</mark>
 {% end  %}
 
