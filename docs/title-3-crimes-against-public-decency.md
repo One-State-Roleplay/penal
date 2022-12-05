@@ -6,11 +6,9 @@ A‌ ‌person‌ ‌commits‌ ‌Lewd‌ ‌Conduct‌ ‌in‌ ‌Public‌ �
 \
 &#x20;   a) willfully‌ ‌exposed‌ ‌their‌ ‌genitals‌ ‌in‌ ‌the‌ ‌presence‌ ‌of‌ ‌someone‌ ‌who‌ ‌might‌ ‌be‌ ‌offended‌ ‌or‌ ‌annoyed‌ ‌by‌ ‌your‌ ‌actions;‌ ‌or‌ ‌\
 \
-&#x20;   A violation of 3(01)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
+&#x20;   A violation of 3(01)a is a ==Misdemeanor==
 
-
-<mark style="color:yellow;">3 Months</mark>
-
+!!! danger "3 Months"
 
 ## 3(02). Indecent‌ ‌Exposure‌ ‌
 
