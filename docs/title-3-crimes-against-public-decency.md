@@ -28,7 +28,7 @@ A‌ ‌person‌ ‌commits‌ ‌Prostitution‌ ‌when‌ ‌they,‌ ‌
 
 &#x20;   a) Knowingly‌ ‌engage‌ ‌in‌ ‌or‌ ‌offers‌ ‌to‌ ‌engage‌ ‌in‌ ‌a‌ ‌sexual‌ ‌act‌ ‌in‌ ‌exchange‌ ‌for‌ ‌payment‌ ‌or‌ ‌other‌ ‌goods‌ ‌and‌ ‌services.‌ ‌\
 \
-&#x20;    A violation of 3(03)a is a <mark style="color:yellow;">Misdemeanor</mark>&#x20;
+&#x20;    A violation of 3(03)a is a ==Misdemeanor==;
 
 
 <mark style="color:yellow;">6 Months</mark>
